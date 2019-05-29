@@ -88,7 +88,8 @@ public class BingSearch extends WebSearch{
         return parser;
     }
 
-    /*public static void main(String[] args) throws IOException, APIKeysDepletedException {
+    // MAYBE USE THIS AS TEST OF V5 of query?
+    /* public static void main(String[] args) throws IOException, APIKeysDepletedException {
         String[] accountKeys = new String[]{
                 "8Yr8amTvrm5SM4XK3vM3KrLqOCT/ZhkwCfLEDtslE7o="};
         BingSearch searcher = new BingSearch(accountKeys);
@@ -98,5 +99,5 @@ public class BingSearch extends WebSearch{
         List<WebSearchResultDoc> docs = parser.parse(is);
 
 
-    }*/
+    } */
 }

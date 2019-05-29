@@ -1,0 +1,5 @@
+0=/soccer/football_player	/sports/pro_athlete=/people/person			___NE
+2=/soccer/football_position	/sports/sports_position			___NE
+3=/location/citytown=/base/aareas/schema/earth/citytown	/location/location=/location/dated_location=/location/hud_foreclosure_area=/location/statistical_region=/location/hud_county_place=/government/governmental_jurisdiction=/location/census_designated_place=/base/aareas/schema/administrative_area=/base/tagit/place=/base/popstra/location=/government/political_district			___NE
+4=/education/university	/organization/organization=/education/educational_institution=/sports/sports_team_location=/education/academic_institution=/business/business_operation			___NE
+5=/soccer/football_team	/sports/sports_team=/sports/professional_sports_team			___NE

@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>No.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pos.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DoB/Age</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Caps</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Club</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>No.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pos.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DoB/Age</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Caps</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Club</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GK</html>
+          <wikipedia>Goalkeeper_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>J&amp;ouml;rg Stiel</html>
+          <wikipedia>J%C3%B6rg_Stiel</wikipedia>
+        </cell>
+        <cell>
+          <html>3 March 1968 (aged 36)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Borussia M&amp;ouml;nchengladbach</html>
+          <wikipedia>Borussia_M%C3%B6nchengladbach</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Bernt Haas</html>
+          <wikipedia>Bernt_Haas</wikipedia>
+        </cell>
+        <cell>
+          <html>8 April 1978 (aged 26)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>West Bromwich Albion</html>
+          <wikipedia>West_Bromwich_Albion_F.C.</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Bruno Berner</html>
+          <wikipedia>Bruno_Berner</wikipedia>
+        </cell>
+        <cell>
+          <html>21 November 1977 (aged 26)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Freiburg</html>
+          <wikipedia>SC_Freiburg</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>St&amp;eacute;phane Henchoz</html>
+          <wikipedia>St%C3%A9phane_Henchoz</wikipedia>
+        </cell>
+        <cell>
+          <html>7 September 1974 (aged 29)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Liverpool</html>
+          <wikipedia>Liverpool_F.C.</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Murat Yakin</html>
+          <wikipedia>Murat_Yakin</wikipedia>
+        </cell>
+        <cell>
+          <html>15 September 1974 (aged 29)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Basel</html>
+          <wikipedia>FC_Basel</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Johann Vogel</html>
+          <wikipedia>Johann_Vogel</wikipedia>
+        </cell>
+        <cell>
+          <html>8 March 1977 (aged 27)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PSV</html>
+          <wikipedia>PSV_Eindhoven</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Ricardo Cabanas</html>
+          <wikipedia>Ricardo_Cabanas</wikipedia>
+        </cell>
+        <cell>
+          <html>17 January 1979 (aged 25)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Grasshopper</html>
+          <wikipedia>Grasshopper_Club_Z%C3%BCrich</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Rapha&amp;euml;l Wicky</html>
+          <wikipedia>Rapha%C3%ABl_Wicky</wikipedia>
+        </cell>
+        <cell>
+          <html>26 April 1977 (aged 27)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hamburg</html>
+          <wikipedia>Hamburger_SV</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia>Forward_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Alexander Frei</html>
+          <wikipedia>Alexander_Frei</wikipedia>
+        </cell>
+        <cell>
+          <html>15 July 1979 (aged 24)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rennes</html>
+          <wikipedia>Stade_Rennais_FC</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Hakan Yakin</html>
+          <wikipedia>Hakan_Yakin</wikipedia>
+        </cell>
+        <cell>
+          <html>22 February 1977 (aged 27)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stuttgart</html>
+          <wikipedia>VfB_Stuttgart</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia>Forward_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>St&amp;eacute;phane Chapuisat</html>
+          <wikipedia>St%C3%A9phane_Chapuisat</wikipedia>
+        </cell>
+        <cell>
+          <html>28 June 1969 (aged 34)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Young Boys</html>
+          <wikipedia>BSC_Young_Boys</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GK</html>
+          <wikipedia>Goalkeeper_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Pascal Zuberb&amp;uuml;hler</html>
+          <wikipedia>Pascal_Zuberb%C3%BChler</wikipedia>
+        </cell>
+        <cell>
+          <html>8 January 1971 (aged 33)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Basel</html>
+          <wikipedia>FC_Basel</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Marco Zwyssig</html>
+          <wikipedia>Marco_Zwyssig</wikipedia>
+        </cell>
+        <cell>
+          <html>24 October 1971 (aged 32)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Basel</html>
+          <wikipedia>FC_Basel</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Ludovic Magnin</html>
+          <wikipedia>Ludovic_Magnin</wikipedia>
+        </cell>
+        <cell>
+          <html>20 April 1979 (aged 25)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Werder Bremen</html>
+          <wikipedia>SV_Werder_Bremen</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Daniel Gygax</html>
+          <wikipedia>Daniel_Gygax</wikipedia>
+        </cell>
+        <cell>
+          <html>28 August 1981 (aged 22)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Z&amp;uuml;rich</html>
+          <wikipedia>FC_Z%C3%BCrich</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Fabio Celestini</html>
+          <wikipedia>Fabio_Celestini</wikipedia>
+        </cell>
+        <cell>
+          <html>31 October 1975 (aged 28)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Marseille</html>
+          <wikipedia>Olympique_de_Marseille</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Christoph Spycher</html>
+          <wikipedia>Christoph_Spycher</wikipedia>
+        </cell>
+        <cell>
+          <html>30 March 1978 (aged 26)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Grasshopper</html>
+          <wikipedia>Grasshopper_Club_Z%C3%BCrich</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Benjamin Huggel</html>
+          <wikipedia>Benjamin_Huggel</wikipedia>
+        </cell>
+        <cell>
+          <html>7 July 1977 (aged 26)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Basel</html>
+          <wikipedia>FC_Basel</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia>Midfielder</wikipedia>
+        </cell>
+        <cell>
+          <html>Tranquillo Barnetta</html>
+          <wikipedia>Tranquillo_Barnetta</wikipedia>
+        </cell>
+        <cell>
+          <html>22 May 1985 (aged 19)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>St. Gallen</html>
+          <wikipedia>FC_St._Gallen</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia>Defender_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Patrick M&amp;uuml;ller</html>
+          <wikipedia>Patrick_M%C3%BCller</wikipedia>
+        </cell>
+        <cell>
+          <html>17 December 1976 (aged 27)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lyon</html>
+          <wikipedia>Olympique_Lyonnais</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia>Forward_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Milaim Rama</html>
+          <wikipedia>Milaim_Rama</wikipedia>
+        </cell>
+        <cell>
+          <html>29 February 1976 (aged 28)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Thun</html>
+          <wikipedia>FC_Thun</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia>Forward_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Johan Vonlanthen</html>
+          <wikipedia>Johan_Vonlanthen</wikipedia>
+        </cell>
+        <cell>
+          <html>1 February 1986 (aged 18)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PSV</html>
+          <wikipedia>PSV_Eindhoven</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GK</html>
+          <wikipedia>Goalkeeper_(association_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>S&amp;eacute;bastien Roth</html>
+          <wikipedia>S%C3%A9bastien_Roth</wikipedia>
+        </cell>
+        <cell>
+          <html>1 April 1978 (aged 26)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Servette</html>
+          <wikipedia>Servette_FC</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>UEFA Euro 2004 squads - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Head coach: Jakob "K bi" Kuhn</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>UEFA Euro 2004 squads</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On May 18 , 2004 , Switzerland named a 23-man squad. Note: Before the deadline of June 2 for naming a final squad, two players were cut and two others dropped out due to injury. All four were replaced in time. On June 6 Johann Lonfat has been replaced by Tranquillo Barnetta after he failed to recover from a back injury. On June 13 Fabrice Borer has been replaced by Sebastien Roth after breaking an arm.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group C</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group A</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group B</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group C</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group D</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Switzerland</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Head coach: Jacques Santini</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Bulgaria</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On May 18 , 2004 , France named a 23-man squad. Note:On May 28 , Ludovic Giuly , an injured member of the original squad, was replaced.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] France</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Head coach: Sven-G ran Eriksson</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On May 19 , 2004 , Bulgaria named a 23-man squad.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On May 17 , 2004 , England named a 23-man squad.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] England</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Head coach: Plamen Markov</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Goalkeeper Stipe Pletikosa sustained an injury a few days before the beginning of the tournament and his place in the squad was subsequently taken by Vladimir Vasilj.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>District</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Incumbent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Firstelected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Result</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Candidates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>California 1</html>
+          <wikipedia>California%27s_1st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>William F. Englebright</html>
+          <wikipedia>William_F._Englebright</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1906</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1906</wikipedia>
+        </cell>
+        <cell>
+          <html>Lost re-election, , Democratic gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John E. Raker (D) 45.4%, , William F. Englebright (R) 45.1%, , William Morgan (S) 8.8%, , C. H. Essex (Pro) 0.7%</html>
+          <wikipedia>John_E._Raker</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 2</html>
+          <wikipedia>California%27s_2nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Duncan E. McKinlay</html>
+          <wikipedia>Duncan_E._McKinlay</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1904</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1904</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated in primary, , Republican hold</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>William Kent (R) 50.1%, , I. G. Zumwalt (D) 44%, , W. H. Ferber (S) 5.2%, , Henry P. Stipp (Pro) 0.7%</html>
+          <wikipedia>William_Kent_(U.S._Congressman)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 3</html>
+          <wikipedia>California%27s_3rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Joseph R. Knowland</html>
+          <wikipedia>Joseph_R._Knowland</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1904</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1904</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Joseph R. Knowland (R) 81.9%, , S. Miller (S) 15.9%, , James N. Christian (Pro) 2.2%</html>
+          <wikipedia>Joseph_R._Knowland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 4</html>
+          <wikipedia>California%27s_4th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Julius Kahn</html>
+          <wikipedia>Julius_Kahn</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1898</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1898</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Julius Kahn (R) 56.5%, , Walter MacArthur (D) 36.8%, , Austin Lewis (S) 6.5%, , E. F. Dinsmore (Pro) 0.2%</html>
+          <wikipedia>Julius_Kahn</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 5</html>
+          <wikipedia>California%27s_5th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Everis A. Hayes</html>
+          <wikipedia>Everis_A._Hayes</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1904</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1904</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Everis A. Hayes (R) 59.4%, , Thomas E. Hayden (D) 27.4%, , E. L. Reguin (S) 12.6%, , T. E. Caton (Proh.) 0.6%</html>
+          <wikipedia>Everis_A._Hayes</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 6</html>
+          <wikipedia>California%27s_6th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>James C. Needham</html>
+          <wikipedia>James_C._Needham</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1898</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1898</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>James C. Needham (R) 47.3%, , A. L. Cowell (D) 44.2%, , Richard Kirk (S) 6.2%, , Ira E. Surface (Proh.) 2.3%</html>
+          <wikipedia>James_C._Needham</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 7</html>
+          <wikipedia>California%27s_7th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>James McLachlan</html>
+          <wikipedia>James_McLachlan</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1900</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1900</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated in primary, , Republican hold</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>William Stephens (R) 58.7%, , Lorin A. Handley (D) 21.5%, , Thomas W. Williams (S) 16.6%, , C. V. LeFontaine (Proh.) 3.2%</html>
+          <wikipedia>William_Stephens</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 8</html>
+          <wikipedia>California%27s_8th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Sylvester C. Smith</html>
+          <wikipedia>Sylvester_C._Smith</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1904</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1904</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sylvester C. Smith (R) 50.5%, , William G. Irving (D) 33.9%, , George A. Garrett (S) 13.1%, , James S. Edwards (Proh.) 2.5%</html>
+          <wikipedia>Sylvester_C._Smith</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 1910 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] California</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 1910</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Overall results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Overall results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] California</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The conservative Taft contended with major factional splits within his Republican Party . The clash of the liberal and conservative wings of the Republican Party, combined with the message of unity from the Democratic Party , enough to allow the Democrats to take control of the House. The first ever socialist was also elected to Congress during this election cycle.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The U.S. House election, 1910 was an election for the United States House of Representatives in 1910 which occurred in the middle of President William Howard Taft 's term.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 1910</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Preceded by</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

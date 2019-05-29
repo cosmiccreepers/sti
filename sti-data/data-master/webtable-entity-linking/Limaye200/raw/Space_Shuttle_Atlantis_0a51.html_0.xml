@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>#</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Launch date</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Designation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Launch Pad</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Landing Location</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Duration</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Distance[36]</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Notes</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3 October 1985</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-51-J</html>
+          <wikipedia>STS-51-J</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 1 hour, 44 minutes, 38 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,682,641 miles (2,707,948 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Defense Satellite Communications System</html>
+          <wikipedia>Defense_Satellite_Communications_System</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26 November 1985</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-61-B</html>
+          <wikipedia>STS-61-B</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6 days, 21 hours, 4 minutes, 49 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,466,956 miles (3,970,181 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MORELOS-B</html>
+          <wikipedia>MORELOS-B</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2 December 1988</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-27</html>
+          <wikipedia>STS-27</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 9 hours, 5 minutes, 37 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,812,075 miles (2,916,252 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lacrosse 1, National Reconnaissance Office, Central Intelligence Agency, Thermal Protection System</html>
+          <wikipedia>Lacrosse_(satellite)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 May 1989</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-30</html>
+          <wikipedia>STS-30</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 0 hours, 56 minutes, 28 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,477,500 miles (2,377,800 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Magellan probe, Venus</html>
+          <wikipedia>Magellan_(spacecraft)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>18 October 1989</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-34</html>
+          <wikipedia>STS-34</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 23 hours, 39 minutes, 20 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,800,000 miles (2,900,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Galileo probe, Jupiter</html>
+          <wikipedia>Galileo_probe</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>28 February 1990</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-36</html>
+          <wikipedia>STS-36</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 10 hours, 18 minutes, 22 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,837,962 miles (2,957,913 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Misty, reconnaissance satellite</html>
+          <wikipedia>Misty_(satellite)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>15 November 1990</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-38</html>
+          <wikipedia>STS-38</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 days, 21 hours, 54 minutes, 31 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,045,056 miles (3,291,199 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Magnum, ELINT</html>
+          <wikipedia>Magnum_(satellite)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5 April 1991</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-37</html>
+          <wikipedia>STS-37</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5 days, 23 hours, 32 minutes, 44 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,487,075 miles (4,002,559 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Compton Gamma Ray Observatory, Great Observatories program</html>
+          <wikipedia>Compton_Gamma_Ray_Observatory</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2 August 1991</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-43</html>
+          <wikipedia>STS-43</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 days, 21 hours, 21 minutes, 25 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,700,400 miles (5,955,200 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tracking and Data Relay Satellite</html>
+          <wikipedia>Tracking_and_Data_Relay_Satellite</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24 November 1991</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-44</html>
+          <wikipedia>STS-44</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6 days, 22 hours, 50 minutes, 44 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,890,067 miles (4,651,112 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Defense Support Program</html>
+          <wikipedia>Defense_Support_Program</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24 March 1992</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-45</html>
+          <wikipedia>STS-45</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 days, 22 hours, 9 minutes 28 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,274,946 miles (5,270,515 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Carried first Atmospheric Laboratory for Applications and Science (ATLAS-1). ATLAS-1 equipped with 12 instruments conducted studies in atmospheric chemistry, solar radiation, space plasma physics and ultraviolet astronomy.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>31 July 1992</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-46</html>
+          <wikipedia>STS-46</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 days, 23 hours, 15 minutes, 3 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,321,007 miles (5,344,643 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tethered Satellite System, NASA, Italian Space Agency, European Retrievable Carrier, European Space Agency</html>
+          <wikipedia>Tethered_Satellite_System#TSS-1_mission</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3 November 1994</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-66</html>
+          <wikipedia>STS-66</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 22 hours, 34 minutes, 2 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,554,791 miles (7,330,226 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Carried Atmospheric Laboratory for Applications and Sciences - 3 (ATLAS-03) to study the energy of the sun and how it affects the Earth's climate and environment. In addition, STS-66 included deployment and retrieval of the Cryogenic Infrared Spectrometer Telescope for Atmosphere (CRISTA) to explore the variability of the atmosphere and provide measurements.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>29 June 1995</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-71</html>
+          <wikipedia>STS-71</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9 days, 19 hours, 22 minutes, 17 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,100,000 miles (6,600,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>space station, Mir, cosmonauts, Norman Thagard, Vladimir Dezhurov, Gennady Strekalov, life sciences, SPACELAB</html>
+          <wikipedia>Space_station</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 November 1995</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-74</html>
+          <wikipedia>STS-74</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 days, 4 hours, 31 minutes, 42 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,400,000 miles (5,500,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Carried docking module to Mir and docked to the Kristall module. During the three days of combined shuttle-Mir operations, Atlantis's crew transferred water, supplies, equipment and two new solar arrays to upgrade Mir.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>22 March 1996</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-76</html>
+          <wikipedia>STS-76</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9 days, 5 hours, 16 minutes, 48 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,800,000 miles (6,100,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shannon Lucid, SPACEHAB, Linda Godwin, Michael Clifford</html>
+          <wikipedia>Shannon_Lucid</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>16 September 1996</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-79</html>
+          <wikipedia>STS-79</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 3 hours, 19 minutes, 28 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,900,000 miles (6,300,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Blaha</html>
+          <wikipedia>John_Blaha</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 January 1997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-81</html>
+          <wikipedia>STS-81</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 4 hours, 56 minutes, 30 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,900,000 miles (6,300,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jerry Linenger</html>
+          <wikipedia>Jerry_Linenger</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>15 May 1997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-84</html>
+          <wikipedia>STS-84</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9 days, 5 hours, 20 minutes, 47 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3,600,000 miles (5,800,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Michael Foale</html>
+          <wikipedia>Michael_Foale</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>25 September 1997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-86</html>
+          <wikipedia>STS-86</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 19 hours, 22 minutes, 12 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,225,000 miles (6,799,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David A. Wolf, Vladimir Titov, Scott Parazynski</html>
+          <wikipedia>David_A._Wolf</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>19 May 2000</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-101</html>
+          <wikipedia>STS-101</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9 days, 21 hours, 10 minutes, 10 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,076,281 miles (8,169,482 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>International Space Station, James Voss, Jeffrey Williams</html>
+          <wikipedia>International_Space_Station</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 September 2000</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-106</html>
+          <wikipedia>STS-106</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 days, 19 hours, 12 minutes, 15 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,919,243 miles (7,916,754 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>International Space Station resupply mission. STS-106 utilized the SPACEHAB Double Module and the Integrated Cargo Carrier (ICC) to bring supplies to the ISS. The mission also included two spacewalks.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 February 2001</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-98</html>
+          <wikipedia>STS-98</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 days, 21 hours, 21 minutes</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,369,576 miles (8,641,495 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Destiny Laboratory Module</html>
+          <wikipedia>Destiny_(ISS_module)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 July 2001</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-104</html>
+          <wikipedia>STS-104</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 days, 18 hours, 36 minutes, 39 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,309,429 miles (8,544,698 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Quest Joint Airlock, Michael Gernhardt, James Reilly, SSME</html>
+          <wikipedia>Quest_Joint_Airlock</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 April 2002</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-110</html>
+          <wikipedia>STS-110</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 19 hours, 43 minutes, 48 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,525,299 miles (7,282,763 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>S0 truss</html>
+          <wikipedia>Integrated_Truss_Structure</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 October 2002</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-112</html>
+          <wikipedia>STS-112</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 19 hours, 58 minutes, 44 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,513,015 miles (7,262,994 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>S1 truss, David Wolf, Piers Sellers</html>
+          <wikipedia>Integrated_Truss_Structure</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9 September 2006</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-115</html>
+          <wikipedia>STS-115</wikipedia>
+        </cell>
+        <cell>
+          <html>39B</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 days, 19 hours, 6 minutes, 35 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,910,288 miles (7,902,343 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>P3 and P4 truss, assembly mission, Columbia disaster</html>
+          <wikipedia>Integrated_Truss_Structure</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>28</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 June 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-117</html>
+          <wikipedia>STS-117</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>13 days, 20 hours, 12 minutes, 44 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,809,363 miles (9,349,263 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>S3 and S4 truss, human spaceflight, Expedition 15, Clayton Anderson, Sunita Williams</html>
+          <wikipedia>Integrated_Truss_Structure</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>29</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 February 2008</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-122</html>
+          <wikipedia>STS-122</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 days, 18 hours, 21 minutes, 50 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,296,842 miles (8,524,441 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Columbus laboratory, L&amp;eacute;opold Eyharts, Expedition 16, Daniel M. Tani, Rex Walheim, Stanley Love</html>
+          <wikipedia>Columbus_(ISS_module)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>30</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 May 2009</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-125</html>
+          <wikipedia>STS-125</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edwards AFB</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 days, 21 hours, 37 minutes, 9 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,276,000 miles (8,491,000 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hubble Space Telescope, Cosmic Origins Spectrograph, Wide Field Camera 3, Fine Guidance Sensor, gyroscopes, battery, IMAX</html>
+          <wikipedia>Hubble_Space_Telescope</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>31</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>16 November 2009</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-129</html>
+          <wikipedia>STS-129</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>10 days, 19 hours, 16 minutes, 13 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,490,138 miles (7,226,177 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>ELC-1/ELC-2, ExPRESS Logistics Carrier</html>
+          <wikipedia>ExPRESS_Logistics_Carrier</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>32</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>14 May 2010</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-132</html>
+          <wikipedia>STS-132</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 days, 18 hours, 29 minutes, 09 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,879,978 miles (7,853,563 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mini-Research Module 1</html>
+          <wikipedia>Rassvet_(ISS_module)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>33</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 July 2011</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>STS-135</html>
+          <wikipedia>STS-135</wikipedia>
+        </cell>
+        <cell>
+          <html>39A</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KSC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 days, 18 hours, 28 minutes, 50 seconds</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,284,862 miles (8,505,161 km)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Soyuz</html>
+          <wikipedia>Soyuz_programme</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Space Shuttle Atlantis - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Atlantis has completed 28 flights, spent 220.40-days in space, completed 3,468 orbits, and flown 89,908,732 nautical miles (166,510,972 km) in total, as of September 2006 . Among the five Space Shuttles flown in space, Atlantis has conducted a subsequent mission in the shortest time after the previous mission when it launched in November, 1985, only 50 days after its previous mission.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Space Shuttle Atlantis</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Space Shuttle Atlantis at the launch of STS-115</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Aging</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Current status</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Flights</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Aging</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Atlantis docked with Mir</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Flights</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Space Shuttle orbiter Atlantis landing in 1997, at the end of STS-86</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>NASA had planned to withdraw Atlantis from service in 2008, as she would have been due to undergo the scheduled Orbiter Maintenance Down Period (OMDP); this is a major program of refit and maintenance which would have lasted at least a year. Because of the final retirement of the shuttle fleet in 2010, this was deemed uneconomic. It was planned that Atlantis would be kept in near flight condition to be used as a parts hulk for Discovery and Endeavour . However, with the significant planned flight schedule up to 2010, the decision was taken to extend the time between OMDPs, allowing Atlantis to be retained for operations. Atlantis has been swapped for one flight of each of the other orbiters in the flight manifest. As of March 2008, Atlantis is now projected to fly at least three more missions prior to the end of the shuttle program</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>missions cannot be extended by making use of power provided by ISS.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Atlantis launched on her longest mission STS-117 , almost 14 days, on 2007 - 06-08 . Because Atlantis is not equipped to take advantage of the Station-to-Shuttle Power Transfer System ,</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Atlantis on top of the Shuttle Carrier Aircraft in 1998</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>After a four-year-halt she went back into orbit along with six astronauts on STS-115 , carrying the P3/P4 truss segments and solar arrays.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>NASA scheduled the 27th launch for Atlantis for September 2005, during the window of September 9 - September 24 . It was ruled unsafe to fly the mission and the launch window was missed, due to the complications during Discovery' s launch of mission STS-114 and NASA's subsequent suspension of all future shuttle launches. Atlantis was the designated STS-300 rescue orbiter for the STS-114 mission. Atlantis was scheduled to fly the STS-121 mission, but it was decided that Discovery would fly the mission instead.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>NASA announced that 24 helium and nitrogen gas tanks, named Composite Overwrap Pressure Vessels, in Atlantis are older than their designed lifetime (designed for 10 years, later cleared for another 10 years but in service now for 22 years). NASA said it cannot guarantee any longer that the vessels on Atlantis will not burst or explode under full pressure . Therefore, the vessels will only be at 80 percent pressure as close to the launch countdown as possible, and the launch pad will be cleared of all but essential personnel when pressure is increased to 100 percent. A launch pad explosion could damage parts of the shuttle and even wound or kill ground personnel. An in-flight failure to the vessels could even result in the loss of the orbiter and its crew. Because the original vendor is no longer available, the vessels cannot be rebuilt before 2010, when the shuttles are scheduled to be retired. NASA analyses originally assumed that the vessels would leak before they burst, but new tests showed that they would burst before they leak. The new launch procedure, of clearing the launch pad of all but the essential personnel and pressurizing the tanks to 100 percent as late as possible, will now be conducted during the remaining Atlantis launches if no other resolution is found. Atlantis will have to fly at least one more time in this setting. It is unclear, but possible, that Discovery , which will launch another five or six times, has the same problems and if the same launch procedure needs to be conducted with Discovery . Since Endeavour , which will launch another six or seven times, was built much later, around 1990, it is possible that Endeavour does not have the same problem.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In October 2002, Atlantis and the six-person crew completed an 11-day mission to the International Space Station that involved three space walks.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

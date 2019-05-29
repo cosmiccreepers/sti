@@ -1,0 +1,3 @@
+0,2;2,0=/location/location/containedby=/location/mailing_address/citytown=/location/mailing_address/state_province_region
+-2,0;0,2=/location/location/contains
+0,3=/education/educational_institution/colors

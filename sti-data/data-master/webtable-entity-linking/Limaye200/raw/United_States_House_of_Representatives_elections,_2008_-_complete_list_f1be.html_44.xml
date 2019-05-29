@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Abbreviation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>AI</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>American Independent Party</html>
+          <wikipedia>American_Independent_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>AK</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Alaskan Independence Party</html>
+          <wikipedia>Alaskan_Independence_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>C</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Constitution Party</html>
+          <wikipedia>Constitution_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cons</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Conservative Party</html>
+          <wikipedia>Conservative_Party_of_New_York</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>D</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Democratic Party</html>
+          <wikipedia>Democratic_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>G</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Green Party</html>
+          <wikipedia>Green_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>I</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Independent</html>
+          <wikipedia>Independent_(politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>IA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Independent American Party</html>
+          <wikipedia>Independent_American_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>IG</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Independent Green Party</html>
+          <wikipedia>Independent_Green_Party_of_Virginia</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>IP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Independence Party</html>
+          <wikipedia>Independence_Party_of_America</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>L</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Libertarian Party</html>
+          <wikipedia>Libertarian_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>LU</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Liberty Union Party</html>
+          <wikipedia>Liberty_Union_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>NPP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New Progressive Party of Puerto Rico</html>
+          <wikipedia>New_Progressive_Party_of_Puerto_Rico</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PG</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pacific Green Party</html>
+          <wikipedia>Pacific_Green_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Peace and Freedom Party</html>
+          <wikipedia>Peace_and_Freedom_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PDP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Popular Democratic Party of Puerto Rico</html>
+          <wikipedia>Popular_Democratic_Party_of_Puerto_Rico</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>P</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Progressive Party</html>
+          <wikipedia>Vermont_Progressive_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PIP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Puerto Rican Independence Party</html>
+          <wikipedia>Puerto_Rican_Independence_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Puerto Ricans for Puerto Rico Party</html>
+          <wikipedia>Puerto_Ricans_for_Puerto_Rico_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ref</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Reform Party</html>
+          <wikipedia>Reform_Party_of_the_United_States_of_America</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>R</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Republican Party</html>
+          <wikipedia>Republican_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>S</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Socialist Party</html>
+          <wikipedia>Socialist_Party_USA</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>SW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Socialist Workers Party</html>
+          <wikipedia>Socialist_Workers_Party_(United_States)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>TL</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Term Limits Party</html>
+          <wikipedia>/w/index.php?title=Term_Limits_Party&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>UST</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>U.S. Taxpayers Party</html>
+          <wikipedia>United_States_Taxpayers_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>WF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Working Families Party</html>
+          <wikipedia>Working_Families_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>W-I</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Write-In Candidate</html>
+          <wikipedia>Write-In_Candidate</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2008 - complete list - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Non-voting delegates</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2008 - complete list</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>W. David Herbert (L)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Complete list</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Non-voting delegates</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Gary Trauner (D)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Bill Winney (R)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Cynthia Lummis (R)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Michael Holland (R)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Mark Gordon (R)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Retiring</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Republican</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Views</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

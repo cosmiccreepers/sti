@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Jurisdiction</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wage (C$/h)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Effective date</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Comments</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Alberta</html>
+          <wikipedia>Alberta</wikipedia>
+        </cell>
+        <cell>
+          <html>9.95</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 September 2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Consumer Price Index</html>
+          <wikipedia>Consumer_Price_Index</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>British Columbia</html>
+          <wikipedia>British_Columbia</wikipedia>
+        </cell>
+        <cell>
+          <html>10.25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 May 2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>$9.00 for liquor servers.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Manitoba</html>
+          <wikipedia>Manitoba</wikipedia>
+        </cell>
+        <cell>
+          <html>10.45</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 October 2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Workers involved in construction have a higher starting minimum wage.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>New Brunswick</html>
+          <wikipedia>New_Brunswick</wikipedia>
+        </cell>
+        <cell>
+          <html>10.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 April 2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Newfoundland and Labrador</html>
+          <wikipedia>Newfoundland_and_Labrador</wikipedia>
+        </cell>
+        <cell>
+          <html>10.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 July 2010</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Northwest Territories</html>
+          <wikipedia>Northwest_Territories</wikipedia>
+        </cell>
+        <cell>
+          <html>10.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 April 2011</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nova Scotia</html>
+          <wikipedia>Nova_Scotia</wikipedia>
+        </cell>
+        <cell>
+          <html>10.30</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 April 2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>$9.80 for inexperienced workers (less than three months employed in the type of work they are hired to do).,  On 1 April of each year, this rate is to increase to reflect changes in Statistics Canada&amp;rsquo;s Low Income Cut-Off figures for the previous year. In 2014 the increase will be at $10.40 ($9.90 for inexperienced workers).</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nunavut</html>
+          <wikipedia>Nunavut</wikipedia>
+        </cell>
+        <cell>
+          <html>11.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 January 2011</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Currently the highest in Canada.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ontario</html>
+          <wikipedia>Ontario</wikipedia>
+        </cell>
+        <cell>
+          <html>10.25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>31 March 2010</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Students (under age 18, working 28 hours or under per week while school is in session or work when there is a school break): $9.60; $10.30 effective June 1, 2014.Liquor servers: $8.90; $9.55 effective June 1, 2014.Homeworkers (includes students and overrides the student wage): $11.28; $12.10 effective June 1, 2014., The Ontario government's former custom was that, in any year when the minimum wage changes, the change takes effect on 31 March of that year.[14] However, the government decided to have the next minimum wage increase effective on June 1, 2014 instead to $11/hr.[15], Additional minimum wage increases would be announced on 1 April of that year, pending on the Consumer Price Index, with the change taking into effect on 1 October of that same year (legislation pending).[16]</html>
+          <wikipedia>Student</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Prince Edward Island</html>
+          <wikipedia>Prince_Edward_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>10.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 April 2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Qu&amp;eacute;bec</html>
+          <wikipedia>Qu%C3%A9bec</wikipedia>
+        </cell>
+        <cell>
+          <html>10.15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 May 2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>gratuities</html>
+          <wikipedia>Tip_(gratuity)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Saskatchewan</html>
+          <wikipedia>Saskatchewan</wikipedia>
+        </cell>
+        <cell>
+          <html>10.00</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 December 2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Yukon</html>
+          <wikipedia>Yukon</wikipedia>
+        </cell>
+        <cell>
+          <html>10.54</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1 April 2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Consumer Price Index</html>
+          <wikipedia>Consumer_price_index_by_country#Canada</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of minimum wages in Canada - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following table is a list of hourly minimum wages for adult workers in Canada. The provinces which have their minimum wages in italics allow for lower wages under circumstances which are described under the "Comments" heading.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of minimum wages in Canada</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>although as mentioned above, such a change could not be enforced on any employer operating under provincial jurisdiction (unless the province voluntarily agreed to harmonize its own minimum wage).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This list of minimum wages in Canada collects the minimum wages in Canadian dollars (CAD) set by each province and territory of Canada. Assuming a 40-hour work week for 4.34 weeks a month, the monthly gross incomes of individuals earning the lowest and highest minimum wages in Canada are $1345 and $1519, respectively. Based on current exchange rates, Canadian minimum wages in every jurisdiction are higher than the U.S. federal minimum wage rate of $ 5.85/hour; however, critics of current minimum wage levels in Canada often claim that they are insufficient and advocate that they be raised to what they claim to be the living wage . The New Democratic Party had called for a separate federal minimum wage of $10/hour (higher than any current provincial minimum),</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The federal government in years past has set its own minimum wage rates for workers in federal jurisdiction industries ( railways for example). In 1996, however, the federal minimum wage was re-defined to be the general adult minimum wage rate of the province or territory where the work is performed. This means, for example, that a railway company could not legally pay a worker in British Columbia less than $8/hour regardless of the worker's experience.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Under the Constitution of Canada , the responsibility for enacting and enforcing labour laws including minimum wages in Canada rests with the ten provinces . The three territories also having been granted this power by virtue of federal legislation. This means that each province and territory has its own minimum wage. The lowest general minimum wages in force as of 2008 are that of Prince Edward Island and New Brunswick ( $ 7.75/hour) and the highest is that of Ontario ( $ 8.75/hour). Some provinces allow lower wages to be paid to liquor servers and other tip earners, and/or to inexperienced employees. British Columbia allows employers to pay as little as $6/hour to an inexperienced worker.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of minimum wages in Canada</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

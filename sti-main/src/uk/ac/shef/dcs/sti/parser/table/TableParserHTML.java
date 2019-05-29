@@ -8,10 +8,14 @@ import org.w3c.dom.Node;
 import uk.ac.shef.dcs.sti.STIException;
 import uk.ac.shef.dcs.sti.core.model.TContext;
 import uk.ac.shef.dcs.sti.core.model.Table;
+import uk.ac.shef.dcs.sti.parser.table.creator.TableObjCreatorHTML;
 import uk.ac.shef.dcs.sti.parser.table.hodetector.TableHODetector;
+import uk.ac.shef.dcs.sti.parser.table.hodetector.TableHODetectorByHTMLTag;
 import uk.ac.shef.dcs.sti.parser.table.normalizer.TableNormalizer;
 import uk.ac.shef.dcs.sti.parser.table.creator.TableObjCreator;
+import uk.ac.shef.dcs.sti.parser.table.normalizer.TableNormalizerSimple;
 import uk.ac.shef.dcs.sti.parser.table.validator.TableValidator;
+import uk.ac.shef.dcs.sti.parser.table.validator.TableValidatorGeneric;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
@@ -26,6 +30,10 @@ import java.util.List;
  */
 public class TableParserHTML extends TableParser {
 
+    public TableParserHTML() {
+        super(new  TableNormalizerSimple(), new TableHODetectorByHTMLTag(), new TableObjCreatorHTML(),
+                new TableValidatorGeneric());
+    }
 
     public TableParserHTML(TableNormalizer normalizer, TableHODetector detector, TableObjCreator creator, TableValidator... validators) {
         super(normalizer, detector, creator,validators);

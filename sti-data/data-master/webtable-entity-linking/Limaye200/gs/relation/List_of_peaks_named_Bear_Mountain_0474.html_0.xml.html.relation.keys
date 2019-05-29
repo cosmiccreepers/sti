@@ -1,0 +1,7 @@
+0,2;2,0=/location/location/containedby
+-2,0;0,2=/location/location/contains
+0,3;3,0=/location/location/containedby
+-3,0;0,3=/location/location/contains
+-2,3=/location/location/contains
+-3,2=/location/location/containedby
+0,4=/location/geocode/longitude=/location/geocode/latitude

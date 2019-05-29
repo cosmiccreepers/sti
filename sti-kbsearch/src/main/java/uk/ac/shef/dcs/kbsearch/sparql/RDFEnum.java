@@ -6,7 +6,8 @@ package uk.ac.shef.dcs.kbsearch.sparql;
 public enum RDFEnum {
     //RDFS has different versions (2000/1999), so we define patterns and shorthands instead of exact URIs
     RELATION_HASLABEL_SUFFIX_PATTERN("#label"),
-    RELATION_HASTYPE_SUFFIX_PATTERN("#type"),
+    RELATION_HASTYPE_SUFFIX_PATTERN("#type"), // some are http://dbpedia.org/ontology/type and not picked up
+    RELATION_HASTYPE_DBPEDIA_SUFFIX_PATTERN("/type"),
     RELATION_HASCOMMENT_SUFFIX_PATTERN("#comment"),
 
     //

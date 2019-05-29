@@ -1,0 +1,5 @@
+2=/cricket/cricket_player_stats/top_score
+1=/cricket/cricket_player	/sports/pro_athlete=/people/person			___NE
+3=/cricket/cricket_team	/sports/sports_team			___NE
+4=/cricket/cricket_team	/sports/sports_team			___NE
+5=/sports/sports_facility	/architecture/venue=/architecture/structure=/base/venuebase/venue=/location/dated_location=/location/location=/base/tagit/place=/architecture/building			___NE

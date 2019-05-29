@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pos.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DoB</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>&amp;Eacute;ric Cantona</html>
+          <wikipedia>Eric_Cantona</wikipedia>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1966-05-24</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Marcel Desailly</html>
+          <wikipedia>Marcel_Desailly</wikipedia>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1968-09-07</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Didier Deschamps</html>
+          <wikipedia>Didier_Deschamps</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1968-10-15</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Just Fontaine</html>
+          <wikipedia>Just_Fontaine</wikipedia>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1933-08-18</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Thierry Henry*</html>
+          <wikipedia>Thierry_Henry</wikipedia>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1977-08-17</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Raymond Kopa</html>
+          <wikipedia>Raymond_Kopa</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1931-10-31</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jean-Pierre Papin</html>
+          <wikipedia>Jean-Pierre_Papin</wikipedia>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1963-11-05</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Robert Pir&amp;egrave;s</html>
+          <wikipedia>Robert_Pir%C3%A8s</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1973-10-29</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Michel Platini</html>
+          <wikipedia>Michel_Platini</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1955-06-21</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lilian Thuram</html>
+          <wikipedia>Lilian_Thuram</wikipedia>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1972-01-01</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Marius Tr&amp;eacute;sor</html>
+          <wikipedia>Marius_Tr%C3%A9sor</wikipedia>
+        </cell>
+        <cell>
+          <html>DF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1950-01-15</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>David Trezeguet*</html>
+          <wikipedia>David_Trezeguet</wikipedia>
+        </cell>
+        <cell>
+          <html>FW</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1977-10-15</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Patrick Vieira</html>
+          <wikipedia>Patrick_Vieira</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1976-06-23</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Zinedine Zidane</html>
+          <wikipedia>Zinedine_Zidane</wikipedia>
+        </cell>
+        <cell>
+          <html>MF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1972-06-23</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>FIFA 100 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] France</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>FIFA 100</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] England</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Germany</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Criticism</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] List</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Denmark</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Czech Republic</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ghana</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>FW</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Player Pos. DoB</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Player Pos. DoB</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Croatia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>MF</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

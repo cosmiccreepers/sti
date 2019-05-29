@@ -1,0 +1,5 @@
+0=/aviation/airport	/location/location=/travel/transport_terminus			___NE
+1=/location/citytown=/base/aareas/schema/earth/citytown	/location/location=/location/dated_location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/government/governmental_jurisdiction=/base/tagit/place			___NE
+2=/base/aareas/schema/mx/state	/location/location=/location/dated_location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/government/governmental_jurisdiction=/base/tagit/place			___NE
+3=/aviation/airport/icao
+4=/aviation/airport/iata

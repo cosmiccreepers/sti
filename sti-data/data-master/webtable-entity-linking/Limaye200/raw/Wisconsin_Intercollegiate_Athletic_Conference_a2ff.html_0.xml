@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Institution</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nickname</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Location(Population)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Founded</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Type</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>UndergraduateEnrollment</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Joined</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Eau Claire</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Eau_Claire</wikipedia>
+        </cell>
+        <cell>
+          <html>Blugolds</html>
+          <wikipedia>Wisconsin%E2%80%93Eau_Claire_Blugolds</wikipedia>
+        </cell>
+        <cell>
+          <html>Eau Claire, Wisconsin</html>
+          <wikipedia>Eau_Claire,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1916</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9,799</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1917-18</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-La Crosse</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93La_Crosse</wikipedia>
+        </cell>
+        <cell>
+          <html>Eagles</html>
+          <wikipedia>Wisconsin%E2%80%93La_Crosse_Eagles</wikipedia>
+        </cell>
+        <cell>
+          <html>La Crosse, Wisconsin</html>
+          <wikipedia>La_Crosse,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1909</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8,324</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Oshkosh</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Oshkosh</wikipedia>
+        </cell>
+        <cell>
+          <html>Titans</html>
+          <wikipedia>Wisconsin%E2%80%93Oshkosh_Titans</wikipedia>
+        </cell>
+        <cell>
+          <html>Oshkosh, Wisconsin</html>
+          <wikipedia>Oshkosh,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1871</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9,386</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Platteville</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Platteville</wikipedia>
+        </cell>
+        <cell>
+          <html>Pioneers</html>
+          <wikipedia>Wisconsin%E2%80%93Platteville_Pioneers</wikipedia>
+        </cell>
+        <cell>
+          <html>Platteville, Wisconsin</html>
+          <wikipedia>Platteville,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1866</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6,498</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-River Falls</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93River_Falls</wikipedia>
+        </cell>
+        <cell>
+          <html>Falcons</html>
+          <wikipedia>Wisconsin%E2%80%93River_Falls_Falcons</wikipedia>
+        </cell>
+        <cell>
+          <html>River Falls, Wisconsin</html>
+          <wikipedia>River_Falls,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1874</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,801</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Stevens Point</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Stevens_Point</wikipedia>
+        </cell>
+        <cell>
+          <html>Pointers</html>
+          <wikipedia>Wisconsin%E2%80%93Stevens_Point_Pointers</wikipedia>
+        </cell>
+        <cell>
+          <html>Stevens Point, Wisconsin</html>
+          <wikipedia>Stevens_Point,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1894</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8,481</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Stout</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Stout</wikipedia>
+        </cell>
+        <cell>
+          <html>Blue Devils</html>
+          <wikipedia>Wisconsin%E2%80%93Stout_Blue_Devils</wikipedia>
+        </cell>
+        <cell>
+          <html>Menomonie, Wisconsin</html>
+          <wikipedia>Menomonie,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1891</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6,874</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1914-15</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Superior</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Superior</wikipedia>
+        </cell>
+        <cell>
+          <html>Yellowjackets</html>
+          <wikipedia>Wisconsin%E2%80%93Superior_Yellowjackets</wikipedia>
+        </cell>
+        <cell>
+          <html>Superior, Wisconsin</html>
+          <wikipedia>Superior,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1893</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,114</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>University of Wisconsin-Whitewater</html>
+          <wikipedia>University_of_Wisconsin%E2%80%93Whitewater</wikipedia>
+        </cell>
+        <cell>
+          <html>Warhawks</html>
+          <wikipedia>Wisconsin%E2%80%93Whitewater_Warhawks</wikipedia>
+        </cell>
+        <cell>
+          <html>Whitewater, Wisconsin</html>
+          <wikipedia>Whitewater,_Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>1868</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Public</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>9,323</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913-14</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Wisconsin Intercollegiate Athletic Conference - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Member schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Wisconsin Intercollegiate Athletic Conference</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The WIAC initiated women's competition on July 1 , 1997 , merging with the Wisconsin Women's Intercollegiate Conference which had been in place since 1970.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Former members</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Member schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sports</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Conference facilities</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>UW-Stout became a member in 1914, and the first record of membership of UW-Eau Claire was in January 1917. These two, along with the original eight, maintained continuous membership over the years until June, 1964, at which time the University of Wisconsin-Milwaukee terminated its membership in the conference.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>An organizational meeting of the Wisconsin State University Athletic Conference, then to be known as the State Normal Conference, was held in Madison in July of 1913 . The twofold purpose of this meeting was to secure for each school a schedule of games and to establish rules to regulate and control athletic competition within the proposed conference. The schools represented at the organizational meeting in 1913 were UW-Superior , UW-River Falls , UW-Stevens Point and UW-La Crosse , which were to become known as the Northern Division; with UW-Oshkosh , UW-Whitewater , UW-Milwaukee , and UW-Platteville constituting the membership of the Southern Division.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Institution Current Conference Years</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Wisconsin Intercollegiate Athletic Conference ( WIAC ) is an College Athletic Conference which competes in the NCAA 's Division III . As the name implies, member teams are located in the state of Wisconsin , although there are three associate members from Minnesota . All full members are part of the University of Wisconsin System .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Wisconsin Intercollegiate Athletic Conference</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

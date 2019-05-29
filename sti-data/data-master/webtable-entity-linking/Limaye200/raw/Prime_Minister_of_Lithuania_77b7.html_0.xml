@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>#</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Took office</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Left office</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Political party</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Augustinas Voldemaras</html>
+          <wikipedia>Augustinas_Voldemaras</wikipedia>
+        </cell>
+        <cell>
+          <html>11 November 1918</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26 December 1918</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mykolas Sleževičius</html>
+          <wikipedia>Mykolas_Sle%C5%BEevi%C4%8Dius</wikipedia>
+        </cell>
+        <cell>
+          <html>26 December 1918</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 March 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Peasant Populist Union</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pranas Dovydaitis</html>
+          <wikipedia>Pranas_Dovydaitis</wikipedia>
+        </cell>
+        <cell>
+          <html>12 March 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 April 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Christian-Democratic Party</html>
+          <wikipedia>Lithuanian_Christian-Democratic_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mykolas Sleževičius</html>
+          <wikipedia>Mykolas_Sle%C5%BEevi%C4%8Dius</wikipedia>
+        </cell>
+        <cell>
+          <html>12 April 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 October 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Peasant Populist Union</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ernestas Galvanauskas</html>
+          <wikipedia>Ernestas_Galvanauskas</wikipedia>
+        </cell>
+        <cell>
+          <html>7 October 1919</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>19 June 1920</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Non-party</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kazys Grinius</html>
+          <wikipedia>Kazys_Grinius</wikipedia>
+        </cell>
+        <cell>
+          <html>19 June 1920</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2 February 1922</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Social-Democratic Party</html>
+          <wikipedia>Lithuanian_Social-Democratic_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ernestas Galvanauskas</html>
+          <wikipedia>Ernestas_Galvanauskas</wikipedia>
+        </cell>
+        <cell>
+          <html>2 February 1922</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23 February 1923</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Non-party</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ernestas Galvanauskas</html>
+          <wikipedia>Ernestas_Galvanauskas</wikipedia>
+        </cell>
+        <cell>
+          <html>23 February 1923</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>29 June 1923</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Non-party</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ernestas Galvanauskas</html>
+          <wikipedia>Ernestas_Galvanauskas</wikipedia>
+        </cell>
+        <cell>
+          <html>29 June 1923</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>18 June 1924</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Non-party</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Antanas Tumėnas</html>
+          <wikipedia>Antanas_Tum%C4%97nas</wikipedia>
+        </cell>
+        <cell>
+          <html>18 June 1924</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 February 1925</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Christian-Democratic Party</html>
+          <wikipedia>Lithuanian_Christian-Democratic_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vytautas Petrulis</html>
+          <wikipedia>Vytautas_Petrulis</wikipedia>
+        </cell>
+        <cell>
+          <html>4 February 1925</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>25 September 1925</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Christian-Democratic Party</html>
+          <wikipedia>Lithuanian_Christian-Democratic_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Leonas Bistras</html>
+          <wikipedia>Leonas_Bistras</wikipedia>
+        </cell>
+        <cell>
+          <html>25 September 1925</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>15 June 1926</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Christian-Democratic Party</html>
+          <wikipedia>Lithuanian_Christian-Democratic_Party</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mykolas Sleževičius</html>
+          <wikipedia>Mykolas_Sle%C5%BEevi%C4%8Dius</wikipedia>
+        </cell>
+        <cell>
+          <html>15 June 1926</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>17 December 1926</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Peasant Populist Union</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Augustinas Voldemaras</html>
+          <wikipedia>Augustinas_Voldemaras</wikipedia>
+        </cell>
+        <cell>
+          <html>17 December 1926</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23 September 1929</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Juozas Tūbelis</html>
+          <wikipedia>Juozas_T%C5%ABbelis</wikipedia>
+        </cell>
+        <cell>
+          <html>23 September 1929</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>12 June 1934</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Juozas Tūbelis</html>
+          <wikipedia>Juozas_T%C5%ABbelis</wikipedia>
+        </cell>
+        <cell>
+          <html>12 June 1934</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6 September 1935</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Juozas Tūbelis</html>
+          <wikipedia>Juozas_T%C5%ABbelis</wikipedia>
+        </cell>
+        <cell>
+          <html>6 September 1935</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24 March 1938</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vladas Mironas</html>
+          <wikipedia>Vladas_Mironas</wikipedia>
+        </cell>
+        <cell>
+          <html>24 March 1938</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5 December 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vladas Mironas</html>
+          <wikipedia>Vladas_Mironas</wikipedia>
+        </cell>
+        <cell>
+          <html>5 December 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>28 March 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jonas Černius</html>
+          <wikipedia>Jonas_%C4%8Cernius</wikipedia>
+        </cell>
+        <cell>
+          <html>28 March 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>21 November 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Antanas Merkys</html>
+          <wikipedia>Antanas_Merkys</wikipedia>
+        </cell>
+        <cell>
+          <html>21 November 1939</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>17 June 1940</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lithuanian Nationalist Union</html>
+          <wikipedia>Lithuanian_Nationalist_Union</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Prime Minister of Lithuania - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Republic of Lithuania (1918-1940)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Prime Minister of Lithuania</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Lithuanian Soviet Socialist Republic (1940-1991)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Republic of Lithuania (1918-1940)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Lithuanian Soviet Socialist Republic (1940-1991)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Republic of Lithuania (1991-Present)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Historically, the title of Prime Minister was also used between 1918 and 1940. This was during the original Republic of Lithuania, which lasted from the collapse of the Russian Empire until the country's annexation by the Soviet Union.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Prime Minister of Lithuania is the head of the executive arm of Lithuania 's government, and is chosen by the Lithuanian parliament, the Seimas . The modern office of Prime Minister was established in 1990, although the official title was "Chairperson of the Council of Ministers" until 25 November 1992 . The post was established during the turmoil surrounding the Soviet Union 's collapse, and was organized by S j dis , a multi-party coalition in favour of Lithuanian independence.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Chairman of the Council of People's Commissars</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Prime Minister of Lithuania</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Me islovas Gedvilas ( 25 August 1940 - 2 April 1946 ) (in exile in Russian SFSR from 1941 until 1944 )</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Chairmen of the Council of Ministers</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

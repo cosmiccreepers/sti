@@ -1,0 +1,7 @@
+2=/aviation/airport/icao
+3=/aviation/airport/iata
+0=/location/citytown=/base/aareas/schema/earth/citytown	/location/location=/location/dated_location=/location/statistical_region=/base/aareas/schema/administrative_area=/governmental_jurisdiction=/location/administrative_division			___NE
+1=/base/ireland/irish_county=/base/aareas/schema/northern_ireland/county	/location/statistical_region=/location/dated_location=/location/administrative_division=/location/location=/base/aareas/schema/administrative_area			___NE
+4=/aviation/airport	/location/location=/architecture/building			___NE
+5=/aviation/airport_type			___NE
+7=/aviation/airport_runway_surface	___NE

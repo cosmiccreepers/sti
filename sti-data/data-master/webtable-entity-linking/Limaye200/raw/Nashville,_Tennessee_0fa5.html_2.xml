@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Club</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sport</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>League</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Venue</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Established</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Tennessee Titans</html>
+          <wikipedia>Tennessee_Titans</wikipedia>
+        </cell>
+        <cell>
+          <html>Football</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>National Football League</html>
+          <wikipedia>National_Football_League</wikipedia>
+        </cell>
+        <cell>
+          <html>LP Field</html>
+          <wikipedia>LP_Field</wikipedia>
+        </cell>
+        <cell>
+          <html>1960</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nashville Predators</html>
+          <wikipedia>Nashville_Predators</wikipedia>
+        </cell>
+        <cell>
+          <html>Hockey</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>National Hockey League</html>
+          <wikipedia>National_Hockey_League</wikipedia>
+        </cell>
+        <cell>
+          <html>Bridgestone Arena</html>
+          <wikipedia>Bridgestone_Arena</wikipedia>
+        </cell>
+        <cell>
+          <html>1997</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nashville Sounds</html>
+          <wikipedia>Nashville_Sounds</wikipedia>
+        </cell>
+        <cell>
+          <html>Baseball</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pacific Coast League</html>
+          <wikipedia>Pacific_Coast_League</wikipedia>
+        </cell>
+        <cell>
+          <html>Herschel Greer Stadium</html>
+          <wikipedia>Herschel_Greer_Stadium</wikipedia>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Middle Tennessee Storm</html>
+          <wikipedia>/w/index.php?title=Middle_Tennessee_Storm&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Basketball</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Central Basketball League</html>
+          <wikipedia>/w/index.php?title=Central_Basketball_League_(2013%E2%80%93present)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Picirilli Activity Center</html>
+          <wikipedia>Welch_College</wikipedia>
+        </cell>
+        <cell>
+          <html>2013</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Nashville, Tennessee - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Nashville has several professional sports teams, most notably the Nashville Predators of the National Hockey League and the Tennessee Titans of the National Football League. Several other pro sports teams also call Nashville home, as does the NCAA college football Music City Bowl . The Vanderbilt Commodores are members of the Southeastern Conference . The football team of Tennessee State University plays its home games at LP Field.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Nashville, Tennessee</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Sports venues in Nashville are:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Geography</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Government and politics</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Demographics</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Economy</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Education</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Culture</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Major annual events</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Media</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sports</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Transportation</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Nicknames</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sister cities</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Further reading</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sports</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Several dozen FM and AM radio stations broadcast in the Nashville area, including five college stations and one LPFM community station . Nashville is ranked as the 44th largest radio market in the United States. Nashville is home to WSM which originally stood for "We Shield Millions". WSM-FM is owned by Cumulus Media and is 95.5 FM the Wolf. WSM-AM , owned by Gaylord Entertainment Company, can be heard nationally on 650 AM or online at WSM Online from its studios located inside the Gaylord Opryland Resort &amp; Convention Center . WLAC is a Clear Channel -owned talk station which was originally sponsored by the Life and Casualty Insurance Company of Tennessee , and its competitor WWTN is owned by Cumulus .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Nashville is also home to cable networks Country Music Television (CMT), Great American Country (GAC), and RFD-TV , among others. CMT's Master Control facilities are located in New York City with the other Viacom properties. The Top 20 Countdown and CMT Insider are taped in their Nashville studios. Nashville is also the home and namesake of the NBC country music singing competition Nashville Star , which broadcasts from the Opryland complex . Shop at Home Network was once based in Nashville, but the channel signed off in 2006.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Nashville is home to nearly a dozen broadcast television stations, although most households are served by direct cable network connections. Comcast Cable has a monopoly on terrestrial cable service in Davidson County (but not throughout the entire DMA ). Nashville is ranked as the 30th largest television market in the United States.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The primary daily newspaper in Nashville is The Tennessean , which, until 1998 , competed fiercely with another daily, the Nashville Banner (although the two were housed in the same building under a joint-operating agreement). Although The Tennessean now enjoys a relative monopoly on the local newspaper market, a smaller free daily called The City Paper has cut into The Tennessean's market share somewhat. Online news service NashvillePost.com competes with the printed dailies to break news of business and local/state politics. Several weekly papers are also published in Nashville, including the Nashville Scene , Nashville Business Journal , and The Tennessee Tribune . Historically, The Tennessean was associated with a broadly liberal editorial policy, while The Banner carried staunchly conservative views in its editorial pages; The Banner's heritage is carried on these days by The City Paper. The Scene is the area's alternative weekly broadsheet, while The Tribune serves Nashville's African-American population.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Metro Board of Parks and Recreation owns and manages 10,200 acres (4,120 ha) of land and 99 parks and greenways (comprising more than 3% of the total area of the county). 2,684 acres (1,086 ha) of land is home to Warner Parks, which houses a 5,000 square-foot (460 m ) learning center, 20 miles (30 km) of scenic roads, 12 miles (19 km) of hiking trails, and 10 miles (16 km) of horse trails. In late 2005, Centennial Park began offering free wireless broadband internet service.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Offices for The Tennessean</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>LP Field</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Media See also: List of Nashville media</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Warner Parks , the largest municipal parks in the state, are home to the annual Iroquois Steeplechase.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Nashville at dusk</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

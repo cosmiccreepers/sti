@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Parish</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>LGA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Coordinates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Beaumont</html>
+          <wikipedia>/w/index.php?title=Beaumont,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;45&amp;prime;54&amp;Prime;S 148&amp;deg;10&amp;prime;04&amp;Prime;E﻿ / ﻿35.76500&amp;deg;S 148.16778&amp;deg;E﻿ / -35.76500; 148.16778﻿ (Beaumont)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_45_54_S_148_10_04_E_type:city_region:AU-NSW&amp;title=Beaumont</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Boganyera</html>
+          <wikipedia>/w/index.php?title=Boganyera,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;54&amp;prime;54&amp;Prime;S 147&amp;deg;57&amp;prime;04&amp;Prime;E﻿ / ﻿35.91500&amp;deg;S 147.95111&amp;deg;E﻿ / -35.91500; 147.95111﻿ (Boganyera)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_54_54_S_147_57_04_E_type:city_region:AU-NSW&amp;title=Boganyera</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bringenbrong</html>
+          <wikipedia>/w/index.php?title=Bringenbrong,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;07&amp;prime;54&amp;Prime;S 148&amp;deg;03&amp;prime;04&amp;Prime;E﻿ / ﻿36.13167&amp;deg;S 148.05111&amp;deg;E﻿ / -36.13167; 148.05111﻿ (Bringenbrong)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_07_54_S_148_03_04_E_type:city_region:AU-NSW&amp;title=Bringenbrong</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Buccleuch</html>
+          <wikipedia>/w/index.php?title=Buccleuch,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;44&amp;prime;54&amp;Prime;S 148&amp;deg;18&amp;prime;04&amp;Prime;E﻿ / ﻿35.74833&amp;deg;S 148.30111&amp;deg;E﻿ / -35.74833; 148.30111﻿ (Buccleuch)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_44_54_S_148_18_04_E_type:city_region:AU-NSW&amp;title=Buccleuch</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Buddong</html>
+          <wikipedia>/w/index.php?title=Buddong,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumut Shire</html>
+          <wikipedia>Tumut_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;38&amp;prime;54&amp;Prime;S 148&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿35.64833&amp;deg;S 148.26778&amp;deg;E﻿ / -35.64833; 148.26778﻿ (Buddong)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_38_54_S_148_16_04_E_type:city_region:AU-NSW&amp;title=Buddong</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Burra</html>
+          <wikipedia>Burra,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;51&amp;prime;54&amp;Prime;S 148&amp;deg;03&amp;prime;04&amp;Prime;E﻿ / ﻿35.86500&amp;deg;S 148.05111&amp;deg;E﻿ / -35.86500; 148.05111﻿ (Burra)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_51_54_S_148_03_04_E_type:city_region:AU-NSW&amp;title=Burra</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Clear Hill</html>
+          <wikipedia>/w/index.php?title=Clear_Hill,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;04&amp;prime;54&amp;Prime;S 148&amp;deg;26&amp;prime;04&amp;Prime;E﻿ / ﻿36.08167&amp;deg;S 148.43444&amp;deg;E﻿ / -36.08167; 148.43444﻿ (Clear Hill)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_04_54_S_148_26_04_E_type:city_region:AU-NSW&amp;title=Clear+Hill</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cowra</html>
+          <wikipedia>Cowra,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 148&amp;deg;17&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 148.28444&amp;deg;E﻿ / -35.93167; 148.28444﻿ (Cowra)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_55_54_S_148_17_04_E_type:city_region:AU-NSW&amp;title=Cowra</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Craven</html>
+          <wikipedia>/w/index.php?title=Craven,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;40&amp;prime;54&amp;Prime;S 147&amp;deg;50&amp;prime;04&amp;Prime;E﻿ / ﻿35.68167&amp;deg;S 147.83444&amp;deg;E﻿ / -35.68167; 147.83444﻿ (Craven)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_40_54_S_147_50_04_E_type:city_region:AU-NSW&amp;title=Craven</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dargals</html>
+          <wikipedia>/w/index.php?title=Dargals,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;09&amp;prime;54&amp;Prime;S 148&amp;deg;18&amp;prime;04&amp;Prime;E﻿ / ﻿36.16500&amp;deg;S 148.30111&amp;deg;E﻿ / -36.16500; 148.30111﻿ (Dargals)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_09_54_S_148_18_04_E_type:city_region:AU-NSW&amp;title=Dargals</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Geehi</html>
+          <wikipedia>/w/index.php?title=Geehi,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;19&amp;prime;54&amp;Prime;S 148&amp;deg;06&amp;prime;04&amp;Prime;E﻿ / ﻿36.33167&amp;deg;S 148.10111&amp;deg;E﻿ / -36.33167; 148.10111﻿ (Geehi)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_19_54_S_148_06_04_E_type:city_region:AU-NSW&amp;title=Geehi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Glenken</html>
+          <wikipedia>/w/index.php?title=Glenken,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 147&amp;deg;48&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 147.80111&amp;deg;E﻿ / -35.93167; 147.80111﻿ (Glenken)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_55_54_S_147_48_04_E_type:city_region:AU-NSW&amp;title=Glenken</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Glenroy</html>
+          <wikipedia>Glenroy,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;44&amp;prime;54&amp;Prime;S 147&amp;deg;51&amp;prime;04&amp;Prime;E﻿ / ﻿35.74833&amp;deg;S 147.85111&amp;deg;E﻿ / -35.74833; 147.85111﻿ (Glenroy)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_44_54_S_147_51_04_E_type:city_region:AU-NSW&amp;title=Glenroy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Greg Greg</html>
+          <wikipedia>/w/index.php?title=Greg_Greg,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;03&amp;prime;54&amp;Prime;S 148&amp;deg;03&amp;prime;04&amp;Prime;E﻿ / ﻿36.06500&amp;deg;S 148.05111&amp;deg;E﻿ / -36.06500; 148.05111﻿ (Greg Greg)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_03_54_S_148_03_04_E_type:city_region:AU-NSW&amp;title=Greg+Greg</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gungartan</html>
+          <wikipedia>/w/index.php?title=Gungartan,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;13&amp;prime;54&amp;Prime;S 148&amp;deg;22&amp;prime;04&amp;Prime;E﻿ / ﻿36.23167&amp;deg;S 148.36778&amp;deg;E﻿ / -36.23167; 148.36778﻿ (Gungartan)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_13_54_S_148_22_04_E_type:city_region:AU-NSW&amp;title=Gungartan</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hay</html>
+          <wikipedia>Hay,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;51&amp;prime;54&amp;Prime;S 148&amp;deg;09&amp;prime;04&amp;Prime;E﻿ / ﻿35.86500&amp;deg;S 148.15111&amp;deg;E﻿ / -35.86500; 148.15111﻿ (Hay)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_51_54_S_148_09_04_E_type:city_region:AU-NSW&amp;title=Hay</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hume</html>
+          <wikipedia>/w/index.php?title=Hume,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;19&amp;prime;54&amp;Prime;S 148&amp;deg;11&amp;prime;04&amp;Prime;E﻿ / ﻿36.33167&amp;deg;S 148.18444&amp;deg;E﻿ / -36.33167; 148.18444﻿ (Hume)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_19_54_S_148_11_04_E_type:city_region:AU-NSW&amp;title=Hume</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Indi</html>
+          <wikipedia>/w/index.php?title=Indi,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;13&amp;prime;54&amp;Prime;S 148&amp;deg;04&amp;prime;04&amp;Prime;E﻿ / ﻿36.23167&amp;deg;S 148.06778&amp;deg;E﻿ / -36.23167; 148.06778﻿ (Indi)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_13_54_S_148_04_04_E_type:city_region:AU-NSW&amp;title=Indi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jagumba</html>
+          <wikipedia>/w/index.php?title=Jagumba,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;58&amp;prime;54&amp;Prime;S 148&amp;deg;17&amp;prime;04&amp;Prime;E﻿ / ﻿35.98167&amp;deg;S 148.28444&amp;deg;E﻿ / -35.98167; 148.28444﻿ (Jagumba)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_58_54_S_148_17_04_E_type:city_region:AU-NSW&amp;title=Jagumba</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jagungal</html>
+          <wikipedia>/w/index.php?title=Jagungal,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;10&amp;prime;54&amp;Prime;S 148&amp;deg;23&amp;prime;04&amp;Prime;E﻿ / ﻿36.18167&amp;deg;S 148.38444&amp;deg;E﻿ / -36.18167; 148.38444﻿ (Jagungal)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_10_54_S_148_23_04_E_type:city_region:AU-NSW&amp;title=Jagungal</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jingellic East</html>
+          <wikipedia>/w/index.php?title=Jingellic_East,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;52&amp;prime;54&amp;Prime;S 147&amp;deg;45&amp;prime;04&amp;Prime;E﻿ / ﻿35.88167&amp;deg;S 147.75111&amp;deg;E﻿ / -35.88167; 147.75111﻿ (Jingellic East)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_52_54_S_147_45_04_E_type:city_region:AU-NSW&amp;title=Jingellic+East</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Khancoban</html>
+          <wikipedia>Khancoban,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;10&amp;prime;54&amp;Prime;S 148&amp;deg;11&amp;prime;04&amp;Prime;E﻿ / ﻿36.18167&amp;deg;S 148.18444&amp;deg;E﻿ / -36.18167; 148.18444﻿ (Khancoban)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_10_54_S_148_11_04_E_type:city_region:AU-NSW&amp;title=Khancoban</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>King</html>
+          <wikipedia>/w/index.php?title=King,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;44&amp;prime;54&amp;Prime;S 148&amp;deg;05&amp;prime;04&amp;Prime;E﻿ / ﻿35.74833&amp;deg;S 148.08444&amp;deg;E﻿ / -35.74833; 148.08444﻿ (King)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_44_54_S_148_05_04_E_type:city_region:AU-NSW&amp;title=King</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kosciusko</html>
+          <wikipedia>/w/index.php?title=Kosciusko,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;30&amp;prime;54&amp;Prime;S 148&amp;deg;12&amp;prime;04&amp;Prime;E﻿ / ﻿36.51500&amp;deg;S 148.20111&amp;deg;E﻿ / -36.51500; 148.20111﻿ (Kosciusko)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_30_54_S_148_12_04_E_type:city_region:AU-NSW&amp;title=Kosciusko</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lea</html>
+          <wikipedia>/w/index.php?title=Lea,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;07&amp;prime;54&amp;Prime;S 148&amp;deg;10&amp;prime;04&amp;Prime;E﻿ / ﻿36.13167&amp;deg;S 148.16778&amp;deg;E﻿ / -36.13167; 148.16778﻿ (Lea)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_07_54_S_148_10_04_E_type:city_region:AU-NSW&amp;title=Lea</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Manjar</html>
+          <wikipedia>/w/index.php?title=Manjar,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;51&amp;prime;54&amp;Prime;S 148&amp;deg;19&amp;prime;04&amp;Prime;E﻿ / ﻿35.86500&amp;deg;S 148.31778&amp;deg;E﻿ / -35.86500; 148.31778﻿ (Manjar)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_51_54_S_148_19_04_E_type:city_region:AU-NSW&amp;title=Manjar</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mannus</html>
+          <wikipedia>Mannus,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 147&amp;deg;57&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 147.95111&amp;deg;E﻿ / -35.83167; 147.95111﻿ (Mannus)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_49_54_S_147_57_04_E_type:city_region:AU-NSW&amp;title=Mannus</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Maragle</html>
+          <wikipedia>/w/index.php?title=Maragle,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;53&amp;prime;54&amp;Prime;S 148&amp;deg;09&amp;prime;04&amp;Prime;E﻿ / ﻿35.89833&amp;deg;S 148.15111&amp;deg;E﻿ / -35.89833; 148.15111﻿ (Maragle)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_53_54_S_148_09_04_E_type:city_region:AU-NSW&amp;title=Maragle</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mate</html>
+          <wikipedia>/w/index.php?title=Mate,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;39&amp;prime;54&amp;Prime;S 147&amp;deg;53&amp;prime;04&amp;Prime;E﻿ / ﻿35.66500&amp;deg;S 147.88444&amp;deg;E﻿ / -35.66500; 147.88444﻿ (Mate)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_39_54_S_147_53_04_E_type:city_region:AU-NSW&amp;title=Mate</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Munderoo</html>
+          <wikipedia>Munderoo,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 147&amp;deg;51&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 147.85111&amp;deg;E﻿ / -35.83167; 147.85111﻿ (Munderoo)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_49_54_S_147_51_04_E_type:city_region:AU-NSW&amp;title=Munderoo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Munyang</html>
+          <wikipedia>/w/index.php?title=Munyang,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;12&amp;prime;54&amp;Prime;S 148&amp;deg;27&amp;prime;04&amp;Prime;E﻿ / ﻿36.21500&amp;deg;S 148.45111&amp;deg;E﻿ / -36.21500; 148.45111﻿ (Munyang)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_12_54_S_148_27_04_E_type:city_region:AU-NSW&amp;title=Munyang</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Murray</html>
+          <wikipedia>/w/index.php?title=Murray,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;12&amp;prime;54&amp;Prime;S 148&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿36.21500&amp;deg;S 148.26778&amp;deg;E﻿ / -36.21500; 148.26778﻿ (Murray)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_12_54_S_148_16_04_E_type:city_region:AU-NSW&amp;title=Murray</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nurenmerenmong</html>
+          <wikipedia>/w/index.php?title=Nurenmerenmong,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 148&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 148.25111&amp;deg;E﻿ / -35.83167; 148.25111﻿ (Nurenmerenmong)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_49_54_S_148_15_04_E_type:city_region:AU-NSW&amp;title=Nurenmerenmong</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ournie</html>
+          <wikipedia>Ournie,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;56&amp;prime;54&amp;Prime;S 147&amp;deg;52&amp;prime;04&amp;Prime;E﻿ / ﻿35.94833&amp;deg;S 147.86778&amp;deg;E﻿ / -35.94833; 147.86778﻿ (Ournie)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_56_54_S_147_52_04_E_type:city_region:AU-NSW&amp;title=Ournie</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Round Hill</html>
+          <wikipedia>/w/index.php?title=Round_Hill,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;58&amp;prime;54&amp;Prime;S 148&amp;deg;23&amp;prime;04&amp;Prime;E﻿ / ﻿35.98167&amp;deg;S 148.38444&amp;deg;E﻿ / -35.98167; 148.38444﻿ (Round Hill)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_58_54_S_148_23_04_E_type:city_region:AU-NSW&amp;title=Round+Hill</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Scott</html>
+          <wikipedia>/w/index.php?title=Scott,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;59&amp;prime;54&amp;Prime;S 148&amp;deg;30&amp;prime;04&amp;Prime;E﻿ / ﻿35.99833&amp;deg;S 148.50111&amp;deg;E﻿ / -35.99833; 148.50111﻿ (Scott)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_59_54_S_148_30_04_E_type:city_region:AU-NSW&amp;title=Scott</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Selwyn</html>
+          <wikipedia>/w/index.php?title=Selwyn,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumut Shire</html>
+          <wikipedia>Tumut_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 148&amp;deg;24&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 148.40111&amp;deg;E﻿ / -35.83167; 148.40111﻿ (Selwyn)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_49_54_S_148_24_04_E_type:city_region:AU-NSW&amp;title=Selwyn</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Table Top</html>
+          <wikipedia>Table_Top,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumut Shire</html>
+          <wikipedia>Tumut_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 148&amp;deg;24&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 148.40111&amp;deg;E﻿ / -35.93167; 148.40111﻿ (Table Top)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_55_54_S_148_24_04_E_type:city_region:AU-NSW&amp;title=Table+Top</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tooma</html>
+          <wikipedia>Tooma,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 148&amp;deg;04&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 148.06778&amp;deg;E﻿ / -35.93167; 148.06778﻿ (Tooma)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_55_54_S_148_04_04_E_type:city_region:AU-NSW&amp;title=Tooma</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tougaroo</html>
+          <wikipedia>/w/index.php?title=Tougaroo,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;33&amp;prime;54&amp;Prime;S 148&amp;deg;13&amp;prime;04&amp;Prime;E﻿ / ﻿36.56500&amp;deg;S 148.21778&amp;deg;E﻿ / -36.56500; 148.21778﻿ (Tougaroo)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_33_54_S_148_13_04_E_type:city_region:AU-NSW&amp;title=Tougaroo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tumbarumba</html>
+          <wikipedia>Tumbarumba,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;51&amp;prime;54&amp;Prime;S 148&amp;deg;02&amp;prime;04&amp;Prime;E﻿ / ﻿35.86500&amp;deg;S 148.03444&amp;deg;E﻿ / -35.86500; 148.03444﻿ (Tumbarumba)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_51_54_S_148_02_04_E_type:city_region:AU-NSW&amp;title=Tumbarumba</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Twynam</html>
+          <wikipedia>/w/index.php?title=Twynam,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;41&amp;prime;54&amp;Prime;S 148&amp;deg;13&amp;prime;04&amp;Prime;E﻿ / ﻿36.69833&amp;deg;S 148.21778&amp;deg;E﻿ / -36.69833; 148.21778﻿ (Twynam)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_41_54_S_148_13_04_E_type:city_region:AU-NSW&amp;title=Twynam</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Victoria</html>
+          <wikipedia>/w/index.php?title=Victoria,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;25&amp;prime;54&amp;Prime;S 148&amp;deg;08&amp;prime;04&amp;Prime;E﻿ / ﻿36.43167&amp;deg;S 148.13444&amp;deg;E﻿ / -36.43167; 148.13444﻿ (Victoria)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_25_54_S_148_08_04_E_type:city_region:AU-NSW&amp;title=Victoria</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Wallace</html>
+          <wikipedia>/w/index.php?title=Wallace,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;47&amp;prime;54&amp;Prime;S 148&amp;deg;19&amp;prime;04&amp;Prime;E﻿ / ﻿35.79833&amp;deg;S 148.31778&amp;deg;E﻿ / -35.79833; 148.31778﻿ (Wallace)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_47_54_S_148_19_04_E_type:city_region:AU-NSW&amp;title=Wallace</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Welaregang</html>
+          <wikipedia>Welaregang,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;58&amp;prime;54&amp;Prime;S 147&amp;deg;56&amp;prime;04&amp;Prime;E﻿ / ﻿35.98167&amp;deg;S 147.93444&amp;deg;E﻿ / -35.98167; 147.93444﻿ (Welaregang)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_58_54_S_147_56_04_E_type:city_region:AU-NSW&amp;title=Welaregang</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Welumba</html>
+          <wikipedia>/w/index.php?title=Welumba,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;58&amp;prime;54&amp;Prime;S 148&amp;deg;08&amp;prime;04&amp;Prime;E﻿ / ﻿35.98167&amp;deg;S 148.13444&amp;deg;E﻿ / -35.98167; 148.13444﻿ (Welumba)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_58_54_S_148_08_04_E_type:city_region:AU-NSW&amp;title=Welumba</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Yellowin</html>
+          <wikipedia>/w/index.php?title=Yellowin,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumut Shire</html>
+          <wikipedia>Tumut_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;27&amp;prime;54&amp;Prime;S 148&amp;deg;14&amp;prime;04&amp;Prime;E﻿ / ﻿35.46500&amp;deg;S 148.23444&amp;deg;E﻿ / -35.46500; 148.23444﻿ (Yellowin)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=35_27_54_S_148_14_04_E_type:city_region:AU-NSW&amp;title=Yellowin</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Youngal</html>
+          <wikipedia>/w/index.php?title=Youngal,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tumbarumba Shire</html>
+          <wikipedia>Tumbarumba_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;13&amp;prime;54&amp;Prime;S 148&amp;deg;10&amp;prime;04&amp;Prime;E﻿ / ﻿36.23167&amp;deg;S 148.16778&amp;deg;E﻿ / -36.23167; 148.16778﻿ (Youngal)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Selwyn_County%2C_New_South_Wales&amp;params=36_13_54_S_148_10_04_E_type:city_region:AU-NSW&amp;title=Youngal</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Selwyn County, New South Wales - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Selwyn County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Selwyn County was named in honour of Geologist, Alfred Richard Cecil Selwyn (1824-1902).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Selwyn County, New South Wales is one of the 141 Cadastral divisions of New South Wales . It is located to the east of the Murray River , with part of the Tumut River as its boundary to the north-east. It includes Mount Kosciusko , the highest mountain in Australia.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ Geographical Names Board of NSW</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Selwyn County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

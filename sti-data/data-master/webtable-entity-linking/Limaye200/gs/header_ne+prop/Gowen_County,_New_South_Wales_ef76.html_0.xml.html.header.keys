@@ -1,0 +1,4 @@
+2=/location/geocode/latitude=/location/geocode/longitude
+0=/location/administrative_division=/base/aareas/schema/administrative_area=/government/political_district=/government/governmental_jurisdiction	/location/location=/location/dated_location=/base/tagit/place=/location/statistical_region			___NE
+1=/location/australian_local_government_area=/base/aareas/schema/au/local_government_area	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/base/tagit/place			___NE
+

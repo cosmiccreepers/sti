@@ -23,6 +23,23 @@ import java.util.*;
 /**
  * Created by - on 10/06/2016.
  */
+
+/*
+* Query a label in DBpedia for a value,
+*  SELECT DISTINCT ?s ?o WHERE {?s <http://www.w3.org/2000/01/rdf-schema#label> ?o filter(str(?o)="Saint Lucia")}
+*
+* above query brings backs all ?s where these are entity candidates based on label "saint lucia"
+*
+* select distinct *
+* where {
+* ?x a ?o.
+* ?x rdfs:label ?label
+* filter(str(?label)="Switzerland")
+* }
+*
+* This returns a list of all object properties where there the object has a label = "Switzerland"
+*
+*/
 public class DBpediaSearch extends SPARQLSearch {
 
     private static final boolean ALWAYS_CALL_REMOTE_SEARCHAPI = false;
@@ -118,7 +135,10 @@ public class DBpediaSearch extends SPARQLSearch {
                     List<Attribute> attributes = findAttributesOfEntities(ec);
                     ec.setAttributes(attributes);
                     for (Attribute attr : attributes) {
+                        LOG.info("Attribute: " + attr.toString() + "\n Value: " + attr.getValue());
                         resetResourceValue(attr);
+                        //catch KBSearchException and continue with attr as previous value?
+
                         if (attr.getRelationURI().endsWith(RDFEnum.RELATION_HASTYPE_SUFFIX_PATTERN.getString()) &&
                                 !ec.hasType(attr.getValueURI())) {
                             ec.addType(new Clazz(attr.getValueURI(), attr.getValue()));
@@ -174,6 +194,10 @@ public class DBpediaSearch extends SPARQLSearch {
                         Iterator<Entity> it = result.iterator();
                         while (it.hasNext()) {
                             Entity ec = it.next();
+                            if (ec.getId() == null){ //skip to next if type has no id!
+                                it.remove(); //still should remove as type isnt satisfied?
+                                break;
+                            }
                             boolean typeSatisfied = false;
                             for (String t : types) {
                                 if (ec.hasType(t)) {
@@ -189,7 +213,7 @@ public class DBpediaSearch extends SPARQLSearch {
             } catch (Exception e) {
             }
         }
-        if (result == null) {
+        if (result == null || result.size() == 0) {
             result = new ArrayList<>();
             try {
                 //1. try exact string
@@ -238,7 +262,8 @@ public class DBpediaSearch extends SPARQLSearch {
                     ec.setAttributes(attributes);
                     for (Attribute attr : attributes) {
                         resetResourceValue(attr);
-                        if (attr.getRelationURI().endsWith(RDFEnum.RELATION_HASTYPE_SUFFIX_PATTERN.getString()) &&
+                        if ((attr.getRelationURI().endsWith(RDFEnum.RELATION_HASTYPE_SUFFIX_PATTERN.getString()) ||
+                                attr.getRelationURI().endsWith(RDFEnum.RELATION_HASTYPE_DBPEDIA_SUFFIX_PATTERN.getString())) &&
                                 !ec.hasType(attr.getValueURI())) {
                             ec.addType(new Clazz(attr.getValueURI(), attr.getValue()));
                         }
@@ -267,9 +292,21 @@ public class DBpediaSearch extends SPARQLSearch {
         return result;
     }
 
+    private String cleanLabel(String value, String clean_pattern){
+        int idx = value.indexOf(clean_pattern);
+        String new_value = value.substring(0,idx);
+
+        return new_value;
+    }
     // if the attribute's value is an URL, fetch the label of that resource, and reset its attr value
+    // in DBpedia, this is not sufficient, sometimes a URL is the value and not a link to RDF resource
     private void resetResourceValue(Attribute attr) throws KBSearchException {
         String value = attr.getValue();
+
+        //regex cleaning, list allowed characters and will replace all else with nothing
+        // value = value.replaceAll("[^ :./#_@a-zA-Z0-9\\-]","");
+        value = value.replaceAll("[^ :/#_@\\-\\p{Alnum}]","");
+
         if (value.startsWith("http")) {
             String queryCache = createSolrCacheQuery_findLabelForResource(value);
             boolean forceQuery = false;
@@ -285,9 +322,10 @@ public class DBpediaSearch extends SPARQLSearch {
                         LOG.debug("QUERY (resource labels, cache load)=" + queryCache + "|" + queryCache);
                     }
                 } catch (Exception e) {
+                    LOG.info("URL Search error");
                 }
             }
-            if (result == null) {
+            if (result == null || result.size() == 0) {
                 try {
                     //1. try exact string
                     String sparqlQuery = createGetLabelQuery(value);
@@ -296,7 +334,9 @@ public class DBpediaSearch extends SPARQLSearch {
                     cacheEntity.cache(queryCache, result, AUTO_COMMIT);
                     LOG.debug("QUERY (entities, cache save)=" + queryCache + "|" + queryCache);
                 } catch (Exception e) {
+                    LOG.info("URL search error");
                     throw new KBSearchException(e);
+                    // removing error may stop error with URls
                 }
             }
 
@@ -304,7 +344,8 @@ public class DBpediaSearch extends SPARQLSearch {
                 attr.setValueURI(value);
                 attr.setValue(result.get(0));
             } else {
-                attr.setValueURI(value);
+                // attr.setValueURI(value);
+                // Do we want to set the URI to the URL value? I don't think we do...
             }
         }
     }

@@ -1,0 +1,5 @@
+2,0=/basketball/basketball_player/position_s	
+2,1=/sports/sports_team_roster/number
+2,3=/people/person/height_meters
+2,4=/people/person/weight_kg
+2,5=/people/person/date_of_birth

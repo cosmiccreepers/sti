@@ -133,24 +133,26 @@ public class SubjectColumnDetector {
             //     return rs;
         }*/
 
+        // TO 15/05/19 - removed this as unclear if it will help particularly as not all tables will have named headers in use case
         //7.5 ====== this is a dangerous rule as it MAY overdo (have not checked thou) true positives ======
-        List<Integer> ignoreColumns = new ArrayList<>();
-        featureGenerator.setInvalidHeaderTextSyntax(featuresOfNEColumns, table);
-        for (TColumnFeature cf : featuresOfNEColumns) {
-            if (cf.isInvalidPOS())
-                ignoreColumns.add(cf.getColId());
-        }
+        // List<Integer> ignoreColumns = new ArrayList<>();
+        // featureGenerator.setInvalidHeaderTextSyntax(featuresOfNEColumns, table);
+        // for (TColumnFeature cf : featuresOfNEColumns) {
+        //    if (cf.isInvalidPOS())
+        //        ignoreColumns.add(cf.getColId());
+        // }
         //if columns to be ignored due to invalid header text is less than total columns
         //to be considered,we can isValidAttribute them
         //otherwise, if we are told all columns should be ignored, dont isValidAttribute any candidate ne columns
-        if (ignoreColumns.size()>0&&ignoreColumns.size() != featuresOfNEColumns.size()) {
-            Iterator<TColumnFeature> it = featuresOfNEColumns.iterator();
-            while (it.hasNext()) {
-                TColumnFeature cf = it.next();
-                if (cf.isInvalidPOS())
-                    it.remove();
-            }
-        }
+        //if (ignoreColumns.size()>0&&ignoreColumns.size() != featuresOfNEColumns.size()) {
+        //    Iterator<TColumnFeature> it = featuresOfNEColumns.iterator();
+        //    while (it.hasNext()) {
+        //        TColumnFeature cf = it.next();
+        //        if (cf.isInvalidPOS())
+        //            it.remove();
+        //    }
+        //}
+
         if (featuresOfNEColumns.size() == 1) {
             Pair<Integer, Pair<Double, Boolean>> oo = new ImmutablePair<>(
                     featuresOfNEColumns.get(0).getColId(),

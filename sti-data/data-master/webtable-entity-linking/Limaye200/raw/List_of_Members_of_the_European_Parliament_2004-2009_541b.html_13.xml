@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Country</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Region</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Group</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Pasqualina Napoletano</html>
+          <wikipedia>Pasqualina_Napoletano</wikipedia>
+        </cell>
+        <cell>
+          <html>Italy</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Central</html>
+          <wikipedia>European_Parliament_Election,_2004_(Italy)#Seats</wikipedia>
+        </cell>
+        <cell>
+          <html>DS</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PES</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Juan Andr&amp;eacute;s Naranjo Escobar</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Spain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PP</html>
+          <wikipedia>People%27s_Party_(Spain)</wikipedia>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hartmut Nassauer</html>
+          <wikipedia>Hartmut_Nassauer</wikipedia>
+        </cell>
+        <cell>
+          <html>Germany</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hesse</html>
+          <wikipedia>Hesse</wikipedia>
+        </cell>
+        <cell>
+          <html>CDU</html>
+          <wikipedia>Christian-Democratic_Union_of_Germany</wikipedia>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mike Nattrass</html>
+          <wikipedia>Mike_Nattrass</wikipedia>
+        </cell>
+        <cell>
+          <html>United Kingdom</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>West Midlands</html>
+          <wikipedia>West_Midlands_(region)</wikipedia>
+        </cell>
+        <cell>
+          <html>UKIP</html>
+          <wikipedia>UK_Independence_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>IND/DEM</html>
+          <wikipedia>IND/DEM</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Robert Navarro</html>
+          <wikipedia>Robert_Navarro</wikipedia>
+        </cell>
+        <cell>
+          <html>France</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sud-Ouest</html>
+          <wikipedia>European_Parliament_Election,_2004_(France)#Seats</wikipedia>
+        </cell>
+        <cell>
+          <html>PS</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PES</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cătălin-Ioan Nechifor from Dec 10 , 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Romania</html>
+          <wikipedia>List_of_members_of_the_European_Parliament_for_Romania,_2009%E2%80%9314</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PSD</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PES</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Catherine Neris from Jul 4 , 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>France</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>outre-mer</html>
+          <wikipedia>European_Parliament_Election,_2004_(France)#Seats</wikipedia>
+        </cell>
+        <cell>
+          <html>PS</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PES</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bill Newton Dunn</html>
+          <wikipedia>Bill_Newton_Dunn</wikipedia>
+        </cell>
+        <cell>
+          <html>United Kingdom</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>East Midlands</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lib Dem</html>
+          <wikipedia>Liberal_Democrats_(UK)</wikipedia>
+        </cell>
+        <cell>
+          <html>ALDE</html>
+          <wikipedia>Group_of_the_Alliance_of_Liberals_and_Democrats_for_Europe</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Annemie Neyts-Uyttebroeck</html>
+          <wikipedia>Annemie_Neyts-Uyttebroeck</wikipedia>
+        </cell>
+        <cell>
+          <html>Belgium</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Flemish Community</html>
+          <wikipedia>Flanders</wikipedia>
+        </cell>
+        <cell>
+          <html>VLD / Vivant</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>ALDE</html>
+          <wikipedia>Group_of_the_Alliance_of_Liberals_and_Democrats_for_Europe</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Emma Nicholson</html>
+          <wikipedia>Emma_Nicholson</wikipedia>
+        </cell>
+        <cell>
+          <html>United Kingdom</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>South East England</html>
+          <wikipedia>South_East_England</wikipedia>
+        </cell>
+        <cell>
+          <html>Lib Dem</html>
+          <wikipedia>Liberal_Democrats_(UK)</wikipedia>
+        </cell>
+        <cell>
+          <html>ALDE</html>
+          <wikipedia>Group_of_the_Alliance_of_Liberals_and_Democrats_for_Europe</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jim Nicholson</html>
+          <wikipedia>Jim_Nicholson_(UK_politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>United Kingdom</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Northern Ireland</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>UUP</html>
+          <wikipedia>Ulster_Unionist_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Rareş-Lucian Niculescu from Dec 10 , 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Romania</html>
+          <wikipedia>List_of_members_of_the_European_Parliament_for_Romania,_2009%E2%80%9314</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PSD</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Angelika Niebler</html>
+          <wikipedia>Angelika_Niebler</wikipedia>
+        </cell>
+        <cell>
+          <html>Germany</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bavaria</html>
+          <wikipedia>Bavaria</wikipedia>
+        </cell>
+        <cell>
+          <html>CSU</html>
+          <wikipedia>Christian_Social_Union_in_Bavaria</wikipedia>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ljudmila Novak</html>
+          <wikipedia>Ljudmila_Novak</wikipedia>
+        </cell>
+        <cell>
+          <html>Slovenia</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nsi</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>EPP-ED</html>
+          <wikipedia>EPP-ED</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Members of the European Parliament 2004-2009 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] N</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Members of the European Parliament 2004-2009</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] M</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] O</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sources</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] L</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] K</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] P</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] J</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] I</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] H</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Q</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] G</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] F</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] R</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] E</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Position</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Club</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Goals</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Thomas Thorninger</html>
+          <wikipedia>Thomas_Thorninger</wikipedia>
+        </cell>
+        <cell>
+          <html>Aarhus GF</html>
+          <wikipedia>Aarhus_Gymnastik_Forening</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Per Pedersen</html>
+          <wikipedia>Per_Pedersen_(footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Odense BK</html>
+          <wikipedia>Odense_BK</wikipedia>
+        </cell>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>-</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Steffen H&amp;oslash;jer</html>
+          <wikipedia>Steffen_H%C3%B8jer</wikipedia>
+        </cell>
+        <cell>
+          <html>Viborg FF</html>
+          <wikipedia>Viborg_FF</wikipedia>
+        </cell>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Peter M&amp;oslash;ller</html>
+          <wikipedia>Peter_M%C3%B8ller</wikipedia>
+        </cell>
+        <cell>
+          <html>Br&amp;oslash;ndby IF</html>
+          <wikipedia>Br%C3%B8ndby_IF</wikipedia>
+        </cell>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Erik Bo Andersen</html>
+          <wikipedia>Erik_Bo_Andersen</wikipedia>
+        </cell>
+        <cell>
+          <html>Aalborg BK</html>
+          <wikipedia>AaB_Fodbold</wikipedia>
+        </cell>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ebbe Sand</html>
+          <wikipedia>Ebbe_Sand</wikipedia>
+        </cell>
+        <cell>
+          <html>Br&amp;oslash;ndby IF</html>
+          <wikipedia>Br%C3%B8ndby_IF</wikipedia>
+        </cell>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Henrik Larsen</html>
+          <wikipedia>Henrik_Larsen</wikipedia>
+        </cell>
+        <cell>
+          <html>Lyngby FC</html>
+          <wikipedia>Lyngby_FC</wikipedia>
+        </cell>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>-</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>S&amp;oslash;ren Frederiksen</html>
+          <wikipedia>S%C3%B8ren_Frederiksen_(footballer_born_1972)</wikipedia>
+        </cell>
+        <cell>
+          <html>Viborg FF</html>
+          <wikipedia>Viborg_FF</wikipedia>
+        </cell>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Nielsen</html>
+          <wikipedia>David_Nielsen_(footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Lyngby FC</html>
+          <wikipedia>Lyngby_FC</wikipedia>
+        </cell>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>-</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Miklos Molnar</html>
+          <wikipedia>Miklos_Molnar</wikipedia>
+        </cell>
+        <cell>
+          <html>Herf&amp;oslash;lge BK</html>
+          <wikipedia>Herf%C3%B8lge_BK</wikipedia>
+        </cell>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>-</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>H&amp;aring;vard Flo</html>
+          <wikipedia>H%C3%A5vard_Flo</wikipedia>
+        </cell>
+        <cell>
+          <html>Aarhus GF</html>
+          <wikipedia>Aarhus_Gymnastik_Forening</wikipedia>
+        </cell>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Danish Superliga 1995-96 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Top Goalscorers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Danish Superliga 1995-96</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Table</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Table</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Top Goalscorers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Danish champions qualified for the UEFA Champions League 1996-97 qualification, while the second and third placed teams qualified for the qualification round of the UEFA Cup 1996-97 . The fourth and sixth placed teams qualified for the UEFA Intertoto Cup 1996 , while the two lowest placed teams of the tournament was directly relegated to the Danish 1st Division . Likewise, the Danish 1st Division champions and runners-up were promoted to the Superliga.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>1995-96 in Danish football</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The 1995-96 Danish Superliga season was the 6th season of the Danish Superliga league championship, governed by the Danish Football Association .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Danish Superliga 1995-96</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>(Danish) Peders Fodboldstatistik</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

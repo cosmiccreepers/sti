@@ -1,0 +1,5 @@
+0,1=/sports/sports_team_roster/number
+0,2=/people/person/nationality
+0,3=/basketball/basketball_player/position_s	/sports/sports_team_roster/position
+0,4=/sports/sports_team_roster/from=/sports/sports_team_roster/to
+0,5=/sports/sports_league_draft_pick/school=/education/education/institution	/sports/sports_team_roster/team

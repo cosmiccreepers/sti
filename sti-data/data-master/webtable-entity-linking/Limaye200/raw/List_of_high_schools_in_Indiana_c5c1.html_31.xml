@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>City / Town</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Size</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Principal</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Grades</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>IDOE Profile</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Benjamin Bosse High School</html>
+          <wikipedia>Benjamin_Bosse_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia>Evansville,_Indiana</wikipedia>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evsc.k12.in.us/schoolzone/schools/bossehs/bhs.htm</wikipedia>
+        </cell>
+        <cell>
+          <html>855</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mr Robert W Adams</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8237</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Evansville Central High School</html>
+          <wikipedia>Evansville_Central_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evsc.k12.in.us/schoolzone/schools/central/index1.htm</wikipedia>
+        </cell>
+        <cell>
+          <html>1467</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mr John Russell</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8241</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Christa McAuliffe Alternative Middle School</html>
+          <wikipedia>/w/index.php?title=Christa_McAuliffe_Alternative_Middle_School&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>36</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mr Jay Hille</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>05-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8277</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Evansville Day School</html>
+          <wikipedia>Evansville_Day_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evansvilledayschool.org/</wikipedia>
+        </cell>
+        <cell>
+          <html>257</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mr Benjamin Hebebrand</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PK-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=D525</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>EVSC Juvenile Correctional Facility</html>
+          <wikipedia>/w/index.php?title=EVSC_Juvenile_Correctional_Facility&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dr Susan McDowell-Riley</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8249</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Faith Heritage Christian School</html>
+          <wikipedia>/w/index.php?title=Faith_Heritage_Christian_School&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.faithheritage.net/</wikipedia>
+        </cell>
+        <cell>
+          <html>63</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dr Greg Pounders</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PK-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=D641</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Francis Joseph Reitz High School</html>
+          <wikipedia>FJ_Reitz_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evscschools.com/AdminDefault.aspx?portalId=809445ac-3055-4a1c-8fda-1528d525e661</wikipedia>
+        </cell>
+        <cell>
+          <html>1352</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Christine Settle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8245</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Henry Reis Educational Center</html>
+          <wikipedia>/w/index.php?title=Henry_Reis_Educational_Center&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evsc.k12.in.us/schoolzone/schools/henryreis/hrindex.htm</wikipedia>
+        </cell>
+        <cell>
+          <html>113</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mr Matory Bailey</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8297</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Evansville Lutheran School</html>
+          <wikipedia>Evansville_Lutheran_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evansvillelutheranschool.com/ELS3/Welcome.html</wikipedia>
+        </cell>
+        <cell>
+          <html>64</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tony Schull</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>K-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mater Dei High School</html>
+          <wikipedia>Mater_Dei_High_School_(Evansville,_Indiana)</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.materdeiwildcats.com/</wikipedia>
+        </cell>
+        <cell>
+          <html>591</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dr Anne Marie Williams</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=D530</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>North High School</html>
+          <wikipedia>North_High_School_(Evansville)</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evscschools.com/AdminDefault.aspx?PortalId=193188d4-8b88-44fd-a5f0-177bd726cd01</wikipedia>
+        </cell>
+        <cell>
+          <html>1506</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Brenda Weber</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8253</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Reitz Memorial High School</html>
+          <wikipedia>Reitz_Memorial_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.memorial.evansville.net/</wikipedia>
+        </cell>
+        <cell>
+          <html>840</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gwen Godsey</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=D535</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Evansville Signature School</html>
+          <wikipedia>Signature_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.signature.edu/</wikipedia>
+        </cell>
+        <cell>
+          <html>277</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Vicki Snyder</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8295</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stanley Hall Enrichment Center</html>
+          <wikipedia>/w/index.php?title=Stanley_Hall_Enrichment_Center&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evsc.k12.in.us/schoolzone/schools/stanley/titlepage.htm</wikipedia>
+        </cell>
+        <cell>
+          <html>74</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Elizabeth McGovern</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8304</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>The Learning Center</html>
+          <wikipedia>/w/index.php?title=The_Learning_Center&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>84</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Gail Stewart</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>KG-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8396</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>William Henry Harrison High School</html>
+          <wikipedia>William_Henry_Harrison_High_School_(Evansville,_Indiana)</wikipedia>
+        </cell>
+        <cell>
+          <html>Evansville</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Website</html>
+          <wikipedia>http://www.evsc.k12.in.us/schoolzone/schools/harrison/index.htm</wikipedia>
+        </cell>
+        <cell>
+          <html>1427</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ms Janet Leistner</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>09-12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snapshot</html>
+          <wikipedia>http://mustang.doe.state.in.us/SEARCH/snapshot.cfm?schl=8311</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of high schools in Indiana - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Vanderburgh County</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of high schools in Indiana</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] V</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Vermillion County</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] A</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] B</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] C</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] D</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] E</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] F</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] G</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] H</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] J</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] K</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] L</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] M</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] N</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] O</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] P</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] R</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] S</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] T</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] U</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] V</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] W</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Mrs Connie Rosenberger</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Vigo County</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] W</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>School City / Town Website Size Principal Grades IDOE Profile</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Union County</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Wabash County</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] U</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

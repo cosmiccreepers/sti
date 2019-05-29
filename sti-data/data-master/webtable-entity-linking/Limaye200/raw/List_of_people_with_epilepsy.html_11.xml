@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Life</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Comments</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Reference</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Alexander the Great</html>
+          <wikipedia>Alexander_the_Great</wikipedia>
+        </cell>
+        <cell>
+          <html>356-323 BC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Collapsed after taking strong medicine for pneumonia.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Charles the Fat</html>
+          <wikipedia>Charles_the_Fat</wikipedia>
+        </cell>
+        <cell>
+          <html>c.839-888</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Commonly regarded as a sickly king, with epilepsy, who had a &amp;quot;fit&amp;quot; in Frankfurt in 873. One author's recent detailed investigations cast doubt on the accuracy of certain reports, or their common interpretation. Instead, headache, malaria and a stroke are suggested.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alfred the Great</html>
+          <wikipedia>Alfred_the_Great</wikipedia>
+        </cell>
+        <cell>
+          <html>849-899</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>pain</html>
+          <wikipedia>Pain</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Leonardo da Vinci</html>
+          <wikipedia>Leonardo_da_Vinci</wikipedia>
+        </cell>
+        <cell>
+          <html>1452-1519</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nervous shaking and spasms when furious.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Michelangelo</html>
+          <wikipedia>Michelangelo</wikipedia>
+        </cell>
+        <cell>
+          <html>1475-1564</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>faint</html>
+          <wikipedia>Fainting</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Martin Luther</html>
+          <wikipedia>Martin_Luther</wikipedia>
+        </cell>
+        <cell>
+          <html>1483-1546</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Osborne, M&amp;eacute;ni&amp;egrave;re&amp;rsquo;s disease</html>
+          <wikipedia>John_Osborne</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cardinal Richelieu</html>
+          <wikipedia>Cardinal_Richelieu</wikipedia>
+        </cell>
+        <cell>
+          <html>1585-1642</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bouts of tears.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Louis XIII of France</html>
+          <wikipedia>Louis_XIII_of_France</wikipedia>
+        </cell>
+        <cell>
+          <html>1601-1643</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Episodes of violence, moodiness and fearfulness.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Moli&amp;egrave;re</html>
+          <wikipedia>Moli%C3%A8re</wikipedia>
+        </cell>
+        <cell>
+          <html>1622-1673</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>A coughing fit.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Blaise Pascal</html>
+          <wikipedia>Blaise_Pascal</wikipedia>
+        </cell>
+        <cell>
+          <html>1623-1662</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Breath-holding spells</html>
+          <wikipedia>Breath-holding_spells</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>William III of England</html>
+          <wikipedia>William_III_of_England</wikipedia>
+        </cell>
+        <cell>
+          <html>1650-1702</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fainting and coughing fits.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jonathan Swift</html>
+          <wikipedia>Jonathan_Swift</wikipedia>
+        </cell>
+        <cell>
+          <html>1667-1745</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Severe fits of giddiness due to M&amp;eacute;ni&amp;egrave;re&amp;rsquo;s disease.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>George Frideric Handel</html>
+          <wikipedia>George_Frideric_Handel</wikipedia>
+        </cell>
+        <cell>
+          <html>1685-1759</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>stroke</html>
+          <wikipedia>Stroke</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>William Pitt the Elder</html>
+          <wikipedia>William_Pitt,_1st_Earl_of_Chatham</wikipedia>
+        </cell>
+        <cell>
+          <html>1708-1778</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>gout</html>
+          <wikipedia>Gout</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Samuel Johnson</html>
+          <wikipedia>Samuel_Johnson</wikipedia>
+        </cell>
+        <cell>
+          <html>1709-1784</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tourette syndrome</html>
+          <wikipedia>Tourette_syndrome</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jean-Jacques Rousseau</html>
+          <wikipedia>Jean-Jacques_Rousseau</wikipedia>
+        </cell>
+        <cell>
+          <html>1712-1778</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dizzy</html>
+          <wikipedia>Dizziness</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>James Madison</html>
+          <wikipedia>James_Madison</wikipedia>
+        </cell>
+        <cell>
+          <html>1751-1836</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Psychogenic non-epileptic seizures.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Walter Scott</html>
+          <wikipedia>Walter_Scott</wikipedia>
+        </cell>
+        <cell>
+          <html>1771-1832</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>cramp, kidney stones</html>
+          <wikipedia>Cramp</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Niccol&amp;ograve; Paganini</html>
+          <wikipedia>Niccol%C3%B2_Paganini</wikipedia>
+        </cell>
+        <cell>
+          <html>1784-1840</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Repeated collapsing due to weakness.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lord Byron</html>
+          <wikipedia>Lord_Byron</wikipedia>
+        </cell>
+        <cell>
+          <html>1788-1824</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Psychogenic non-epileptic seizures</html>
+          <wikipedia>Psychogenic_non-epileptic_seizures</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Percy Bysshe Shelley</html>
+          <wikipedia>Percy_Bysshe_Shelley</wikipedia>
+        </cell>
+        <cell>
+          <html>1792-1822</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fits of pain and nervous attacks.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hector Berlioz</html>
+          <wikipedia>Hector_Berlioz</wikipedia>
+        </cell>
+        <cell>
+          <html>1803-1869</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>&amp;quot;Fits of spleen&amp;quot;.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Robert Schumann</html>
+          <wikipedia>Robert_Schumann</wikipedia>
+        </cell>
+        <cell>
+          <html>1810-1856</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Depression</html>
+          <wikipedia>Clinical_depression</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Charles Dickens</html>
+          <wikipedia>Charles_Dickens</wikipedia>
+        </cell>
+        <cell>
+          <html>1812-1870</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Renal colic</html>
+          <wikipedia>Renal_colic</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>S&amp;oslash;ren Kierkegaard</html>
+          <wikipedia>S%C3%B8ren_Kierkegaard</wikipedia>
+        </cell>
+        <cell>
+          <html>1813-1855</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Collapsing due to weakness.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gustave Flaubert</html>
+          <wikipedia>Gustave_Flaubert</wikipedia>
+        </cell>
+        <cell>
+          <html>1821-1880</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Henri Gastaut</html>
+          <wikipedia>Henri_Gastaut</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Guy de Maupassant</html>
+          <wikipedia>Guy_de_Maupassant</wikipedia>
+        </cell>
+        <cell>
+          <html>1850-1893</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>ether</html>
+          <wikipedia>Ether</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Vincent van Gogh</html>
+          <wikipedia>Vincent_van_Gogh</wikipedia>
+        </cell>
+        <cell>
+          <html>1853-1890</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>van Gogh's illness, Henri Gastaut, potassium bromide, Geschwind syndrome</html>
+          <wikipedia>Vincent_van_Gogh%27s_medical_condition</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Graham Greene</html>
+          <wikipedia>Graham_Greene</wikipedia>
+        </cell>
+        <cell>
+          <html>1904-1991</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Greene was diagnosed with epilepsy as a young man, after several episodes of loss of consciousness. His impending marriage was at risk and he considered suicide. Treatment consisted of good walks and Kepler's Malt Extract. Greene eventually distrusted the diagnosis and it is now considered likely that the episodes were fainting spells.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>John Berryman</html>
+          <wikipedia>John_Berryman</wikipedia>
+        </cell>
+        <cell>
+          <html>1914-1972</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Diagnosed with , petit mal,  epilepsy, now reckoned to have been nervous exhaustion. Berryman suffered from depression and alcoholism.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of people with epilepsy - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>There are many conditions that produce paroxysmal attacks or events. These events (especially in historical, non-medical literature such as biographies) are often called fits, seizures or convulsions. Those terms are not exclusive to epilepsy and such events are sometimes categorised as non-epileptic seizures . When studied in detail, the attacks were more fully described as "fits of spleen", "seized by pain", "convulsed with anguish", etc.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of people with epilepsy</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Similar conditions</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes and references</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Certain diagnosis</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Retrospective diagnosis</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Misdiagnosis</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes and references</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following people may have had one or more epileptic seizures but since the seizures were provoked, they do not result in a diagnosis of epilepsy:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Provoked seizures</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Many individuals have been mistakenly recorded as having epilepsy due to an association with someone (real or fictional) who did have epilepsy, or something similar.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Misdiagnosis by association</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This is an incomplete list , which may never be able to satisfy certain standards for completeness. Revisions and sourced additions are welcome. Prince John had epilepsy. His story was told in the acclaimed TV drama The Lost Prince .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following people are often reported to have had epilepsy but there is no evidence that they had any attacks or illnesses that even resembled epilepsy.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] No evidence</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Many famous people are incorrectly recorded as having epilepsy. In some cases there is no evidence at all for a diagnosis of epilepsy. In others, the symptoms have been misinterpreted. In some, the seizures were provoked by acute illness or alcohol withdrawal, for example.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Misdiagnosis</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,6 @@
+0,1=/people/person/nationality	/people/place_lived/location
+0,2=/government/government_position_held/district_represented
+0,3;3,0=/government/political_party_tenure/party=/government/politician/party
+-3,0;0,3=/government/political_party_tenure/politician
+0,4;4,0=/government/political_party_tenure/party=/government/politician/party
+-4,0;0,4=/government/political_party_tenure/politician

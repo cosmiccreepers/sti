@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Pick</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nationality</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New WNBA Team</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Former WNBA Team</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>College/Country/Team</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jia Perkins</html>
+          <wikipedia>Jia_Perkins</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Charlotte Sting</html>
+          <wikipedia>Charlotte_Sting</wikipedia>
+        </cell>
+        <cell>
+          <html>Texas Tech</html>
+          <wikipedia>Texas_Tech_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Brooke Wyckoff</html>
+          <wikipedia>Brooke_Wyckoff</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Connecticut Sun</html>
+          <wikipedia>Connecticut_Sun</wikipedia>
+        </cell>
+        <cell>
+          <html>Florida State</html>
+          <wikipedia>Florida_State_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Elaine Powell</html>
+          <wikipedia>Elaine_Powell</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Detroit Shock</html>
+          <wikipedia>Detroit_Shock</wikipedia>
+        </cell>
+        <cell>
+          <html>LSU</html>
+          <wikipedia>Louisiana_State_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kiesha Brown</html>
+          <wikipedia>Kiesha_Brown</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Houston Comets</html>
+          <wikipedia>Houston_Comets</wikipedia>
+        </cell>
+        <cell>
+          <html>Georgia</html>
+          <wikipedia>University_of_Georgia</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Deanna Jackson</html>
+          <wikipedia>Deanna_Jackson</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Indiana Fever</html>
+          <wikipedia>Indiana_Fever</wikipedia>
+        </cell>
+        <cell>
+          <html>Alabama-Birmingham</html>
+          <wikipedia>Alabama-Birmingham</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Laura Macchi</html>
+          <wikipedia>/w/index.php?title=Laura_Macchi&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Italy</html>
+          <wikipedia>Italy</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Los Angeles Sparks</html>
+          <wikipedia>Los_Angeles_Sparks</wikipedia>
+        </cell>
+        <cell>
+          <html>Italy</html>
+          <wikipedia>Italy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stacey Lovelace-Tolbert</html>
+          <wikipedia>Stacey_Lovelace-Tolbert</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Minnesota Lynx</html>
+          <wikipedia>Minnesota_Lynx</wikipedia>
+        </cell>
+        <cell>
+          <html>Purdue</html>
+          <wikipedia>Purdue_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>DeTrina White</html>
+          <wikipedia>/w/index.php?title=DeTrina_White&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>New York Liberty</html>
+          <wikipedia>New_York_Liberty</wikipedia>
+        </cell>
+        <cell>
+          <html>LSU</html>
+          <wikipedia>Louisiana_State_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ashley Robinson</html>
+          <wikipedia>Ashley_Robinson</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Phoenix Mercury</html>
+          <wikipedia>Phoenix_Mercury</wikipedia>
+        </cell>
+        <cell>
+          <html>Tennessee</html>
+          <wikipedia>University_of_Tennessee</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chelsea Newton</html>
+          <wikipedia>Chelsea_Newton</wikipedia>
+        </cell>
+        <cell>
+          <html>United States</html>
+          <wikipedia>United_States</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Sacramento Monarchs</html>
+          <wikipedia>Sacramento_Monarchs</wikipedia>
+        </cell>
+        <cell>
+          <html>Rutgers</html>
+          <wikipedia>Rutgers_University</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bernadette Ngoyisa</html>
+          <wikipedia>Bernadette_Ngoyisa</wikipedia>
+        </cell>
+        <cell>
+          <html>Republic of the Congo</html>
+          <wikipedia>Republic_of_the_Congo</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>San Antonio Silver Stars</html>
+          <wikipedia>San_Antonio_Silver_Stars</wikipedia>
+        </cell>
+        <cell>
+          <html>Congo</html>
+          <wikipedia>Democratic_Republic_of_the_Congo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Francesca Zara</html>
+          <wikipedia>/w/index.php?title=Francesca_Zara&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Italy</html>
+          <wikipedia>Italy</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Seattle Storm</html>
+          <wikipedia>Seattle_Storm</wikipedia>
+        </cell>
+        <cell>
+          <html>Italy</html>
+          <wikipedia>Italy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stacey Dales-Schuman</html>
+          <wikipedia>Stacey_Dales</wikipedia>
+        </cell>
+        <cell>
+          <html>Canada</html>
+          <wikipedia>Canada</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago Sky</html>
+          <wikipedia>Chicago_Sky</wikipedia>
+        </cell>
+        <cell>
+          <html>Washington Mystics</html>
+          <wikipedia>Washington_Mystics</wikipedia>
+        </cell>
+        <cell>
+          <html>Oklahoma</html>
+          <wikipedia>University_of_Oklahoma</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>WNBA Expansion Draft History - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2006</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>WNBA Expansion Draft History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Expansion Draft Selections</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2008</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 1999 Expansion Draft</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2000</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2006</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2008</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Indiana Fever, Miami Sol, Portland Fire, Seattle Storn</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2000</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Post Expansion Draft Player Allocation</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Expansion Draft Selections</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Initial Expansion Player Allocation</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ WNBA.com: Atlanta Dream</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Minnesota Lynx and Orlando Miracle</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 1999 Expansion Draft</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

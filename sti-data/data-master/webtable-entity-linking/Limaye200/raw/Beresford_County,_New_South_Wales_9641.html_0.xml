@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Parish</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>LGA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Coordinates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Abercrombie</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;01&amp;prime;54&amp;Prime;S 149&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿36.03167&amp;deg;S 149.25111&amp;deg;E﻿ / -36.03167; 149.25111﻿ (Abercrombie Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_01_54_S_149_15_04_E_type:adm3rd_region:AU-NSW&amp;title=Abercrombie+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Big Badja</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;02&amp;prime;54&amp;Prime;S 149&amp;deg;32&amp;prime;04&amp;Prime;E﻿ / ﻿36.04833&amp;deg;S 149.53444&amp;deg;E﻿ / -36.04833; 149.53444﻿ (Big Badja Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_02_54_S_149_32_04_E_type:adm3rd_region:AU-NSW&amp;title=Big+Badja+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Billilingra</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;00&amp;prime;54&amp;Prime;S 149&amp;deg;09&amp;prime;04&amp;Prime;E﻿ / ﻿36.01500&amp;deg;S 149.15111&amp;deg;E﻿ / -36.01500; 149.15111﻿ (Billilingra Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_00_54_S_149_09_04_E_type:adm3rd_region:AU-NSW&amp;title=Billilingra+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Binjura</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;11&amp;prime;54&amp;Prime;S 149&amp;deg;06&amp;prime;04&amp;Prime;E﻿ / ﻿36.19833&amp;deg;S 149.10111&amp;deg;E﻿ / -36.19833; 149.10111﻿ (Binjura Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_11_54_S_149_06_04_E_type:adm3rd_region:AU-NSW&amp;title=Binjura+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bransby</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 149&amp;deg;09&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 149.15111&amp;deg;E﻿ / -35.93167; 149.15111﻿ (Bransby Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_55_54_S_149_09_04_E_type:adm3rd_region:AU-NSW&amp;title=Bransby+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bredbo</html>
+          <wikipedia>Bredbo,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;59&amp;prime;54&amp;Prime;S 149&amp;deg;00&amp;prime;04&amp;Prime;E﻿ / ﻿35.99833&amp;deg;S 149.00111&amp;deg;E﻿ / -35.99833; 149.00111﻿ (Bredbo Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_59_54_S_149_00_04_E_type:adm3rd_region:AU-NSW&amp;title=Bredbo+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Brest</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;57&amp;prime;54&amp;Prime;S 148&amp;deg;56&amp;prime;04&amp;Prime;E﻿ / ﻿35.96500&amp;deg;S 148.93444&amp;deg;E﻿ / -35.96500; 148.93444﻿ (Brest Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_57_54_S_148_56_04_E_type:adm3rd_region:AU-NSW&amp;title=Brest+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bulgundramine</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;25&amp;prime;54&amp;Prime;S 149&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿36.43167&amp;deg;S 149.26778&amp;deg;E﻿ / -36.43167; 149.26778﻿ (Bulgundramine Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_25_54_S_149_16_04_E_type:adm3rd_region:AU-NSW&amp;title=Bulgundramine+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bullanamang</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;56&amp;prime;54&amp;Prime;S 149&amp;deg;05&amp;prime;04&amp;Prime;E﻿ / ﻿35.94833&amp;deg;S 149.08444&amp;deg;E﻿ / -35.94833; 149.08444﻿ (Bullanamang Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_56_54_S_149_05_04_E_type:adm3rd_region:AU-NSW&amp;title=Bullanamang+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bunyan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;16&amp;prime;54&amp;Prime;S 149&amp;deg;11&amp;prime;04&amp;Prime;E﻿ / ﻿36.28167&amp;deg;S 149.18444&amp;deg;E﻿ / -36.28167; 149.18444﻿ (Bunyan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_16_54_S_149_11_04_E_type:adm3rd_region:AU-NSW&amp;title=Bunyan+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Callaghan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;03&amp;prime;54&amp;Prime;S 149&amp;deg;12&amp;prime;04&amp;Prime;E﻿ / ﻿36.06500&amp;deg;S 149.20111&amp;deg;E﻿ / -36.06500; 149.20111﻿ (Callaghan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_03_54_S_149_12_04_E_type:adm3rd_region:AU-NSW&amp;title=Callaghan+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Clifford</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;05&amp;prime;54&amp;Prime;S 149&amp;deg;14&amp;prime;04&amp;Prime;E﻿ / ﻿36.09833&amp;deg;S 149.23444&amp;deg;E﻿ / -36.09833; 149.23444﻿ (Clifford Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_05_54_S_149_14_04_E_type:adm3rd_region:AU-NSW&amp;title=Clifford+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Colinton</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;50&amp;prime;54&amp;Prime;S 149&amp;deg;12&amp;prime;04&amp;Prime;E﻿ / ﻿35.84833&amp;deg;S 149.20111&amp;deg;E﻿ / -35.84833; 149.20111﻿ (Colinton Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_50_54_S_149_12_04_E_type:adm3rd_region:AU-NSW&amp;title=Colinton+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Coolringdon</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snowy River Shire</html>
+          <wikipedia>Snowy_River_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;13&amp;prime;54&amp;Prime;S 148&amp;deg;58&amp;prime;04&amp;Prime;E﻿ / ﻿36.23167&amp;deg;S 148.96778&amp;deg;E﻿ / -36.23167; 148.96778﻿ (Coolringdon Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_13_54_S_148_58_04_E_type:adm3rd_region:AU-NSW&amp;title=Coolringdon+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cooma</html>
+          <wikipedia>Cooma,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Snowy River Shire</html>
+          <wikipedia>Snowy_River_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;14&amp;prime;54&amp;Prime;S 149&amp;deg;07&amp;prime;04&amp;Prime;E﻿ / ﻿36.24833&amp;deg;S 149.11778&amp;deg;E﻿ / -36.24833; 149.11778﻿ (Cooma Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_14_54_S_149_07_04_E_type:adm3rd_region:AU-NSW&amp;title=Cooma+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cosgrove</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;59&amp;prime;54&amp;Prime;S 149&amp;deg;00&amp;prime;04&amp;Prime;E﻿ / ﻿35.99833&amp;deg;S 149.00111&amp;deg;E﻿ / -35.99833; 149.00111﻿ (Cosgrove Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_59_54_S_149_00_04_E_type:adm3rd_region:AU-NSW&amp;title=Cosgrove+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dangelong</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;17&amp;prime;54&amp;Prime;S 149&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿36.29833&amp;deg;S 149.26778&amp;deg;E﻿ / -36.29833; 149.26778﻿ (Dangelong Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_17_54_S_149_16_04_E_type:adm3rd_region:AU-NSW&amp;title=Dangelong+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Duncan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;54&amp;prime;54&amp;Prime;S 148&amp;deg;50&amp;prime;04&amp;Prime;E﻿ / ﻿35.91500&amp;deg;S 148.83444&amp;deg;E﻿ / -35.91500; 148.83444﻿ (Duncan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_54_54_S_148_50_04_E_type:adm3rd_region:AU-NSW&amp;title=Duncan+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Flinders</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;56&amp;prime;54&amp;Prime;S 149&amp;deg;00&amp;prime;04&amp;Prime;E﻿ / ﻿35.94833&amp;deg;S 149.00111&amp;deg;E﻿ / -35.94833; 149.00111﻿ (Flinders Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_56_54_S_149_00_04_E_type:adm3rd_region:AU-NSW&amp;title=Flinders+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gladstone</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;19&amp;prime;54&amp;Prime;S 149&amp;deg;10&amp;prime;04&amp;Prime;E﻿ / ﻿36.33167&amp;deg;S 149.16778&amp;deg;E﻿ / -36.33167; 149.16778﻿ (Gladstone Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_19_54_S_149_10_04_E_type:adm3rd_region:AU-NSW&amp;title=Gladstone+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Good Good</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;02&amp;prime;54&amp;Prime;S 149&amp;deg;27&amp;prime;04&amp;Prime;E﻿ / ﻿36.04833&amp;deg;S 149.45111&amp;deg;E﻿ / -36.04833; 149.45111﻿ (Good Good Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_02_54_S_149_27_04_E_type:adm3rd_region:AU-NSW&amp;title=Good+Good+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gungoandra</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;53&amp;prime;54&amp;Prime;S 149&amp;deg;11&amp;prime;04&amp;Prime;E﻿ / ﻿35.89833&amp;deg;S 149.18444&amp;deg;E﻿ / -35.89833; 149.18444﻿ (Gungoandra Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_53_54_S_149_11_04_E_type:adm3rd_region:AU-NSW&amp;title=Gungoandra+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hill</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 149&amp;deg;28&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 149.46778&amp;deg;E﻿ / -35.93167; 149.46778﻿ (Hill Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_55_54_S_149_28_04_E_type:adm3rd_region:AU-NSW&amp;title=Hill+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Holland</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;46&amp;prime;54&amp;Prime;S 149&amp;deg;22&amp;prime;04&amp;Prime;E﻿ / ﻿35.78167&amp;deg;S 149.36778&amp;deg;E﻿ / -35.78167; 149.36778﻿ (Holland Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_46_54_S_149_22_04_E_type:adm3rd_region:AU-NSW&amp;title=Holland+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jillimatong</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snowy River Shire</html>
+          <wikipedia>Snowy_River_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;17&amp;prime;54&amp;Prime;S 148&amp;deg;59&amp;prime;04&amp;Prime;E﻿ / ﻿36.29833&amp;deg;S 148.98444&amp;deg;E﻿ / -36.29833; 148.98444﻿ (Jillimatong Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_17_54_S_148_59_04_E_type:adm3rd_region:AU-NSW&amp;title=Jillimatong+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kybeyan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;22&amp;prime;54&amp;Prime;S 149&amp;deg;27&amp;prime;04&amp;Prime;E﻿ / ﻿36.38167&amp;deg;S 149.45111&amp;deg;E﻿ / -36.38167; 149.45111﻿ (Kybeyan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_22_54_S_149_27_04_E_type:adm3rd_region:AU-NSW&amp;title=Kybeyan+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kydra</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;27&amp;prime;54&amp;Prime;S 149&amp;deg;25&amp;prime;04&amp;Prime;E﻿ / ﻿36.46500&amp;deg;S 149.41778&amp;deg;E﻿ / -36.46500; 149.41778﻿ (Kydra Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_27_54_S_149_25_04_E_type:adm3rd_region:AU-NSW&amp;title=Kydra+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lucas</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;15&amp;prime;54&amp;Prime;S 149&amp;deg;24&amp;prime;04&amp;Prime;E﻿ / ﻿36.26500&amp;deg;S 149.40111&amp;deg;E﻿ / -36.26500; 149.40111﻿ (Lucas Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_15_54_S_149_24_04_E_type:adm3rd_region:AU-NSW&amp;title=Lucas+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Michelago</html>
+          <wikipedia>Michelago,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;47&amp;prime;54&amp;Prime;S 149&amp;deg;10&amp;prime;04&amp;Prime;E﻿ / ﻿35.79833&amp;deg;S 149.16778&amp;deg;E﻿ / -35.79833; 149.16778﻿ (Michelago Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_47_54_S_149_10_04_E_type:adm3rd_region:AU-NSW&amp;title=Michelago+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Milford</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 149&amp;deg;22&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 149.36778&amp;deg;E﻿ / -35.83167; 149.36778﻿ (Milford Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_49_54_S_149_22_04_E_type:adm3rd_region:AU-NSW&amp;title=Milford+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Montagu</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;15&amp;prime;54&amp;Prime;S 149&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿36.26500&amp;deg;S 149.26778&amp;deg;E﻿ / -36.26500; 149.26778﻿ (Montagu Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_15_54_S_149_16_04_E_type:adm3rd_region:AU-NSW&amp;title=Montagu+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Murrumbucca</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snowy River Shire</html>
+          <wikipedia>Snowy_River_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;03&amp;prime;54&amp;Prime;S 148&amp;deg;59&amp;prime;04&amp;Prime;E﻿ / ﻿36.06500&amp;deg;S 148.98444&amp;deg;E﻿ / -36.06500; 148.98444﻿ (Murrumbucca Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_03_54_S_148_59_04_E_type:adm3rd_region:AU-NSW&amp;title=Murrumbucca+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Numeralla</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;10&amp;prime;54&amp;Prime;S 149&amp;deg;16&amp;prime;04&amp;Prime;E﻿ / ﻿36.18167&amp;deg;S 149.26778&amp;deg;E﻿ / -36.18167; 149.26778﻿ (Numeralla Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_10_54_S_149_16_04_E_type:adm3rd_region:AU-NSW&amp;title=Numeralla+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Onslow</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;48&amp;prime;54&amp;Prime;S 149&amp;deg;17&amp;prime;04&amp;Prime;E﻿ / ﻿35.81500&amp;deg;S 149.28444&amp;deg;E﻿ / -35.81500; 149.28444﻿ (Onslow Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_48_54_S_149_17_04_E_type:adm3rd_region:AU-NSW&amp;title=Onslow+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Palmerston</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;22&amp;prime;54&amp;Prime;S 149&amp;deg;27&amp;prime;04&amp;Prime;E﻿ / ﻿36.38167&amp;deg;S 149.45111&amp;deg;E﻿ / -36.38167; 149.45111﻿ (Palmerston Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_22_54_S_149_27_04_E_type:adm3rd_region:AU-NSW&amp;title=Palmerston+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Rivers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;17&amp;prime;54&amp;Prime;S 149&amp;deg;21&amp;prime;04&amp;Prime;E﻿ / ﻿36.29833&amp;deg;S 149.35111&amp;deg;E﻿ / -36.29833; 149.35111﻿ (Rivers Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_17_54_S_149_21_04_E_type:adm3rd_region:AU-NSW&amp;title=Rivers+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Rose Valley</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;07&amp;prime;54&amp;Prime;S 149&amp;deg;23&amp;prime;04&amp;Prime;E﻿ / ﻿36.13167&amp;deg;S 149.38444&amp;deg;E﻿ / -36.13167; 149.38444﻿ (Rose Valley Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_07_54_S_149_23_04_E_type:adm3rd_region:AU-NSW&amp;title=Rose+Valley+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Rowland</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;55&amp;prime;54&amp;Prime;S 149&amp;deg;23&amp;prime;04&amp;Prime;E﻿ / ﻿35.93167&amp;deg;S 149.38444&amp;deg;E﻿ / -35.93167; 149.38444﻿ (Rowland Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_55_54_S_149_23_04_E_type:adm3rd_region:AU-NSW&amp;title=Rowland+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Sherlock</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;49&amp;prime;54&amp;Prime;S 149&amp;deg;27&amp;prime;04&amp;Prime;E﻿ / ﻿35.83167&amp;deg;S 149.45111&amp;deg;E﻿ / -35.83167; 149.45111﻿ (Sherlock Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_49_54_S_149_27_04_E_type:adm3rd_region:AU-NSW&amp;title=Sherlock+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stannard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;00&amp;prime;54&amp;Prime;S 149&amp;deg;21&amp;prime;04&amp;Prime;E﻿ / ﻿36.01500&amp;deg;S 149.35111&amp;deg;E﻿ / -36.01500; 149.35111﻿ (Stannard Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_00_54_S_149_21_04_E_type:adm3rd_region:AU-NSW&amp;title=Stannard+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>The Brothers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snowy River Shire</html>
+          <wikipedia>Snowy_River_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;19&amp;prime;54&amp;Prime;S 149&amp;deg;07&amp;prime;04&amp;Prime;E﻿ / ﻿36.33167&amp;deg;S 149.11778&amp;deg;E﻿ / -36.33167; 149.11778﻿ (The Brothers Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_19_54_S_149_07_04_E_type:adm3rd_region:AU-NSW&amp;title=The+Brothers+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Throsby</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;23&amp;prime;54&amp;Prime;S 149&amp;deg;21&amp;prime;04&amp;Prime;E﻿ / ﻿36.39833&amp;deg;S 149.35111&amp;deg;E﻿ / -36.39833; 149.35111﻿ (Throsby Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_23_54_S_149_21_04_E_type:adm3rd_region:AU-NSW&amp;title=Throsby+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tinderry</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;45&amp;prime;54&amp;Prime;S 149&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿35.76500&amp;deg;S 149.25111&amp;deg;E﻿ / -35.76500; 149.25111﻿ (Tinderry Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_45_54_S_149_15_04_E_type:adm3rd_region:AU-NSW&amp;title=Tinderry+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Undoo</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;09&amp;prime;54&amp;Prime;S 149&amp;deg;28&amp;prime;04&amp;Prime;E﻿ / ﻿36.16500&amp;deg;S 149.46778&amp;deg;E﻿ / -36.16500; 149.46778﻿ (Undoo Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_09_54_S_149_28_04_E_type:adm3rd_region:AU-NSW&amp;title=Undoo+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Wangrah</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;52&amp;prime;54&amp;Prime;S 149&amp;deg;19&amp;prime;04&amp;Prime;E﻿ / ﻿35.88167&amp;deg;S 149.31778&amp;deg;E﻿ / -35.88167; 149.31778﻿ (Wangrah Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_52_54_S_149_19_04_E_type:adm3rd_region:AU-NSW&amp;title=Wangrah+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Winifred</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;30&amp;prime;54&amp;Prime;S 149&amp;deg;24&amp;prime;04&amp;Prime;E﻿ / ﻿36.51500&amp;deg;S 149.40111&amp;deg;E﻿ / -36.51500; 149.40111﻿ (Winifred Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_30_54_S_149_24_04_E_type:adm3rd_region:AU-NSW&amp;title=Winifred+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Wise</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>35&amp;deg;40&amp;prime;54&amp;Prime;S 149&amp;deg;20&amp;prime;04&amp;Prime;E﻿ / ﻿35.68167&amp;deg;S 149.33444&amp;deg;E﻿ / -35.68167; 149.33444﻿ (Wise Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=35_40_54_S_149_20_04_E_type:adm3rd_region:AU-NSW&amp;title=Wise+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Woolumla</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;05&amp;prime;54&amp;Prime;S 149&amp;deg;09&amp;prime;04&amp;Prime;E﻿ / ﻿36.09833&amp;deg;S 149.15111&amp;deg;E﻿ / -36.09833; 149.15111﻿ (Woolumla Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_05_54_S_149_09_04_E_type:adm3rd_region:AU-NSW&amp;title=Woolumla+Parish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>York</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cooma-Monaro Shire</html>
+          <wikipedia>Cooma-Monaro_Shire</wikipedia>
+        </cell>
+        <cell>
+          <html>36&amp;deg;02&amp;prime;10&amp;Prime;S 149&amp;deg;05&amp;prime;29&amp;Prime;E﻿ / ﻿36.03611&amp;deg;S 149.09139&amp;deg;E﻿ / -36.03611; 149.09139﻿ (York Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Beresford_County&amp;params=36_02_10_S_149_05_29_E_type:adm3rd_region:AU-NSW&amp;title=York+Parish</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Beresford County, New South Wales - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Beresford County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Beresford County was named in honour of Viscount William Carr Beresford (1768-1854).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Beresford County, New South Wales is one of the 141 Cadastral divisions of New South Wales . It contains Cooma and Bredbo . Part of the Murrumbidgee River forms the boundary in the north-west, and a separate part of the river forms part of the western boundary.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ Geographical Names Board of NSW</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Beresford County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

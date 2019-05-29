@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Film</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Role</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Play</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Spencer Tracy</html>
+          <wikipedia>Spencer_Tracy</wikipedia>
+        </cell>
+        <cell>
+          <html>Grant Matthews</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ralph Bellamy</html>
+          <wikipedia>Ralph_Bellamy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Katharine Hepburn</html>
+          <wikipedia>Katharine_Hepburn</wikipedia>
+        </cell>
+        <cell>
+          <html>Mary Matthews</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ruth Hussey</html>
+          <wikipedia>Ruth_Hussey</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Van Johnson</html>
+          <wikipedia>Van_Johnson</wikipedia>
+        </cell>
+        <cell>
+          <html>Spike McManus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Myron McCormick</html>
+          <wikipedia>Myron_McCormick</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Angela Lansbury</html>
+          <wikipedia>Angela_Lansbury</wikipedia>
+        </cell>
+        <cell>
+          <html>Kay Thorndyke</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Margalo Gillmore</html>
+          <wikipedia>Margalo_Gillmore</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Adolphe Menjou</html>
+          <wikipedia>Adolphe_Menjou</wikipedia>
+        </cell>
+        <cell>
+          <html>Jim Conover</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Minor Watson</html>
+          <wikipedia>Minor_Watson</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lewis Stone</html>
+          <wikipedia>Lewis_Stone</wikipedia>
+        </cell>
+        <cell>
+          <html>Sam Thorndyke</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>not featured</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Howard Smith</html>
+          <wikipedia>Howard_Smith_(actor)</wikipedia>
+        </cell>
+        <cell>
+          <html>Sam I. Parrish</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Herbert Heyes</html>
+          <wikipedia>Herbert_Heyes</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Charles Dingle</html>
+          <wikipedia>Charles_Dingle</wikipedia>
+        </cell>
+        <cell>
+          <html>Bill Noland Hardy</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Victor Sutherland</html>
+          <wikipedia>Victor_Sutherland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Maidel Turner</html>
+          <wikipedia>Maidel_Turner</wikipedia>
+        </cell>
+        <cell>
+          <html>Lulubelle Alexander</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Maidel Turner</html>
+          <wikipedia>Maidel_Turner</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Raymond Walburn</html>
+          <wikipedia>Raymond_Walburn</wikipedia>
+        </cell>
+        <cell>
+          <html>Judge Alexander</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>G. Albert Smith</html>
+          <wikipedia>/w/index.php?title=G._Albert_Smith&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Margaret Hamilton</html>
+          <wikipedia>Margaret_Hamilton</wikipedia>
+        </cell>
+        <cell>
+          <html>Norah</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Helen Ray</html>
+          <wikipedia>/w/index.php?title=Helen_Ray&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Art Baker</html>
+          <wikipedia>Art_Baker_(actor)</wikipedia>
+        </cell>
+        <cell>
+          <html>Radio Announcer</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>not featured</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Florence Auer</html>
+          <wikipedia>Florence_Auer</wikipedia>
+        </cell>
+        <cell>
+          <html>Grace Orval Draper</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Aline McDermott</html>
+          <wikipedia>/w/index.php?title=Aline_McDermott&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Irving Bacon</html>
+          <wikipedia>Irving_Bacon</wikipedia>
+        </cell>
+        <cell>
+          <html>Buck Swenson</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>not featured</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>State of the Union (film) - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cast</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State of the Union (film)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Upon the urgings of newspaper manager Kay Thorndyke ( Angela Lansbury ), aircraft tycoon Grant Matthews ( Spencer Tracy ) campaigns for the Republican presidential nomination. Before embarking on his journey, he reunites with estranged Mary ( Katharine Hepburn ) at the urging of campaign manager Spike McManus ( Van Johnson ). Despite knowing that her husband and Thorndyke are having an affair, Mary puts up the front of a loving wife because she knows he has solid values. After her husband sacrifices his values for votes, Mary questions her actions and her belief in her husband. But when Grant realizes what this is doing to Mary, he denounces his political backers as phonies on live radio, and declares that he will run for office honestly. Grant and Mary are reconciled.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Plot</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cast</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Plot</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>A co-production of Frank Capra's own company and MGM, Capra bought the film after its initial theatrical release. After Capra's company folded, Liberty Films' assets were acquired by Paramount Pictures . It has since had limited availability on VHS home video and until recently has been unavailable on DVD . EMKA, Ltd. / NBC Universal currently owns the rights to the film due to it being a part of Paramount's pre-1950 library. Universal Studios Home Entertainment released a DVD version on August 29 , 2006 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State of the Union at the Internet Movie Database</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Orignally, actress Claudette Colbert (It Happened One Night,) was cast as Mary, the wife of Grant Matthews (played by Spencer Tracy,) but rumors of disagreements with Frank Capra and a reported "back" injury led to the weekend casting of Katharine Hepburn, Tracy's longtime companion. Other behind the scenes tensions were between Adolph Menjou, who had been a member of the communist hunt in Hollywood, and his former co-star Katharine Hepburn, as well as Hepburn and the much younger Angela Lansbury.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State of the Union is a 1946 Pulitzer Prize winning play by Russel Crouse and Howard Lindsay , which was adapted into a 1948 film directed by Frank Capra . The film, which starred Spencer Tracy and Katharine Hepburn , was Capra's first and only project for MGM Pictures . Its screenplay was written by Myles Connolly and Anthony Veiller. The screenplay deviated most from the play in its absence of the play's sardonic wit and more controversial themes.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This 1940s drama film -related article is a stub . You can help Wikipedia by expanding it .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State of the Union (film)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

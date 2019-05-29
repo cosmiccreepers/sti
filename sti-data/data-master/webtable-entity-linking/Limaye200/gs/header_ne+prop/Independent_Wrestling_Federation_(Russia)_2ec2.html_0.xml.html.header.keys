@@ -1,0 +1,4 @@
+0=/sports/sports_championship	/time/recurring_event			___NE
+1=/sports/athlete	/people/person=/award/award_nominee=/award/award_winner			___NE
+2=/sports/athlete	/people/person=/award/award_nominee=/award/award_winner			___NE
+4=/location/citytown	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/government/governmental_jurisdiction=/base/tagit/place=/base/aareas/schema/administrative_area=/base/popstra/location			___NE

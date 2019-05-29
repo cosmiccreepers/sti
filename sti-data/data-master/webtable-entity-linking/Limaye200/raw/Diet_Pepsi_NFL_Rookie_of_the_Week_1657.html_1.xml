@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Week</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Team</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Position</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Opponent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Key statistics and notes</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Patrick Willis</html>
+          <wikipedia>Patrick_Willis</wikipedia>
+        </cell>
+        <cell>
+          <html>San Francisco 49ers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Linebacker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Arizona Cardinals</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 tackles (9 solo), forced fumble</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Patrick Willis (2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Francisco 49ers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Linebacker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>St. Louis Rams</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 tackles (5 solo)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dwayne Bowe</html>
+          <wikipedia>Dwayne_Bowe</wikipedia>
+        </cell>
+        <cell>
+          <html>Kansas City Chiefs</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wide Receiver</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Minnesota Vikings</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5 receptions for 71 yards and 1 Touchdown</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dwayne Bowe (2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kansas City Chiefs</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wide Receiver</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Diego Chargers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 receptions for 164 yards and 1 Touchdown</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nick Folk</html>
+          <wikipedia>Nick_Folk</wikipedia>
+        </cell>
+        <cell>
+          <html>Dallas Cowboys</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Placekicker</html>
+          <wikipedia>Placekicker</wikipedia>
+        </cell>
+        <cell>
+          <html>Buffalo Bills</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4-for-4 field goals, 1 extra point, onside kick, game-winning 53-yard field goal as time expired</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Adrian Peterson</html>
+          <wikipedia>Adrian_Peterson</wikipedia>
+        </cell>
+        <cell>
+          <html>Minnesota Vikings</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Running Back</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chicago Bears</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>20 carries for 224 yards and 3 Touchdowns (67, 73 and 35 yards); 128 kickoff return yards</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Marshawn Lynch</html>
+          <wikipedia>Marshawn_Lynch</wikipedia>
+        </cell>
+        <cell>
+          <html>Buffalo Bills</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Running Back</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Baltimore Ravens</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>27 carries for 84 yards and 1 Touchdown; 3 receptions for 14 yards</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>James Jones</html>
+          <wikipedia>James_Jones_(wide_receiver)</wikipedia>
+        </cell>
+        <cell>
+          <html>Green Bay Packers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wide Receiver</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Denver Broncos</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>3 receptions for 107 yards and 1 Touchdown</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Adrian Peterson (2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Minnesota Vikings</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Running Back</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Diego Chargers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>30 carries for 296 yards (breaking the single-game NFL record) and 3 Touchdowns</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Marshawn Lynch (2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Buffalo Bills</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Running Back</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Miami Dolphins</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>19 carries for 61 yards and 1 Touchdown; 3 receptions for 24 yards</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ted Ginn, Jr.</html>
+          <wikipedia>Ted_Ginn,_Jr.</wikipedia>
+        </cell>
+        <cell>
+          <html>Miami Dolphins</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wide Receiver</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Philadelphia Eagles</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>87-yard punt return Touchdown; 4 receptions for 52 yards</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Patrick Willis (3)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Francisco 49ers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Linebacker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Arizona Cardinals</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>18 tackles (17 solo), half-sack</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Trent Edwards</html>
+          <wikipedia>Trent_Edwards</wikipedia>
+        </cell>
+        <cell>
+          <html>Buffalo Bills</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Quarterback</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Washington Redskins</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>22 completions in 36 attempts for 257 yards; game-winning 60-yard scoring drive</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Trent Edwards (2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Buffalo Bills</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Quarterback</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Miami Dolphins</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 completions in 23 attempts for 165 yards, 4 Touchdowns</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mason Crosby</html>
+          <wikipedia>Mason_Crosby</wikipedia>
+        </cell>
+        <cell>
+          <html>Green Bay Packers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Placekicker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>St. Louis Rams</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4-for-4 field-goals (long of 50 yards); 3 extra points</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Patrick Willis (4)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Francisco 49ers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Linebacker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tampa Bay Buccaneers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>20 tackles (12 solo), 2 sacks, 1 forced fumble, 1 pass defensed</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Brandon Jackson</html>
+          <wikipedia>Brandon_Jackson_(running_back)</wikipedia>
+        </cell>
+        <cell>
+          <html>Green Bay Packers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Running Back</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Detroit Lions</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>20 carries for 113 yards; 2 receptions for 22 yards</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Diet Pepsi NFL Rookie of the Week - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2007 winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Diet Pepsi NFL Rookie of the Week</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2006 winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2006 winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2007 winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>award, and a winner is determined by fan voting online at NFL.com . At the end of the season, total fan voting from the year is tabulated to determine the five finalists for the Diet Pepsi NFL Rookie of the Year award, which is also voted on by the fans.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Diet Pepsi NFL Rookie of the Week</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Diet Pepsi NFL Rookie of the Year award was created in 2002 . Every week during the NFL season, five finalists are chosen for the</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Diet Pepsi NFL Rookie of the Week</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

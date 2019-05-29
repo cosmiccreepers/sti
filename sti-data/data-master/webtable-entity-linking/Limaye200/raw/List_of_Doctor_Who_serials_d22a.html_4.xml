@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>No</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Title</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Code</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Episodes</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Writer</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Director</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Original airdate</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>030</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Power of the Daleks</html>
+          <wikipedia>The_Power_of_the_Daleks</wikipedia>
+        </cell>
+        <cell>
+          <html>EE</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6 episodes; (all missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Whitaker (and Dennis Spooner)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Christopher Barry</html>
+          <wikipedia>Christopher_Barry</wikipedia>
+        </cell>
+        <cell>
+          <html>5 November &amp;ndash; 10 December 1966</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>031</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Highlanders</html>
+          <wikipedia>The_Highlanders_(Doctor_Who)</wikipedia>
+        </cell>
+        <cell>
+          <html>FF</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 episodes; (all missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Elwyn Jones and Gerry Davis</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hugh David</html>
+          <wikipedia>Hugh_David</wikipedia>
+        </cell>
+        <cell>
+          <html>17 December 1966 &amp;ndash; 7 January 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>032</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Underwater Menace</html>
+          <wikipedia>The_Underwater_Menace</wikipedia>
+        </cell>
+        <cell>
+          <html>GG</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 episodes; (1, 2 &amp;amp; 4 missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Geoffrey Orme</html>
+          <wikipedia>Geoffrey_Orme</wikipedia>
+        </cell>
+        <cell>
+          <html>Julia Smith</html>
+          <wikipedia>Julia_Smith</wikipedia>
+        </cell>
+        <cell>
+          <html>14 January &amp;ndash; 4 February 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>033</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Moonbase</html>
+          <wikipedia>The_Moonbase</wikipedia>
+        </cell>
+        <cell>
+          <html>HH</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 episodes; (1 &amp;amp; 3 missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kit Pedler</html>
+          <wikipedia>Kit_Pedler</wikipedia>
+        </cell>
+        <cell>
+          <html>Morris Barry</html>
+          <wikipedia>Morris_Barry</wikipedia>
+        </cell>
+        <cell>
+          <html>11 February &amp;ndash; 3 March 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>034</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Macra Terror</html>
+          <wikipedia>The_Macra_Terror</wikipedia>
+        </cell>
+        <cell>
+          <html>JJ</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4 episodes; (all missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ian Stuart Black</html>
+          <wikipedia>Ian_Stuart_Black</wikipedia>
+        </cell>
+        <cell>
+          <html>John Howard Davies</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>11 March &amp;ndash; 1 April 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>035</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Faceless Ones</html>
+          <wikipedia>The_Faceless_Ones</wikipedia>
+        </cell>
+        <cell>
+          <html>KK</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6 episodes; (2, 4-6 missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Ellis and Malcolm Hulke</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gerry Mill</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8 April &amp;ndash; 13 May 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>036</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Evil of the Daleks</html>
+          <wikipedia>The_Evil_of_the_Daleks</wikipedia>
+        </cell>
+        <cell>
+          <html>LL</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7 episodes; (1, 3-7 missing)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Whitaker</html>
+          <wikipedia>David_Whitaker_(screenwriter)</wikipedia>
+        </cell>
+        <cell>
+          <html>Derek Martinus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>20 May &amp;ndash; 1 July 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Doctor Who serials - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 4 (1966-67) continued</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Doctor Who serials</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Second Doctor was portrayed by Patrick Troughton , whose serials were more action-oriented. He retained the role until the last episode of The War Games , when members of the Doctor's race, the Time Lords , put the Doctor on trial for breaking the laws of time.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 5 (1967-68)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>First Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Second Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Third Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fourth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fifth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Sixth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Seventh Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Eighth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Ninth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Tenth Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Other stories</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Second Doctor</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 4 (1966-67)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Peter Bryant replaced Lloyd as producer after The Enemy of the World and would produce every serial until The War Games . Victor Pemberton edited The Tomb of the Cybermen . Peter Bryant also edited the scripts between The Abominable Snowmen and The Enemy of the World , after which Derrick Sherwin replaced him.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>John Wiles replaced Lambert to produce The Myth Makers , who was himself replaced after The Ark by Innes Lloyd . Donald Tosh served as script editor until The Massacre of St Bartholomew's Eve , during which he was replaced by Gerry Davis . Lloyd and Davis retained their roles until the end of the fourth season.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 3 (1965-66)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Dennis Spooner replaced Whitaker as script editor after The Dalek Invasion of Earth , and edited the remainder of the season apart from The Time Meddler , which was edited by Donald Tosh .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 6 (1968-69)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 2 (1964-65)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Verity Lambert was producer for the first season, and retained the position until "Mission to the Unknown". David Whitaker served as script editor until The Dalek Invasion of Earth .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Bryant and Sherwin retained their roles as producer and script editor respectively during the season, with the exception of The War Games , which was produced by Sherwin and edited by Terrance Dicks , who had also edited The Invasion earlier in the season.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season 1 (1963-64)</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

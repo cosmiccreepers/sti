@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>High School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>School Mascot</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Location</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>School Colors</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Amity Regional High School</html>
+          <wikipedia>Amity_Regional_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Spartans</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Woodbridge, Connecticut</html>
+          <wikipedia>Woodbridge,_Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>Black &amp;amp; Gold</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cheshire High School</html>
+          <wikipedia>Cheshire_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Rams</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cheshire, Connecticut</html>
+          <wikipedia>Cheshire,_Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>Red &amp;amp; White</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lyman Hall High School</html>
+          <wikipedia>Lyman_Hall_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Trojans</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wallingford, Connecticut</html>
+          <wikipedia>Wallingford,_Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>Navy &amp;amp; Orange</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Sheehan High School</html>
+          <wikipedia>Mark_T._Sheehan_High_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Titans</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wallingford, Connecticut</html>
+          <wikipedia>Wallingford,_Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>Maroon &amp;amp; Gold</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Shelton High School</html>
+          <wikipedia>Shelton_High_School_(Connecticut)</wikipedia>
+        </cell>
+        <cell>
+          <html>Gaels</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shelton, Connecticut</html>
+          <wikipedia>Shelton,_Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>Orange &amp;amp; Black</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Southern Connecticut Conference - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Housatonic Division</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Southern Connecticut Conference</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Hammonasset Division</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Oronoque Division</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Objectives</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Membership</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sports</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Membership</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>As stated in the league's constitution , the purpose of the SCC is to provide a central organization though which member schools may cooperate in order to promote the following ends:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Quinnipiac Division</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Objectives</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In 1998, Career High School of New Haven joined the conference and was placed in the Housatonic Division. In 2004, the league again expanded when the Board of Governors voted to accept two Milford-based schools, Foran and Jonathan Law. Also in 2004, Bill O'Brien stepped down after serving 10 years as SCC Commissioner. He was replaced by Al Carbone. The SCC, having expanded to 23 member schools, decided to realign its divisional format for the 2004/2005 academic year. The league added a fourth division, Oronoque, also named after a Native American river in Southern Connecticut. The SCC also decided to realign its football-playing schools, primarily based on student enrollment. [1]</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Expansion</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sports</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The league's Board of Governors decided on a three-divisional format, electing to name each division after Native American rivers (the Hammonasset , Housatonic , and Quinnipiac Rivers ) located in the Southern Connecticut region:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Southern Connecticut Conference was formed in 1994, when 20 high schools, from four different leagues, came together:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>SCC member schools participate in the following 20 sports throughout the academic year.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,5 @@
+0,1;1,0=/location/location/containedby=/location/mailing_address/citytown=/location/mailing_address/state_province_region
+-1,0;0,1=/location/location/contains
+0,2=/organization/organization/date_founded
+0,3=/education/educational_institution/school_type
+0,7=/education/educational_institution/athletics_brand=/education/educational_institution/nickname=/education/educational_institution/sports_teams	/common/topic/alias

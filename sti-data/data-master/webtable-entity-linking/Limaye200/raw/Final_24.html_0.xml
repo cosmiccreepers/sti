@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>#</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Person</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Date</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Age</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cause of death</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Keith Moon</html>
+          <wikipedia>Keith_Moon</wikipedia>
+        </cell>
+        <cell>
+          <html>7 September 1978</html>
+          <wikipedia>Keith_Moon#Death</wikipedia>
+        </cell>
+        <cell>
+          <html>32</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Drug overdose</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Anna Nicole Smith</html>
+          <wikipedia>Anna_Nicole_Smith</wikipedia>
+        </cell>
+        <cell>
+          <html>8 February 2007</html>
+          <wikipedia>Anna_Nicole_Smith#Death_and_funeral</wikipedia>
+        </cell>
+        <cell>
+          <html>39</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Accidental drug overdose</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Janis Joplin</html>
+          <wikipedia>Janis_Joplin</wikipedia>
+        </cell>
+        <cell>
+          <html>4 October 1970</html>
+          <wikipedia>Janis_Joplin#Death</wikipedia>
+        </cell>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Drug overdose</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gianni Versace</html>
+          <wikipedia>Gianni_Versace</wikipedia>
+        </cell>
+        <cell>
+          <html>15 July 1997</html>
+          <wikipedia>Gianni_Versace#Death_and_legacy</wikipedia>
+        </cell>
+        <cell>
+          <html>50</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Andrew Cunanan</html>
+          <wikipedia>Andrew_Cunanan</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nicole Brown Simpson</html>
+          <wikipedia>Nicole_Brown_Simpson</wikipedia>
+        </cell>
+        <cell>
+          <html>12 June 1994</html>
+          <wikipedia>Nicole_Brown_Simpson#Murder</wikipedia>
+        </cell>
+        <cell>
+          <html>35</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stabbed</html>
+          <wikipedia>Stabbed</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jim Morrison</html>
+          <wikipedia>Jim_Morrison</wikipedia>
+        </cell>
+        <cell>
+          <html>3 July 1971</html>
+          <wikipedia>Jim_Morrison#Death</wikipedia>
+        </cell>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>autopsy</html>
+          <wikipedia>Autopsy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Koresh</html>
+          <wikipedia>David_Koresh</wikipedia>
+        </cell>
+        <cell>
+          <html>19 April 1993</html>
+          <wikipedia>David_Koresh#Raid_and_siege_by_federal_authorities</wikipedia>
+        </cell>
+        <cell>
+          <html>33</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Suicide</html>
+          <wikipedia>Waco_siege</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tupac Shakur</html>
+          <wikipedia>Tupac_Shakur</wikipedia>
+        </cell>
+        <cell>
+          <html>13 September 1996</html>
+          <wikipedia>Tupac_Shakur#Death</wikipedia>
+        </cell>
+        <cell>
+          <html>25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Complications</html>
+          <wikipedia>Murder_of_Tupac_Shakur</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Final 24 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Subjects</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Final 24</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Final 24 is a Canadian documentary series which airs on the Discovery Channel , Global Television Network in Canada and A&amp;E Biography in the United States . The series explores the last 24 hours of the life of a person, usually a celebrity. The series is narrated by Canadian voice artist Dave McRae .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Subjects</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Final 24</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Final 24 at Discoverychannel.com Final 24 at Biography.com</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article about a biographical documentary program for radio, television, or film is a stub . You can help Wikipedia by expanding it .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

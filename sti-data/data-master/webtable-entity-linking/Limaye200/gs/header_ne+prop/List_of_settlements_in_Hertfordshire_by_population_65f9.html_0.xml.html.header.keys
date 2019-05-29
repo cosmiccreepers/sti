@@ -1,0 +1,3 @@
+0=/location/uk_civil_parish=/location/citytown=/base/aareas/schema/england/civil_parish	/location/dated_location=/location/location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/location/uk_statistical_location			___NE
+1=/base/aareas/schema/england/non_metropolitan_district=/location/uk_non_metropolitan_district	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/location/uk_statistical_location			___NE
+2=/location/statistical_region/population

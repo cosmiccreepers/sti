@@ -37,6 +37,9 @@ public class DBpediaSearchResultFilter extends KBSearchResultFilter {
         if (stop == null)
             return true;
 
+        if (c.getId()==null)
+            return false;
+
         for (String s : stop) {
             if (c.getId().contains(s) || c.getLabel().equalsIgnoreCase(s))
                 return false;

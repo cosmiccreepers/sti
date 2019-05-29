@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>TC LID</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>IATA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Airport name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Community and province</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>CVB2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Voisey's Bay Aerodrome</html>
+          <wikipedia>Voisey%27s_Bay_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Voisey's Bay Mine</html>
+          <wikipedia>Voisey%27s_Bay_Mine</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVB6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Val-d'Or (Huard) Water Aerodrome</html>
+          <wikipedia>Val-d%27Or_(Huard)_Water_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Val-d'Or</html>
+          <wikipedia>Val-d%27Or</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVF2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fergus (Vodarek Field) Aerodrome</html>
+          <wikipedia>Fergus_(Vodarek_Field)_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Fergus</html>
+          <wikipedia>Fergus,_Ontario</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVG8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vegerville (St. Joseph's Genereal Hospital) Heliport</html>
+          <wikipedia>List_of_heliports_in_Canada#277</wikipedia>
+        </cell>
+        <cell>
+          <html>Vegreville</html>
+          <wikipedia>Vegreville,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVH2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vermilion Health Centre Heliport</html>
+          <wikipedia>List_of_heliports_in_Canada#281</wikipedia>
+        </cell>
+        <cell>
+          <html>Vermilion</html>
+          <wikipedia>Vermilion,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVH7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vulcan (Hospital) Heliport</html>
+          <wikipedia>List_of_heliports_in_Canada#36</wikipedia>
+        </cell>
+        <cell>
+          <html>Vulcan</html>
+          <wikipedia>Vulcan,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVK2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Viking Health Centre Heliport</html>
+          <wikipedia>List_of_heliports_in_Canada#326</wikipedia>
+        </cell>
+        <cell>
+          <html>Viking</html>
+          <wikipedia>Viking,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVL2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vulcan/Kirkcaldy Aerodrome</html>
+          <wikipedia>Vulcan/Kirkcaldy_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Vulcan</html>
+          <wikipedia>Vulcan,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVM2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Victor Mine Aerodrome</html>
+          <wikipedia>Victor_Mine_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Victor Mine</html>
+          <wikipedia>/w/index.php?title=Victor_Mine&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVP2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Montr&amp;eacute;al/&amp;Icirc;le Sainte-H&amp;eacute;l&amp;egrave;ne Water Airport</html>
+          <wikipedia>Montr%C3%A9al/%C3%8Ele_Sainte-H%C3%A9l%C3%A8ne_Water_Airport</wikipedia>
+        </cell>
+        <cell>
+          <html>Saint Helen's Island, Quebec</html>
+          <wikipedia>Saint_Helen%27s_Island</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVS2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Viking (South) Aerodrome</html>
+          <wikipedia>Viking_(South)_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Viking</html>
+          <wikipedia>Viking,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVV2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Valleyview (Health Centre)Heliport</html>
+          <wikipedia>List_of_heliports_in_Canada#258</wikipedia>
+        </cell>
+        <cell>
+          <html>Valleyview</html>
+          <wikipedia>Valleyview,_Alberta</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>CVW2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Vernon/Wildlife Water Aerodrome</html>
+          <wikipedia>Vernon/Wildlife_Water_Aerodrome</wikipedia>
+        </cell>
+        <cell>
+          <html>Vernon</html>
+          <wikipedia>Vernon,_British_Columbia</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Canadian airports by location indicator: CV - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Also see airport category and list .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Canadian airports by location indicator: CV</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] CV Canada - CAN</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] CV Canada - CAN</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Airports that are part of the National Airports System are emphasised .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Location indicator IATA Airport Name (alternate name) Airport Location</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Format of entries is:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

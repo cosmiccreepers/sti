@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Theater</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>City and State</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Architect</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Date</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Alhambra Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>El Paso, Texas</html>
+          <wikipedia>El_Paso,_Texas</wikipedia>
+        </cell>
+        <cell>
+          <html>Henry C. Trost</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1914</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alhambra Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Evansville, Indiana</html>
+          <wikipedia>Evansville,_Indiana</wikipedia>
+        </cell>
+        <cell>
+          <html>Frank J. Schlotter</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1913</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alhambra Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Birmingham, Alabama</html>
+          <wikipedia>Birmingham,_Alabama</wikipedia>
+        </cell>
+        <cell>
+          <html>Graven &amp;amp; Maygar</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alhambra Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hopkinsville, Kentucky</html>
+          <wikipedia>Hopkinsville,_Kentucky</wikipedia>
+        </cell>
+        <cell>
+          <html>John Walker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1928</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alhambra Theatre</html>
+          <wikipedia>Alhambra_Theatre,_San_Francisco</wikipedia>
+        </cell>
+        <cell>
+          <html>San Francisco, California</html>
+          <wikipedia>San_Francisco,_California</wikipedia>
+        </cell>
+        <cell>
+          <html>Miller and Pflueger</html>
+          <wikipedia>Miller_and_Pflueger</wikipedia>
+        </cell>
+        <cell>
+          <html>1925</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bagdad Theatre</html>
+          <wikipedia>Bagdad_Theatre</wikipedia>
+        </cell>
+        <cell>
+          <html>Portland, Oregon</html>
+          <wikipedia>Portland,_Oregon</wikipedia>
+        </cell>
+        <cell>
+          <html>Thomas &amp;amp; Mercier</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>The Carpenter Center</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Richmond, Virginia</html>
+          <wikipedia>Richmond,_Virginia</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1928</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Civic Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Akron, Ohio</html>
+          <wikipedia>Akron,_Ohio</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Emporia Granada Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Emporia, Kansas</html>
+          <wikipedia>Emporia,_Kansas</wikipedia>
+        </cell>
+        <cell>
+          <html>Boller Brothers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fox Theatre</html>
+          <wikipedia>Fox_Theatre_(Atlanta)</wikipedia>
+        </cell>
+        <cell>
+          <html>Atlanta, Georgia</html>
+          <wikipedia>Atlanta,_Georgia</wikipedia>
+        </cell>
+        <cell>
+          <html>Mayre, Alger &amp;amp; Vinour</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fox Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>North Platte, Nebraska</html>
+          <wikipedia>North_Platte,_Nebraska</wikipedia>
+        </cell>
+        <cell>
+          <html>Elmer F. Behrens</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Granada Theater</html>
+          <wikipedia>Granada_Theater_(The_Dalles,_Oregon)</wikipedia>
+        </cell>
+        <cell>
+          <html>The Dalles, Oregon</html>
+          <wikipedia>The_Dalles,_Oregon</wikipedia>
+        </cell>
+        <cell>
+          <html>William Cutts</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Keith's Flushing Theater</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queens, New York</html>
+          <wikipedia>Queens,_New_York</wikipedia>
+        </cell>
+        <cell>
+          <html>Thomas Lamb</html>
+          <wikipedia>Thomas_W._Lamb</wikipedia>
+        </cell>
+        <cell>
+          <html>1928</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>The Landmark Theater</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Richmond, Virginia</html>
+          <wikipedia>Richmond,_Virginia</wikipedia>
+        </cell>
+        <cell>
+          <html>Charles M. Robinson</html>
+          <wikipedia>Charles_M._Robinson</wikipedia>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Olympic Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Miami, Florida</html>
+          <wikipedia>Miami,_Florida</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1926</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lincoln Theater</html>
+          <wikipedia>Lincoln_Theater_(Los_Angeles,_California)</wikipedia>
+        </cell>
+        <cell>
+          <html>Los Angeles, California</html>
+          <wikipedia>Los_Angeles,_California</wikipedia>
+        </cell>
+        <cell>
+          <html>John Paxton Perrine</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Loew's 72nd Street Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New York City</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Thomas W. Lamb</html>
+          <wikipedia>Thomas_W._Lamb</wikipedia>
+        </cell>
+        <cell>
+          <html>1932 (dem.)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>The Majestic Theatre</html>
+          <wikipedia>The_Majestic_Theatre,_San_Antonio</wikipedia>
+        </cell>
+        <cell>
+          <html>San Antonio, Texas</html>
+          <wikipedia>San_Antonio,_Texas</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mount Baker Theatre</html>
+          <wikipedia>Mount_Baker_Theatre</wikipedia>
+        </cell>
+        <cell>
+          <html>Bellingham, Washington</html>
+          <wikipedia>Bellingham,_Washington</wikipedia>
+        </cell>
+        <cell>
+          <html>Robert Reamer</html>
+          <wikipedia>Robert_Reamer</wikipedia>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Music Box Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chicago, Illinois</html>
+          <wikipedia>Chicago,_Illinois</wikipedia>
+        </cell>
+        <cell>
+          <html>Louis J. Simon</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Palace Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Canton, Ohio</html>
+          <wikipedia>Canton,_Ohio</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1926</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Palace Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Marion, Ohio</html>
+          <wikipedia>Marion,_Ohio</wikipedia>
+        </cell>
+        <cell>
+          <html>John Eberson</html>
+          <wikipedia>John_Eberson</wikipedia>
+        </cell>
+        <cell>
+          <html>1928</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Plaza Theatre</html>
+          <wikipedia>Plaza_Theatre_(El_Paso)</wikipedia>
+        </cell>
+        <cell>
+          <html>El Paso, Texas</html>
+          <wikipedia>El_Paso,_Texas</wikipedia>
+        </cell>
+        <cell>
+          <html>W. Scott Donne</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1930</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Saenger Theater</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hattiesburg, Mississippi</html>
+          <wikipedia>Hattiesburg,_Mississippi</wikipedia>
+        </cell>
+        <cell>
+          <html>Emile Weil</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Shrine Auditorium</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Los Angeles, California</html>
+          <wikipedia>Los_Angeles,_California</wikipedia>
+        </cell>
+        <cell>
+          <html>Lansburgh, Austin and Edelman</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1926</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Sooner Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Norman, Oklahoma</html>
+          <wikipedia>Norman,_Oklahoma</wikipedia>
+        </cell>
+        <cell>
+          <html>Harold Gimeno</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1929</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Temple Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Meridian, Mississippi</html>
+          <wikipedia>Meridian,_Mississippi</wikipedia>
+        </cell>
+        <cell>
+          <html>Emile Weil</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tennessee Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Knoxville, Tennessee</html>
+          <wikipedia>Knoxville,_Tennessee</wikipedia>
+        </cell>
+        <cell>
+          <html>Graven &amp;amp; Mayger</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1928</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tower Theatre</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Los Angeles, California</html>
+          <wikipedia>Los_Angeles,_California</wikipedia>
+        </cell>
+        <cell>
+          <html>S. Charles Lee</html>
+          <wikipedia>S._Charles_Lee</wikipedia>
+        </cell>
+        <cell>
+          <html>1927</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Moorish Revival - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Moorish Revival Theaters in America</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Moorish Revival</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Theatres outside the United States</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Moorish Revival Theaters in America</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Theatres outside the United States</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Moorish revival synagogues</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] United States</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Shriners Temples</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sources</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Assorted examples</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In Spain , the country conceived as the place of origin of Moorish ornamentation, the interest in this sort of architecture fluctuated from province to province. The main stream was called Neo-Mud jar . In Catalonia , Antoni Gaud 's profound interest in Mud jar heritage governed the design of his early works, such as Casa Vicens or Astorga Palace . In Andalusia, the Neo-Mud jar style gained belated popularity in connection with the Ibero-American Exposition of 1929 and was epitomized by Plaza de Espa a (Seville) and Gran Teatro Falla in C diz . In Madrid , the Neo-Mud jar was a characteristic style of housing and public buildings at the turn of the century, while the 1920s return of interest to the style resulted in such buildings as Las Ventas bull ring and Diario ABC office.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Although Carlo Bugatti employed Moorish arcading among the exotic features of his furniture, shown at the 1902 exhibition at Turin , by that time the Moorish Revival was very much on the wane everywhere but Imperial Russia , where the shell-encrusted Morozov House in Moscow (a stylisation of a Portuguese palace in Sintra ) and the Neo-Mameluk palaces of Koreiz exemplify the continuing development of the style, and in Bosnia , where the Austrian government commissioned a range of Neo-Moorish structures. This included application of ornamentations and other Moorish design strategies neither of which had much to do with prior architectural direction of indigenous Bosnian architecture . Post office in Sarajevo for example follows distinct formal characteristics of design like clarity of form, symmetry, and proportion while the interior followed the same doctrine. Library in Sarajevo is an example of Pseudo Moorish architectural language using decorations and pointed arches while still integrating other formal elements into the design.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State/Forum Theatre</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In the 1860s , the style spread across America, with Olana , the painter Frederic Edwin Church 's house overlooking the Hudson River, Castle Garden in Jacksonville and Nutt's Folly in Natchez, Mississippi usually cited among the more prominent examples. After the American Civil War, Moorish or Turkish smoking rooms achieved some popularity. There were Moorish details in the interiors created for the Havemeyer residence on Fifth Avenue by Louis Comfort Tiffany . In 1937 the Corn Palace in Mitchell, South Dakota added minarets and Moorish domes that are unusual because the polychrome decorations are made out of corn cobs of various colors assembled as mosaic tiles are to create patterns. The 1891 Tampa Bay Hotel , whose minarets and Moorish domes are now the pride of the University of Tampa , was a particularly extravagant example of the style. Other schools with Moorish Revival buildings include Yeshiva University in New York City.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In the United States , Washington Irving 's travel sketch, Tales of the Alhambra (1832) first brought Moorish Andalusia into readers' imaginations; one of the first neo-Moorish structures was Iranistan, a mansion of P. T. Barnum in Bridgeport, Connecticut . Constructed in 1848 and demolished by fire ten years later, this architectural extravaganza "sprouted bulbous domes and horseshoe arches".</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The "Moorish" garden structures built at Sheringham, Norfolk, ca. 1812, were an unusual touch at the time, a parallel to chinoiserie , but as early as 1826 , Edward Blore used islamic arches, domes of various size and shapes and other details of Near Eastern Islamic architecture to great effect in his design for Alupka Palace in Crimea , a cultural setting that had already been penetrated by authentic Ottoman styles. By the mid-19th century, the style was adopted by the Jews of Central Europe , who associated mudejar architectural forms with the golden age of Jewry in medieval Muslim Spain . As a consequence, Moorish Revival spread around the globe as a preferred style of synagogue architecture .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Theater City and State Country Architect Date</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Moorish Revival or Neo-Moorish is one of the exotic Revival architectural styles that were adopted by architects of Europe and the Americas in the wake of the Romanticist fascination with all things oriental . It reached the height of its popularity after the mid-nineteenth century, part of a widening vocabulary of articulated decorative ornament beyond classical and Gothic modes. Little distinction was made in European and American practice between motifs drawn from Ottoman Turkey or from Andalusia .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Arc de Triomf , Barcelona , 1888 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>State/ Forum Theatre</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Using inline citations helps guard against copyright violations and factual inaccuracies. (December 2007)</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

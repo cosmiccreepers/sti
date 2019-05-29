@@ -1,0 +1,4 @@
+0=/award/award_winner	/people/person=/award/award_nominee			___NE
+1=/education/field_of_study=/award/award_discipline=/people/professional_field			___NE
+2=/base/aareas/schema/in/state=/location/in_state=/m/02h_bxr	/government/governmental_jurisdiction=/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/location/region			___NE
+3=/base/india/country=/location/country=/base/aareas/schema/earth/sovereign_state=/base/place/country=/base/locations/countries	/location/dated_location=/location/location=/base/aareas/schema/administrative_area=/government/governmental_jurisdiction=/location/statistical_region=/government/government=/base/popstra/location=/base/tagit/place			___NE
