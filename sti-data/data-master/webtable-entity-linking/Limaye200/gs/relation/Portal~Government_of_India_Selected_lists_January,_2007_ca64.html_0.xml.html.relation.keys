@@ -1,4 +1,0 @@
-1,2=/common/topic/alias
-1,3=/organization/organization/date_founded
-1,4;4,1=/government/political_party_tenure/politician=/organization/leadership/person=/government/politician/party
--4,1;1,4=/government/political_party_tenure/politician

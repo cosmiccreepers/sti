@@ -1,5 +1,0 @@
-0=/location/us_state=/base/aareas/schema/us/state	/location/dated_location=/base/locations/states_and_provences=/location/location=/base/aareas/schema/administrative_area=/location/administrative_division=/government/governmental_jurisdiction=/government/political_district=/base/popstra/location=/base/tagit/place			___NE
-1=/base/poldb/us_senator_current=/government/u_s_congressperson	/people/person=/government/politician			___NE
-2=/government/political_party=/base/popstra/party	/base/popstra/organization=/organization/organization=/organization/membership_organization			___NE
-4=/government/politician	/people/person			___NE
-

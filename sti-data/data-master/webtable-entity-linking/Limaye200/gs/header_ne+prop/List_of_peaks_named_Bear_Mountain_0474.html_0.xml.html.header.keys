@@ -1,4 +1,0 @@
-4=/location/geocode/latitude=/location/geocode/longitude
-0=/geography/mountain	/location/location			___NE
-2=/location/us_state=/base/aareas/schema/us/state	/location/dated_location=/base/locations/states_and_provences=/location/location=/base/aareas/schema/administrative_area=/location/administrative_division=/government/governmental_jurisdiction=/location/statistical_region=/government/political_district			___NE
-3=/location/us_county=/base/aareas/schema/us/county	/location/hud_foreclosure_area=/location/hud_county_place=/location/location=/location/dated_location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/government/governmental_jurisdiction=/government/political_district=/location/region=/base/tagit/place=/base/popstra/location			___NE

@@ -1,7 +1,0 @@
-4,0;0,4=/aviation/airport/serves	/location/location/containedby=/location/mailing_address/citytown
--0,4;4,0=/location/location/contains
-4,1;1,4=/aviation/airport/serves	/location/location/containedby
--1,4;4,1=/location/location/contains
-4,2=/aviation/airport/icao
-4,3=/aviation/airport/iata
-4,5=/aviation/airport/airport_type

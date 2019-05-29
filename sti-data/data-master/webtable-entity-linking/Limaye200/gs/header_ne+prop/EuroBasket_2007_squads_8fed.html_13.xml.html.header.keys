@@ -1,5 +1,0 @@
-2=/people/person/height_meters
-4=/people/person/date_of_birth
-1=/basketball/basketball_player	/sports/pro_athlete=/people/person			___NE
-3=/basketball/basketball_position	/sports/sports_position			___NE
-5=/basketball/basketball_team	/sports/sports_team=/organization/organization=/sports/professional_sports_team=/business/business_operation			___NE

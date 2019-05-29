@@ -1,5 +1,0 @@
-1=/organization/organization/date_founded
-0=/wine/wine_producer	/organization/organization=/business/business_operation			___NE
-2=/base/aareas/schema/administrative_area=/location/administrative_division	/location/location=/location/dated_location=/location/statistical_region			___NE
-3=/wine/wine	/business/consumer_product			___NE
-4=/business/consumer_company	/organization/organization=/business/business_operation			___NE

@@ -1,4 +1,0 @@
-1,2=/government/government_position_held/from
-1,3=/government/government_position_held/to
-1,4;4,1=/government/political_party_tenure/party=/government/politician/party
--4,1;1,4=/government/political_party_tenure/politician

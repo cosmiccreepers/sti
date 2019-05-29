@@ -1,4 +1,0 @@
-0,1;1,0=/location/location/containedby=/location/mailing_address/citytown=/location/mailing_address/state_province_region
--1,0;0,1=/location/location/contains
-0,2=/architecture/structure/architect
-0,3=/architecture/structure/opened

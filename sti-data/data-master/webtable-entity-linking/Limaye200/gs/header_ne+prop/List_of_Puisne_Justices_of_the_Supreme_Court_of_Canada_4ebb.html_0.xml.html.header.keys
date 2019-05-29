@@ -1,8 +1,0 @@
-3=/people/person/date_of_birth
-4=/law/judicial_tenure/from_date=/law/judicial_tenure/to_date
-5=/law/judicial_tenure/from_date=/law/judicial_tenure/to_date
-1=/base/morelaw/canadian_judge	/law/judge=/people/person			___NE
-10=/base/morelaw/court=/law/court	/organization/organization			___NE
-2=/base/aareas/schema/ca/province=/location/province	/location/dated_location=/government/governmental_jurisdiction=/location/location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/government/political_district=/base/tagit/place=/base/popstra/location			___NE
-8=/government/political_appointer=/government/politician	/people/person			___NE
-9=/education/university=/base/cambridge/colleges_and_universities=/base/oxford/colleges_and_universities	/organization/organization=/education/educational_institution=/education/academic_institution			___NE

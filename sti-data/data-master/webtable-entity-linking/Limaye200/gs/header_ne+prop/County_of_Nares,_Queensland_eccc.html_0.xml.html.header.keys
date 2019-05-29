@@ -1,4 +1,0 @@
-0=/location/administrative_division=/base/aareas/schema/administrative_area=/government/political_district=/government/governmental_jurisdiction	/location/location=/location/dated_location=/base/tagit/place=/location/statistical_region			___NE
-1=/location/australian_local_government_area=/base/aareas/schema/au/local_government_area	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/base/tagit/place			___NE
-2=/location/geocode/longitude=/location/geocode/latitude
-3=/location/citytown=/base/aareas/schema/earth/citytown=/location/australian_suburb	/location/location=/location/dated_location=/location/statistical_region=/government/governmental_jurisdiction=/base/tagit/place=/base/aareas/schema/administrative_area			___NE

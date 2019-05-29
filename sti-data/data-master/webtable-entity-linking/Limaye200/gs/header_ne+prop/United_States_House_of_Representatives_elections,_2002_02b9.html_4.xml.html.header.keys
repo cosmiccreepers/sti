@@ -1,4 +1,0 @@
-0=/base/propositions/voting_district	/location/location=/location/dated_location=/government/political_district=/location/administrative_division=/base/aareas/schema/administrative_area=/government/governmental_jurisdiction=/base/tagit/place=/location/statistical_region=/base/popstra/location			___NE
-1=/government/u_s_congressperson=/base/poldb/us_representative_current	/people/person=/government/politician			___NE
-2=/government/political_party=/base/popstra/party	/base/popstra/organization=/organization/organization=/organization/membership_organization			___NE
-3=/government/political_party_tenure/from	/measurement_unit/dated_integer/year

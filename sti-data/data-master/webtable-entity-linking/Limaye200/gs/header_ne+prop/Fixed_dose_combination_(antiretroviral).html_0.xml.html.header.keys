@@ -1,3 +1,0 @@
-0=/medicine/drug_brand	/business/brand			___NE
-1=/medicine/drug_brand/canonical_drug
-3=/medicine/drug_manufacturer	/business/consumer_company=/base/bioventurist/science_or_technology_company=/base/bioventurist/organization=/business/business_operation=/organization/organization			___NE

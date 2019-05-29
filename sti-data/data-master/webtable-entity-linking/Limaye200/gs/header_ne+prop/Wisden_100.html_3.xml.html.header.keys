@@ -1,4 +1,0 @@
-1=/cricket/cricket_bowler=/cricket/cricket_player	/sports/pro_athlete=/people/person			___NE
-3=/cricket/cricket_team	/sports/sports_team			___NE
-4=/cricket/cricket_team	/sports/sports_team			___NE
-5=/cricket/cricket_stadium	/architecture/venue=/architecture/structure=/base/venuebase/venue=/location/dated_location=/location/location=/base/tagit/place=/sports/sports_facility=/architecture/building			___NE

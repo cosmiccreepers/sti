@@ -1,3 +1,0 @@
-0=/location/citytown=/base/aareas/schema/earth/citytown	/location/location=/location/dated_location=/location/statistical_region=/location/australian_suburb=/base/aareas/schema/administrative_area=/location/administrative_division=/base/popstra/location=/government/governmental_jurisdiction=/base/tagit/place=/government/political_district			___NE
-1=/location/australian_local_government_area=/base/aareas/schema/au/local_government_area	/location/statistical_region=/location/dated_location=/base/aareas/schema/administrative_area=/location/administrative_division=/location/location			___NE
-2=/location/geocode/longitude=/location/geocode/latitude
