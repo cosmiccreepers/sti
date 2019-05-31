@@ -1,0 +1,3 @@
+0=/education/school	/organization/organization=/education/educational_institution			___NE
+1=/location/citytown	/location/hud_county_place=/location/hud_foreclosure_area=/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division			___NE
+4=/person/person			___NE

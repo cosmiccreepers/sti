@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Character</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Actor</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Positions</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fields</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Gregory House</html>
+          <wikipedia>Gregory_House</wikipedia>
+        </cell>
+        <cell>
+          <html>Hugh Laurie</html>
+          <wikipedia>Hugh_Laurie</wikipedia>
+        </cell>
+        <cell>
+          <html>Head of the Department of Diagnostic Medicine</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Infectious Diseases Nephrology</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lisa Cuddy</html>
+          <wikipedia>Lisa_Cuddy</wikipedia>
+        </cell>
+        <cell>
+          <html>Lisa Edelstein</html>
+          <wikipedia>Lisa_Edelstein</wikipedia>
+        </cell>
+        <cell>
+          <html>Chief Hospital Administrator Dean of Medicine Member of the Princeton-Plainsboro Hospital Board Member of the Organ Transplant Committee</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Endocrinology</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>James Wilson</html>
+          <wikipedia>James_Wilson_(House)</wikipedia>
+        </cell>
+        <cell>
+          <html>Robert Sean Leonard</html>
+          <wikipedia>Robert_Sean_Leonard</wikipedia>
+        </cell>
+        <cell>
+          <html>Head of the Department of Oncology Member of the Princeton-Plainsboro Hospital Board Member of the Organ Transplant Committee</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Oncology</html>
+          <wikipedia>Oncology</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Eric Foreman</html>
+          <wikipedia>Eric_Foreman</wikipedia>
+        </cell>
+        <cell>
+          <html>Omar Epps</html>
+          <wikipedia>Omar_Epps</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician , Department of Diagnostic Medicine (1&amp;ndash;3, 4.04&amp;ndash;) Head of Diagnostic Medicine at Mercy Hospital (4.01&amp;ndash;4.03)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Neurology</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Allison Cameron</html>
+          <wikipedia>Allison_Cameron</wikipedia>
+        </cell>
+        <cell>
+          <html>Jennifer Morrison</html>
+          <wikipedia>Jennifer_Morrison</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician, Department of Diagnostic Medicine (1&amp;ndash;3) Senior Attending Physician in the Emergency Room (4&amp;ndash;) Member of the Budget Committee</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Immunology</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Robert Chase</html>
+          <wikipedia>Robert_Chase</wikipedia>
+        </cell>
+        <cell>
+          <html>Jesse Spencer</html>
+          <wikipedia>Jesse_Spencer</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician, Department of Diagnostic Medicine (1&amp;ndash;3) Surgeon (4&amp;ndash;)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Intensive Care Medicine</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Chris Taub</html>
+          <wikipedia>Chris_Taub</wikipedia>
+        </cell>
+        <cell>
+          <html>Peter Jacobson</html>
+          <wikipedia>Peter_Jacobson</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician, Department of Diagnostic Medicine (4.02&amp;ndash;)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Plastic Surgery</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lawrence Kutner</html>
+          <wikipedia>Lawrence_Kutner_(House)</wikipedia>
+        </cell>
+        <cell>
+          <html>Kal Penn</html>
+          <wikipedia>Kal_Penn</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician, Department of Diagnostic Medicine (4.02&amp;ndash;)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sports Medicine Rehabilitation Medicine</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>&amp;quot; Thirteen &amp;quot;</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Olivia Wilde</html>
+          <wikipedia>Olivia_Wilde</wikipedia>
+        </cell>
+        <cell>
+          <html>Physician, Department of Diagnostic Medicine (4.02&amp;ndash;)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Internal Medicine</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>House (TV series) - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>During the first three seasons, doctors Eric Foreman , Allison Cameron , and Robert Chase are House's team members. At the end of season 3, Foreman and Cameron resign and Chase is fired by House. In season 4, House hires forty doctors and then uses diagnostic cases as contests to eventually eliminate thirty-seven of them, narrowing down to Chris Taub , Lawrence Kutner , and " Thirteen ". Foreman is also rehired by Cuddy back to House's team. As of the end of the fourth season, Chase and Cameron are still employed at Princeton-Plainsboro Teaching Hospital.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>House (TV series)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Characters Main article: List of House characters</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Production</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Series overview</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Characters</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Production</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Reception</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Merchandise</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>and his encounter with a crazed gunman credited as " Moriarty ", which is the same name as Holmes' nemesis. Also, series creator David Shore has said that Dr. House's name is meant as "a subtle homage" to Sherlock Holmes (i.e., homes).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>House is in many respects a medical Sherlock Holmes . This resemblance is evident in various elements of the series' plot, such as House's reliance on psychology to solve a case, his reluctance to accept cases he does not find interesting, his drug addiction , home address (apartment 221B ), playing of an instrument, relationship with Dr. James Wilson (who parallels Dr. John Watson ),</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>House is aired by the Fox Broadcasting Company . The series is a co-production of Heel and Toe Films ( Paul Attanasio and Katie Jacobs ), Shore Z Productions ( David Shore ), and Bad Hat Harry Productions ( Bryan Singer ) in association with the NBC Universal Television Group (formed after General Electric , the owners of NBC , bought Universal Studios from Vivendi Universal ) for FOX. All three companies are responsible for production and all four people are executive producers of the show. David Shore's ideas for House are inspired by the writings of Berton Rouech .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Another large portion of the plot centers on House's abuse of Vicodin to manage pain stemming from an infarction in his quadriceps muscle some years earlier, an injury that forces him to walk with a cane . Although the substance abuse acts to increase many of his more objectionable character traits, it helps prevent his pain from impairing his medical acumen. This leads him to often self-medicate with other drugs such as oxycodone and morphine .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>but has since shifted much of the focus to the characters rather than concentrating solely on the environment.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Episodes frequently feature the practice of entering a patient's house with or without the owner's permission in order to search for clues that might suggest a certain pathology . The creator, David Shore, originally intended for the show to be a CSI -type show where the "germs were the suspects,"</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>As of the season two episode " TB or Not TB ", a German production company , Moratim, is credited in the copyright notice instead of Universal Media Studios . (Moratim Produktions GmbH &amp; Co. KG, of Pullach im Isartal , Germany .)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Cuddy also requires House to spend time treating patients in the hospital's walk-in clinic ; House's grudging fulfillment of this duty is a recurring subplot on the show. During clinic duty, House confounds patients with an eccentric bedside manner and unorthodox treatments, but impresses them with rapid and accurate diagnoses after seemingly not paying attention. Realizations made during some of the simple problems House faces in the clinic often help him solve the main case.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Because House's theories about a patient's illness tend to be based on subtle or controversial insights, he often has trouble obtaining permission from his boss, hospital administrator Dr. Lisa Cuddy , to perform medical procedures he thinks are necessary, especially when the procedures themselves involve a high degree of risk or are ethically dubious.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The 58th Primetime Emmy Awards nominated Derek R. Hill (Production Designer) and Danielle Berman, S.D.S.A.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Often the ailment cannot be easily deduced because the patient has lied about symptoms and circumstances. House frequently mutters, "Everybody lies," or proclaims during the team's deliberations: "The patient is lying," or "The symptoms never lie." Even when not stated explicitly, this assumption guides House's decisions and diagnoses.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

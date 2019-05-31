@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>State 1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>State 2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>State 3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Notes</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Alabama</html>
+          <wikipedia>Alabama</wikipedia>
+        </cell>
+        <cell>
+          <html>Florida</html>
+          <wikipedia>Florida</wikipedia>
+        </cell>
+        <cell>
+          <html>Mississippi</html>
+          <wikipedia>Mississippi</wikipedia>
+        </cell>
+        <cell>
+          <html>Gulf Coast</html>
+          <wikipedia>Gulf_Coast</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Connecticut</html>
+          <wikipedia>Connecticut</wikipedia>
+        </cell>
+        <cell>
+          <html>New Jersey</html>
+          <wikipedia>New_Jersey</wikipedia>
+        </cell>
+        <cell>
+          <html>New York</html>
+          <wikipedia>New_York</wikipedia>
+        </cell>
+        <cell>
+          <html>New York, New York Metropolitan Area</html>
+          <wikipedia>New_York_City</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Delaware</html>
+          <wikipedia>Delaware</wikipedia>
+        </cell>
+        <cell>
+          <html>Maryland</html>
+          <wikipedia>Maryland</wikipedia>
+        </cell>
+        <cell>
+          <html>New Jersey</html>
+          <wikipedia>New_Jersey</wikipedia>
+        </cell>
+        <cell>
+          <html>Wilmington, DE</html>
+          <wikipedia>Wilmington,_Delaware</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Delaware</html>
+          <wikipedia>Delaware</wikipedia>
+        </cell>
+        <cell>
+          <html>Maryland</html>
+          <wikipedia>Maryland</wikipedia>
+        </cell>
+        <cell>
+          <html>Virginia</html>
+          <wikipedia>Virginia</wikipedia>
+        </cell>
+        <cell>
+          <html>Delmarva Peninsula</html>
+          <wikipedia>Delmarva_Peninsula</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Idaho</html>
+          <wikipedia>Idaho</wikipedia>
+        </cell>
+        <cell>
+          <html>Montana</html>
+          <wikipedia>Montana</wikipedia>
+        </cell>
+        <cell>
+          <html>Washington</html>
+          <wikipedia>Washington_(state)</wikipedia>
+        </cell>
+        <cell>
+          <html>Spokane, WA, Interstate 90</html>
+          <wikipedia>Spokane,_Washington</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Illinois</html>
+          <wikipedia>Illinois</wikipedia>
+        </cell>
+        <cell>
+          <html>Indiana</html>
+          <wikipedia>Indiana</wikipedia>
+        </cell>
+        <cell>
+          <html>Wisconsin</html>
+          <wikipedia>Wisconsin</wikipedia>
+        </cell>
+        <cell>
+          <html>Chicago metro area</html>
+          <wikipedia>Chicago_metro_area</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kansas</html>
+          <wikipedia>Kansas</wikipedia>
+        </cell>
+        <cell>
+          <html>Oklahoma</html>
+          <wikipedia>Oklahoma</wikipedia>
+        </cell>
+        <cell>
+          <html>Texas</html>
+          <wikipedia>Texas</wikipedia>
+        </cell>
+        <cell>
+          <html>Liberal, Kansas, Oklahoma, Texas, panhandles</html>
+          <wikipedia>Liberal,_Kansas</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Massachusetts</html>
+          <wikipedia>Massachusetts</wikipedia>
+        </cell>
+        <cell>
+          <html>Maine</html>
+          <wikipedia>Maine</wikipedia>
+        </cell>
+        <cell>
+          <html>New Hampshire</html>
+          <wikipedia>New_Hampshire</wikipedia>
+        </cell>
+        <cell>
+          <html>Boston, Portland</html>
+          <wikipedia>Boston</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>New York</html>
+          <wikipedia>New_York</wikipedia>
+        </cell>
+        <cell>
+          <html>Pennsylvania</html>
+          <wikipedia>Pennsylvania</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio</html>
+          <wikipedia>Ohio</wikipedia>
+        </cell>
+        <cell>
+          <html>Erie, Niagara Frontier, North Coast, Ontario, Lake Erie</html>
+          <wikipedia>Erie,_Pennsylvania</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>South Carolina</html>
+          <wikipedia>South_Carolina</wikipedia>
+        </cell>
+        <cell>
+          <html>North Carolina</html>
+          <wikipedia>North_Carolina</wikipedia>
+        </cell>
+        <cell>
+          <html>Tennessee</html>
+          <wikipedia>Tennessee</wikipedia>
+        </cell>
+        <cell>
+          <html>Spartanburg, South Carolina, Asheville, North Carolina, Johnson City, Tennessee, Kingsport, Tennessee, Interstate 26</html>
+          <wikipedia>Spartanburg,_South_Carolina</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Vermont</html>
+          <wikipedia>Vermont</wikipedia>
+        </cell>
+        <cell>
+          <html>Maine</html>
+          <wikipedia>Maine</wikipedia>
+        </cell>
+        <cell>
+          <html>New Hampshire</html>
+          <wikipedia>New_Hampshire</wikipedia>
+        </cell>
+        <cell>
+          <html>New England</html>
+          <wikipedia>New_England</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>West Virginia</html>
+          <wikipedia>West_Virginia</wikipedia>
+        </cell>
+        <cell>
+          <html>Virginia</html>
+          <wikipedia>Virginia</wikipedia>
+        </cell>
+        <cell>
+          <html>North Carolina</html>
+          <wikipedia>North_Carolina</wikipedia>
+        </cell>
+        <cell>
+          <html>Interstate 77, Charleston, West Virginia, Charlotte, North Carolina, Wytheville, Virginia</html>
+          <wikipedia>Interstate_77</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Tri-state area - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following tri-state areas are also notable, but have no tripoint:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Tri-state area</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Regions with no Tripoint</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other Tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Land tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Water Tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Regions with no Tripoint</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other Tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>There are another 24 places where the tripoint is under water:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Water Tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>There are 18 tripoints between 1 US state and 2 Canadian provinces or 2 US states and 1 Canadian province.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>They are:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Of the 62 points where three states join, there are 38 tripoints with markers on land in the United States.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Land tripoints</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>There are 8 tripoints between 1 US state and 2 Mexican states or 2 US states and 1 Mexican state.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The "Joplin District" Lead-Zinc Mining region of Oklahoma, Kansas and Missouri produced mineral specimens famous throughout the world as "Tri-State" minerals.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Other large metropolitan areas with a tri-state area include Cincinnati , Memphis , Philadelphia , and Washington, D.C.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Tri-State Region around New York City is where New York , New Jersey , and Connecticut meet. There is no tripoint, however, as Connecticut does not touch New Jersey. Chicago's tri-state region includes Illinois , Indiana , and Wisconsin and is commonly referred to as Chicagoland . This tri-state region also does not have a tripoint since Indiana does not touch Wisconsin.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

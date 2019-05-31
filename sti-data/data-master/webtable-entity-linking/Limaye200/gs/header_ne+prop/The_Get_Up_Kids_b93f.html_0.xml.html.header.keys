@@ -1,0 +1,4 @@
+0=/music/album/release_date
+1=/music/album			___NE
+2=/music/album_release_type=/music/album_content_type			___NE
+3=/music/record_label	/business/business_operation=/organization/organization			___NE

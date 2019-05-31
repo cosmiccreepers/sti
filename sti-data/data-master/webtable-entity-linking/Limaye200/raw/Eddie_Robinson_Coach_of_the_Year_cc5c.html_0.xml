@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Year</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Winner</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>School</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1957</html>
+          <wikipedia>1957_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Woody Hayes</html>
+          <wikipedia>Woody_Hayes</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio State</html>
+          <wikipedia>1957_Ohio_State_Buckeyes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1958</html>
+          <wikipedia>1958_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Paul Dietzel</html>
+          <wikipedia>Paul_Dietzel</wikipedia>
+        </cell>
+        <cell>
+          <html>LSU</html>
+          <wikipedia>1958_LSU_Tigers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1959</html>
+          <wikipedia>1959_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Ben Schwartzwalder</html>
+          <wikipedia>Ben_Schwartzwalder</wikipedia>
+        </cell>
+        <cell>
+          <html>Syracuse</html>
+          <wikipedia>1959_Syracuse_Orangemen_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1960</html>
+          <wikipedia>1960_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Murray Warmath</html>
+          <wikipedia>Murray_Warmath</wikipedia>
+        </cell>
+        <cell>
+          <html>Minnesota</html>
+          <wikipedia>1960_Minnesota_Golden_Gophers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1961</html>
+          <wikipedia>1961_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Darrell Royal</html>
+          <wikipedia>Darrell_Royal</wikipedia>
+        </cell>
+        <cell>
+          <html>Texas</html>
+          <wikipedia>Texas_Longhorns_football_(1960%E2%80%9369)#1961</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1962</html>
+          <wikipedia>1962_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>John McKay</html>
+          <wikipedia>John_McKay_(American_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>USC</html>
+          <wikipedia>USC_Trojans_football_under_John_McKay#1962</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1963</html>
+          <wikipedia>1963_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Darrell Royal</html>
+          <wikipedia>Darrell_Royal</wikipedia>
+        </cell>
+        <cell>
+          <html>Texas</html>
+          <wikipedia>1963_Texas_Longhorns_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1964</html>
+          <wikipedia>1964_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Ara Parseghian</html>
+          <wikipedia>Ara_Parseghian</wikipedia>
+        </cell>
+        <cell>
+          <html>Notre Dame</html>
+          <wikipedia>1964_Notre_Dame_Fighting_Irish_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1965</html>
+          <wikipedia>1965_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Duffy Daugherty</html>
+          <wikipedia>Duffy_Daugherty</wikipedia>
+        </cell>
+        <cell>
+          <html>Michigan State</html>
+          <wikipedia>1965_Michigan_State_Spartans_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1966</html>
+          <wikipedia>1966_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Tom Cahill</html>
+          <wikipedia>Tom_Cahill_(American_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Army</html>
+          <wikipedia>Army_Black_Knights_football</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1967</html>
+          <wikipedia>1967_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>John Pont</html>
+          <wikipedia>John_Pont</wikipedia>
+        </cell>
+        <cell>
+          <html>Indiana</html>
+          <wikipedia>1967_Indiana_Hoosiers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1968</html>
+          <wikipedia>1968_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Woody Hayes</html>
+          <wikipedia>Woody_Hayes</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio State</html>
+          <wikipedia>1968_Ohio_State_Buckeyes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1969</html>
+          <wikipedia>1969_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bo Schembechler</html>
+          <wikipedia>Bo_Schembechler</wikipedia>
+        </cell>
+        <cell>
+          <html>Michigan</html>
+          <wikipedia>1969_Michigan_Wolverines_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1970</html>
+          <wikipedia>1970_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Alex Agase</html>
+          <wikipedia>Alex_Agase</wikipedia>
+        </cell>
+        <cell>
+          <html>Northwestern</html>
+          <wikipedia>Northwestern_Wildcats_football</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1971</html>
+          <wikipedia>1971_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bob Devaney</html>
+          <wikipedia>Bob_Devaney</wikipedia>
+        </cell>
+        <cell>
+          <html>Nebraska</html>
+          <wikipedia>1971_Nebraska_Cornhuskers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1972</html>
+          <wikipedia>1972_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>John McKay</html>
+          <wikipedia>John_McKay_(American_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>USC</html>
+          <wikipedia>USC_Trojans_football_under_John_McKay#1972</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1973</html>
+          <wikipedia>1973_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Johnny Majors</html>
+          <wikipedia>Johnny_Majors</wikipedia>
+        </cell>
+        <cell>
+          <html>Pittsburgh</html>
+          <wikipedia>1973_Pittsburgh_Panthers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1974</html>
+          <wikipedia>1974_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Grant Teaff</html>
+          <wikipedia>Grant_Teaff</wikipedia>
+        </cell>
+        <cell>
+          <html>Baylor</html>
+          <wikipedia>Baylor_Bears_football</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1975</html>
+          <wikipedia>1975_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Woody Hayes</html>
+          <wikipedia>Woody_Hayes</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio State</html>
+          <wikipedia>1975_Ohio_State_Buckeyes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1976</html>
+          <wikipedia>1976_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Johnny Majors</html>
+          <wikipedia>Johnny_Majors</wikipedia>
+        </cell>
+        <cell>
+          <html>Pittsburgh</html>
+          <wikipedia>1976_Pittsburgh_Panthers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1977</html>
+          <wikipedia>1977_college_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Lou Holtz</html>
+          <wikipedia>Lou_Holtz</wikipedia>
+        </cell>
+        <cell>
+          <html>Arkansas</html>
+          <wikipedia>1977_Arkansas_Razorbacks_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1978</html>
+          <wikipedia>1978_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Joe Paterno</html>
+          <wikipedia>Joe_Paterno</wikipedia>
+        </cell>
+        <cell>
+          <html>Penn State</html>
+          <wikipedia>Penn_State_Nittany_Lions_football_under_Joe_Paterno_(as_an_Independent)#1978_season</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1979</html>
+          <wikipedia>1979_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Earle Bruce</html>
+          <wikipedia>Earle_Bruce</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio State</html>
+          <wikipedia>1979_Ohio_State_Buckeyes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1980</html>
+          <wikipedia>1980_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Vince Dooley</html>
+          <wikipedia>Vince_Dooley</wikipedia>
+        </cell>
+        <cell>
+          <html>Georgia</html>
+          <wikipedia>Georgia_Bulldogs_football_under_Vince_Dooley#1980_season</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1981</html>
+          <wikipedia>1981_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Danny Ford</html>
+          <wikipedia>Danny_Ford</wikipedia>
+        </cell>
+        <cell>
+          <html>Clemson</html>
+          <wikipedia>1981_Clemson_Tigers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1982</html>
+          <wikipedia>1982_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Joe Paterno</html>
+          <wikipedia>Joe_Paterno</wikipedia>
+        </cell>
+        <cell>
+          <html>Penn State</html>
+          <wikipedia>Penn_State_Nittany_Lions_football_under_Joe_Paterno_(as_an_Independent)#1982_season</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1983</html>
+          <wikipedia>1983_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Howard Schnellenberger</html>
+          <wikipedia>Howard_Schnellenberger</wikipedia>
+        </cell>
+        <cell>
+          <html>Miami (FL)</html>
+          <wikipedia>1983_Miami_Hurricanes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1984</html>
+          <wikipedia>1984_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>LaVell Edwards</html>
+          <wikipedia>LaVell_Edwards</wikipedia>
+        </cell>
+        <cell>
+          <html>BYU</html>
+          <wikipedia>1984_BYU_Cougars_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1985</html>
+          <wikipedia>1985_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Fisher DeBerry</html>
+          <wikipedia>Fisher_DeBerry</wikipedia>
+        </cell>
+        <cell>
+          <html>Air Force</html>
+          <wikipedia>1985_Air_Force_Falcons_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1986</html>
+          <wikipedia>1986_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Joe Paterno</html>
+          <wikipedia>Joe_Paterno</wikipedia>
+        </cell>
+        <cell>
+          <html>Penn State</html>
+          <wikipedia>Penn_State_Nittany_Lions_football_under_Joe_Paterno_(as_an_Independent)#1986_season</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1987</html>
+          <wikipedia>1987_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Dick MacPherson</html>
+          <wikipedia>Dick_MacPherson</wikipedia>
+        </cell>
+        <cell>
+          <html>Syracuse</html>
+          <wikipedia>1987_Syracuse_Orangemen_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1988</html>
+          <wikipedia>1988_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Lou Holtz</html>
+          <wikipedia>Lou_Holtz</wikipedia>
+        </cell>
+        <cell>
+          <html>Notre Dame</html>
+          <wikipedia>1988_Notre_Dame_Fighting_Irish_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1989</html>
+          <wikipedia>1989_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bill McCartney</html>
+          <wikipedia>Bill_McCartney</wikipedia>
+        </cell>
+        <cell>
+          <html>Colorado</html>
+          <wikipedia>1989_Colorado_Buffaloes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1990</html>
+          <wikipedia>1990_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bobby Ross</html>
+          <wikipedia>Bobby_Ross</wikipedia>
+        </cell>
+        <cell>
+          <html>Georgia Tech</html>
+          <wikipedia>1990_Georgia_Tech_Yellow_Jackets_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1991</html>
+          <wikipedia>1991_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Don James</html>
+          <wikipedia>Don_James_(American_football)</wikipedia>
+        </cell>
+        <cell>
+          <html>Washington</html>
+          <wikipedia>1991_Washington_Huskies_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1992</html>
+          <wikipedia>1992_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Gene Stallings</html>
+          <wikipedia>Gene_Stallings</wikipedia>
+        </cell>
+        <cell>
+          <html>Alabama</html>
+          <wikipedia>1992_Alabama_Crimson_Tide_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1993</html>
+          <wikipedia>1993_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Terry Bowden</html>
+          <wikipedia>Terry_Bowden</wikipedia>
+        </cell>
+        <cell>
+          <html>Auburn</html>
+          <wikipedia>1993_Auburn_Tigers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1994</html>
+          <wikipedia>1994_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Rich Brooks</html>
+          <wikipedia>Rich_Brooks</wikipedia>
+        </cell>
+        <cell>
+          <html>Oregon</html>
+          <wikipedia>1994_Oregon_Ducks_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1995</html>
+          <wikipedia>1995_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Barnett</html>
+          <wikipedia>Gary_Barnett</wikipedia>
+        </cell>
+        <cell>
+          <html>Northwestern</html>
+          <wikipedia>1995_Northwestern_Wildcats_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1996</html>
+          <wikipedia>1996_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bruce Snyder</html>
+          <wikipedia>Bruce_Snyder</wikipedia>
+        </cell>
+        <cell>
+          <html>Arizona State</html>
+          <wikipedia>1996_Arizona_State_Sun_Devils_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1997</html>
+          <wikipedia>1997_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Mike Price</html>
+          <wikipedia>Mike_Price</wikipedia>
+        </cell>
+        <cell>
+          <html>Washington State</html>
+          <wikipedia>1997_Washington_State_Cougars_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1998</html>
+          <wikipedia>1998_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Phillip Fulmer</html>
+          <wikipedia>Phillip_Fulmer</wikipedia>
+        </cell>
+        <cell>
+          <html>Tennessee</html>
+          <wikipedia>1998_Tennessee_Volunteers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1999</html>
+          <wikipedia>1999_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Frank Beamer</html>
+          <wikipedia>Frank_Beamer</wikipedia>
+        </cell>
+        <cell>
+          <html>Virginia Tech</html>
+          <wikipedia>1999_Virginia_Tech_Hokies_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2000</html>
+          <wikipedia>2000_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Bob Stoops</html>
+          <wikipedia>Bob_Stoops</wikipedia>
+        </cell>
+        <cell>
+          <html>Oklahoma</html>
+          <wikipedia>2000_Oklahoma_Sooners_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2001</html>
+          <wikipedia>2001_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Ralph Friedgen</html>
+          <wikipedia>Ralph_Friedgen</wikipedia>
+        </cell>
+        <cell>
+          <html>Maryland</html>
+          <wikipedia>2001_Maryland_Terrapins_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2002</html>
+          <wikipedia>2002_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Jim Tressel</html>
+          <wikipedia>Jim_Tressel</wikipedia>
+        </cell>
+        <cell>
+          <html>Ohio State</html>
+          <wikipedia>2002_Ohio_State_Buckeyes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2003</html>
+          <wikipedia>2003_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Nick Saban</html>
+          <wikipedia>Nick_Saban</wikipedia>
+        </cell>
+        <cell>
+          <html>LSU</html>
+          <wikipedia>2003_LSU_Tigers_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2004</html>
+          <wikipedia>2004_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Urban Meyer</html>
+          <wikipedia>Urban_Meyer</wikipedia>
+        </cell>
+        <cell>
+          <html>Utah</html>
+          <wikipedia>2004_Utah_Utes_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2005</html>
+          <wikipedia>2005_NCAA_Division_I-A_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Charlie Weis</html>
+          <wikipedia>Charlie_Weis</wikipedia>
+        </cell>
+        <cell>
+          <html>Notre Dame</html>
+          <wikipedia>2005_Notre_Dame_Fighting_Irish_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2006</html>
+          <wikipedia>2006_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Greg Schiano</html>
+          <wikipedia>Greg_Schiano</wikipedia>
+        </cell>
+        <cell>
+          <html>Rutgers</html>
+          <wikipedia>2006_Rutgers_Scarlet_Knights_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2007</html>
+          <wikipedia>2007_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Mark Mangino</html>
+          <wikipedia>Mark_Mangino</wikipedia>
+        </cell>
+        <cell>
+          <html>Kansas</html>
+          <wikipedia>2007_Kansas_Jayhawks_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2008</html>
+          <wikipedia>2008_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Nick Saban</html>
+          <wikipedia>Nick_Saban</wikipedia>
+        </cell>
+        <cell>
+          <html>Alabama</html>
+          <wikipedia>2008_Alabama_Crimson_Tide_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2009</html>
+          <wikipedia>2009_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Patterson</html>
+          <wikipedia>Gary_Patterson</wikipedia>
+        </cell>
+        <cell>
+          <html>TCU</html>
+          <wikipedia>2009_TCU_Horned_Frogs_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2010</html>
+          <wikipedia>2010_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Chip Kelly</html>
+          <wikipedia>Chip_Kelly</wikipedia>
+        </cell>
+        <cell>
+          <html>Oregon</html>
+          <wikipedia>2010_Oregon_Ducks_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2011</html>
+          <wikipedia>2011_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Mike Gundy</html>
+          <wikipedia>Mike_Gundy</wikipedia>
+        </cell>
+        <cell>
+          <html>Oklahoma State</html>
+          <wikipedia>2011_Oklahoma_State_Cowboys_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2012</html>
+          <wikipedia>2012_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Brian Kelly</html>
+          <wikipedia>Brian_Kelly_(American_football_coach)</wikipedia>
+        </cell>
+        <cell>
+          <html>Notre Dame</html>
+          <wikipedia>2012_Notre_Dame_Fighting_Irish_football_team</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2013</html>
+          <wikipedia>2013_NCAA_Division_I_FBS_football_season</wikipedia>
+        </cell>
+        <cell>
+          <html>Gus Malzahn</html>
+          <wikipedia>Gus_Malzahn</wikipedia>
+        </cell>
+        <cell>
+          <html>Auburn</html>
+          <wikipedia>2013_Auburn_Tigers_football_team</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Eddie Robinson Coach of the Year - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Eddie Robinson Coach of the Year</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Thus, for example, the award has also been called the Kodak Coach of the Year Award .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References and notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References and notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Eddie Robinson Coach of the Year award is given annually to a college football coach by the Football Writers Association of America . The award honors Robinson the former coach at Grambling State who holds the record for most Division I wins with 408. This award is also known as the American Football Coaches Association or AFCA Coach of the Year Award . The AFCA Coach of the Year Award has had various sponsors over the years including Eastman Kodak from 1960 to 1993 and GTE from 1996 to 1999.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Please help improve this article by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ www.afca.com - About AFCA Coach of the Year Award</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article does not cite any references or sources . (January 2008)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Eddie Robinson Coach of the Year</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

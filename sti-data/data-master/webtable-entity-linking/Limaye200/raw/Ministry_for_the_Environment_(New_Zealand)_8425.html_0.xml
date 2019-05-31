@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>PM Served</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Took Office</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Left Office</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Geoffrey Palmer</html>
+          <wikipedia>Geoffrey_Palmer_(politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Lange , Palmer</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>September 1990</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Labour</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Simon Upton</html>
+          <wikipedia>Simon_Upton</wikipedia>
+        </cell>
+        <cell>
+          <html>Bolger , Shipley</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1999</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>National</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Marian Hobbs</html>
+          <wikipedia>Marian_Hobbs</wikipedia>
+        </cell>
+        <cell>
+          <html>Clark</html>
+          <wikipedia>Helen_Clark</wikipedia>
+        </cell>
+        <cell>
+          <html>10 December 1999</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>19 October 2005</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Labour</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Benson-Pope</html>
+          <wikipedia>David_Benson-Pope</wikipedia>
+        </cell>
+        <cell>
+          <html>Clark</html>
+          <wikipedia>Helen_Clark</wikipedia>
+        </cell>
+        <cell>
+          <html>19 October 2005</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>27 July 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Labour</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Parker</html>
+          <wikipedia>David_Parker_(politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Clark</html>
+          <wikipedia>Helen_Clark</wikipedia>
+        </cell>
+        <cell>
+          <html>27 July 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>31 October 2007 [1]</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Labour</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Trevor Mallard</html>
+          <wikipedia>Trevor_Mallard</wikipedia>
+        </cell>
+        <cell>
+          <html>Clark</html>
+          <wikipedia>Helen_Clark</wikipedia>
+        </cell>
+        <cell>
+          <html>31 October 2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Present [2]</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Labour</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Ministry for the Environment (New Zealand) - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ministers for the Environment</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Ministry for the Environment (New Zealand)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] State of the Environment reporting</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ministers for the Environment</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] State of the Environment reporting</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Ministry for the Environment ( M ori Manat M Te Taiao ) advises the New Zealand Government on environmental laws, policies, standards and guidelines. It was established in 1986 as part of the Environment Act 1986 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In 1997 the Ministry released New Zealand's first State of the Environment report.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Ministry for the Environment (New Zealand)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This was followed up in 2008 by a second report titled Environment New Zealand 2007 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Chapter 13 of this report was removed before final publication but was leaked to the Green Party . After the media reported the existence of the omitted chapter the ministry placed the contents on its website.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

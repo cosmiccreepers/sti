@@ -1,0 +1,5 @@
+3=/government/government_position_held/from
+4=/government/government_position_held/to
+1=/government/politician	/people/person			___NE
+2=/government/politician	/people/person			___NE
+5=/government/political_party	/organization/organization			___NE

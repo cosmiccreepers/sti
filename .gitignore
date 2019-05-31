@@ -71,3 +71,8 @@ classes/*
 /ui/nbproject/private/
 */.idea/*
 target/*
+
+# Files that don't need updating/adding (contain keys or are too big)
+/config/*
+/sti-data/*
+*.properties

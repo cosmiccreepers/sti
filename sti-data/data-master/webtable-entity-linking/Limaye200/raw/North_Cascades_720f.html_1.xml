@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Mountain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Height (ft)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Prominence (ft)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Parent mountain</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Mount Baker</html>
+          <wikipedia>Mount_Baker</wikipedia>
+        </cell>
+        <cell>
+          <html>10,778</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8,881</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mount Rainier</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Glacier Peak</html>
+          <wikipedia>Glacier_Peak</wikipedia>
+        </cell>
+        <cell>
+          <html>10,541</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>7,501</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mount Rainier</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Round Mountain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>5,320</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,780</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mount Baker</html>
+          <wikipedia>Mount_Baker</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mount Spickard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>8,979</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,779</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mount Baker</html>
+          <wikipedia>Mount_Baker</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Three Fingers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6,850</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>4,490</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Glacier Peak</html>
+          <wikipedia>Glacier_Peak</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>North Cascades - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following peaks are notable for their topographic prominence :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>North Cascades</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>(The above table uses a topographic prominence cutoff of 1000 feet, in order to list only highly independent peaks.)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Geography</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Protected areas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notable peaks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sources</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following North Cascades peaks are notable for their height (absolute elevation):</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notable peaks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following peaks are notable for their large, steep rise above local terrain. Peaks are listed in descending order by elevation.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>In British Columbia, protected areas include</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The North Cascades include various protected areas. Chief among the areas in Washington is North Cascades National Park , occupying much of the area between Mount Baker and the Cascade divide. Contiguous with the Park are Ross Lake National Recreation Area and Lake Chelan National Recreation Area . Designated wilderness areas in the range include:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Diablo Lake, Colonial Peak and Pyramid Peak, in the North Cascades</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Protected areas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Early recreational use of the range included expeditions by the local climbing clubs, The Mountaineers and The Mazamas . However even these groups did not fully explore the inner reaches of the range and ascend the most difficult peaks until the 1930s and 1940s.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sources</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Early settlers also arrived in the foothills of the North Cascades in the latter half of the 1800s, and utilized the range in a limited way as a source of timber and grazing land. However the range is so rugged that this exploitation was less dramatic than in other more gentle landscapes.</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

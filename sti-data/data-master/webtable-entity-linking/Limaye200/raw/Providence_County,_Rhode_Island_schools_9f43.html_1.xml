@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>School Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>District</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>City</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Students*</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Birchwood School (7th-8th)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>North Providence School District</html>
+          <wikipedia>/w/index.php?title=North_Providence_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>North Providence, Rhode Island</html>
+          <wikipedia>North_Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>342</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Burrillville Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Burrillville School District</html>
+          <wikipedia>/w/index.php?title=Burrillville_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Harrisville, Rhode Island</html>
+          <wikipedia>Harrisville,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>667</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Calcutt Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Central Falls School District</html>
+          <wikipedia>Central_Falls_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Central Falls, Rhode Island</html>
+          <wikipedia>Central_Falls,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>930</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Joseph L. McCourt Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cumberland Public Schools</html>
+          <wikipedia>/w/index.php?title=Cumberland_Public_Schools&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Cumberland, Rhode Island</html>
+          <wikipedia>Cumberland,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>593</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dr. Halliwell School (4th-6th)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>North Smithfield School District</html>
+          <wikipedia>/w/index.php?title=North_Smithfield_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Slatersville, Rhode Island</html>
+          <wikipedia>Slatersville,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>432</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Edward Martin Jr. High</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>East Providence School District</html>
+          <wikipedia>/w/index.php?title=East_Providence_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>East Providence, Rhode Island</html>
+          <wikipedia>East_Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>1037</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Esek Hopkins Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>585</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gilbert Stuart Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>857</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Goff Junior High</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pawtucket School District</html>
+          <wikipedia>/w/index.php?title=Pawtucket_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Pawtucket, Rhode Island</html>
+          <wikipedia>Pawtucket,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>724</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hugh B. Bain Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cranston School District</html>
+          <wikipedia>Cranston_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Cranston, Rhode Island</html>
+          <wikipedia>Cranston,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>705</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Joseph Jenks Junior High</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pawtucket School District</html>
+          <wikipedia>/w/index.php?title=Pawtucket_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Pawtucket, Rhode Island</html>
+          <wikipedia>Pawtucket,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>751</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lincoln Middle School (7th-8th)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lincoln School District</html>
+          <wikipedia>/w/index.php?title=Lincoln_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Lincoln, Rhode Island</html>
+          <wikipedia>Lincoln,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>578</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nathan Bishop Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>708</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nathanael Greene Middle School</html>
+          <wikipedia>Nathanael_Greene_Middle_School</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>877</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nicholas A. Ferri Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Johnston School District</html>
+          <wikipedia>/w/index.php?title=Johnston_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Johnston, Rhode Island</html>
+          <wikipedia>Johnston,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>885</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>North Cumberland Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cumberland Public Schools</html>
+          <wikipedia>/w/index.php?title=Cumberland_Public_Schools&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Cumberland, Rhode Island</html>
+          <wikipedia>Cumberland,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>725</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Park View Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cranston School District</html>
+          <wikipedia>Cranston_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Cranston, Rhode Island</html>
+          <wikipedia>Cranston,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>934</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Perry Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>778</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ponaganset Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Foster-Glocester Regional School District</html>
+          <wikipedia>/w/index.php?title=Foster-Glocester_Regional_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>North Scituate, Rhode Island</html>
+          <wikipedia>North_Scituate,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>745</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Riverside Junior High</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>East Providence School District</html>
+          <wikipedia>/w/index.php?title=East_Providence_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Riverside, Rhode Island</html>
+          <wikipedia>Riverside,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>567</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Roger Williams</html>
+          <wikipedia>Roger_Williams_(theologian)</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>810</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Samuel Slater Junior High</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pawtucket School District</html>
+          <wikipedia>/w/index.php?title=Pawtucket_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Pawtucket, Rhode Island</html>
+          <wikipedia>Pawtucket,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>659</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Samuel W. Bridgham Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>657</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Scituate Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Scituate School District</html>
+          <wikipedia>/w/index.php?title=Scituate_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>North Scituate, Rhode Island</html>
+          <wikipedia>North_Scituate,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>446</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Springfield Middle School I</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>399</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Springfield Middle School II</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Providence Public School District</html>
+          <wikipedia>Providence_Public_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Providence, Rhode Island</html>
+          <wikipedia>Providence,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>397</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Vincent J. Gallagher Middle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Smithfield School District</html>
+          <wikipedia>/w/index.php?title=Smithfield_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Esmond, Rhode Island</html>
+          <wikipedia>Esmond,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>675</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Webster Street School (4th-6th)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pawtucket School District</html>
+          <wikipedia>/w/index.php?title=Pawtucket_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Pawtucket, Rhode Island</html>
+          <wikipedia>Pawtucket,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>214</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Western Hills Middle School (7th-8th)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cranston School District</html>
+          <wikipedia>Cranston_School_District</wikipedia>
+        </cell>
+        <cell>
+          <html>Cranston, Rhode Island</html>
+          <wikipedia>Cranston,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>1082</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Woonsocket Middle School</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Woonsocket School District</html>
+          <wikipedia>/w/index.php?title=Woonsocket_School_District&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Woonsocket, Rhode Island</html>
+          <wikipedia>Woonsocket,_Rhode_Island</wikipedia>
+        </cell>
+        <cell>
+          <html>1520</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Providence County, Rhode Island schools - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>===Middle and junior high schools=== (6th-8th grade unless otherwise noted)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Providence County, Rhode Island schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>(9th-12th grade unless otherwise noted)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>===Elementary schools=== (kindergarten-5th grade unless otherwise noted)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] High schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Providence County, Rhode Island schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Providence County, Rhode Island schools</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>*Student counts as of 2003 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

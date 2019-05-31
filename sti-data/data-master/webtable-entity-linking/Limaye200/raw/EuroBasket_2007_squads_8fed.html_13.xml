@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>No</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Height</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Position</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Year born</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Current Club</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sandi Čebular</html>
+          <wikipedia>Sandi_%C4%8Cebular</wikipedia>
+        </cell>
+        <cell>
+          <html>1.94</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1986</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Unattached</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jaka Lakovič</html>
+          <wikipedia>Jaka_Lakovi%C4%8D</wikipedia>
+        </cell>
+        <cell>
+          <html>1.86</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>AXA FC Barcelona</html>
+          <wikipedia>FC_Barcelona_(basketball)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Aleksandar Ćapin</html>
+          <wikipedia>Aleksandar_%C4%86apin</wikipedia>
+        </cell>
+        <cell>
+          <html>1.86</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1982</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Whirlpool Varese</html>
+          <wikipedia>Pallacanestro_Varese</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Goran Dragić</html>
+          <wikipedia>Goran_Dragi%C4%87</wikipedia>
+        </cell>
+        <cell>
+          <html>1.88</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1986</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>TAU Cer&amp;aacute;mica</html>
+          <wikipedia>Saski_Baskonia</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rasho Nesterovič</html>
+          <wikipedia>Rasho_Nesterovi%C4%8D</wikipedia>
+        </cell>
+        <cell>
+          <html>2.14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Center</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1976</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Toronto Raptors</html>
+          <wikipedia>Toronto_Raptors</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Matjaž Smodi&amp;scaron;</html>
+          <wikipedia>Matja%C5%BE_Smodi%C5%A1</wikipedia>
+        </cell>
+        <cell>
+          <html>2.05</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Forward</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1979</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>CSKA Moscow</html>
+          <wikipedia>PBC_CSKA_Moscow</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Uro&amp;scaron; Slokar</html>
+          <wikipedia>Uro%C5%A1_Slokar</wikipedia>
+        </cell>
+        <cell>
+          <html>2.09</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Center</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1983</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Triumph Lyubertsy</html>
+          <wikipedia>Triumph_Lyubertsy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jaka Klobučar</html>
+          <wikipedia>Jaka_Klobu%C4%8Dar</wikipedia>
+        </cell>
+        <cell>
+          <html>1.94</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Geoplin Slovan</html>
+          <wikipedia>KD_Slovan</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Goran Jagodnik</html>
+          <wikipedia>Goran_Jagodnik</wikipedia>
+        </cell>
+        <cell>
+          <html>2.02</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Forward</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1974</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hemofarm</html>
+          <wikipedia>KK_Hemofarm</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Domen Lorbek</html>
+          <wikipedia>Domen_Lorbek</wikipedia>
+        </cell>
+        <cell>
+          <html>1.96</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Guard</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1985</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MMT Estudiantes</html>
+          <wikipedia>CB_Estudiantes</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ga&amp;scaron;per Vidmar</html>
+          <wikipedia>Ga%C5%A1per_Vidmar</wikipedia>
+        </cell>
+        <cell>
+          <html>2.08</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Center</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fenerbah&amp;ccedil;e &amp;Uuml;lker</html>
+          <wikipedia>Fenerbah%C3%A7e_%C3%9Clkerspor</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Erazem Lorbek</html>
+          <wikipedia>Erazem_Lorbek</wikipedia>
+        </cell>
+        <cell>
+          <html>2.09</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Center</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1984</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lottomatica Roma</html>
+          <wikipedia>Pallacanestro_Virtus_Roma</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>EuroBasket 2007 squads - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach: Ale Pipan</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>EuroBasket 2007 squads</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Slovenia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Italy</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group A</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group B</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group C</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group D</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach: Claude Bergeaud</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] France</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach: Carlo Recalcati</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Group D</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach: Zdenek Hummel</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Czech Republic</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Poland</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Coach:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Turkey</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

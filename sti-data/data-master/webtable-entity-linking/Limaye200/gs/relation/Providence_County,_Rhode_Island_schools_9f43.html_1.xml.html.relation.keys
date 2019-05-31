@@ -1,0 +1,3 @@
+0,1=/education/school/school_district
+0,2;2,0=/location/location/containedby=/education/school/school_district=/location/hud_county_place/place=/location/mailing_address/state_province_region
+-2,0;0,2=/location/location/contains

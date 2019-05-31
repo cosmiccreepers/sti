@@ -1,0 +1,3 @@
+1=/cricket/cricket_team	/sports/sports_team=/organization/organization			___NE
+2=/cricket/cricket_stadium	/architecture/venue=/sports/sports_facility=/architecture/structure=/location/location=/architecture/building	___NE
+3=/base/aareas/schema/england/metropolitan_borough_city	/location/citytown=/base/aareas/schema/earth/citytown=/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/government/governmental_jurisdiction=/base/aareas/schema/administrative_area=/location/uk_statistical_location			___NE

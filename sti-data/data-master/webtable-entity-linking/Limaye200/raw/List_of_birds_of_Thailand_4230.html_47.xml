@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Common name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Binomial</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Status</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Crested Finchbill</html>
+          <wikipedia>Crested_Finchbill</wikipedia>
+        </cell>
+        <cell>
+          <html>Spizixos canifrons</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Straw-headed Bulbul</html>
+          <wikipedia>Straw-headed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus zeylanicus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rare and globally vulnerable</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Striated Bulbul</html>
+          <wikipedia>Striated_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus striatus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Black-and-white Bulbul</html>
+          <wikipedia>Black-and-white_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus melanoleucus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rare</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Black-headed Bulbul</html>
+          <wikipedia>Black-headed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus atriceps</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Black-crested Bulbul</html>
+          <wikipedia>Black-crested_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus melanicterus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Scaly-breasted Bulbul</html>
+          <wikipedia>Scaly-breasted_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus squamatus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Grey-bellied Bulbul</html>
+          <wikipedia>Grey-bellied_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus cyaniventris</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Red-whiskered Bulbul</html>
+          <wikipedia>Red-whiskered_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus jocosus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Brown-breasted Bulbul</html>
+          <wikipedia>Brown-breasted_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus xanthorrhous</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Light-vented Bulbul</html>
+          <wikipedia>Light-vented_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus sinensis</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Sooty-headed Bulbul</html>
+          <wikipedia>Sooty-headed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus aurigaster</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Puff-backed Bulbul</html>
+          <wikipedia>Puff-backed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus eutilotus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stripe-throated Bulbul</html>
+          <wikipedia>Stripe-throated_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus finlaysoni</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Flavescent Bulbul</html>
+          <wikipedia>Flavescent_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus flavescens</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Yellow-vented Bulbul</html>
+          <wikipedia>Yellow-vented_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus goiavier</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Olive-winged Bulbul</html>
+          <wikipedia>Olive-winged_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus plumosus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Streak-eared Bulbul</html>
+          <wikipedia>Streak-eared_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus blanfordi</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cream-vented Bulbul</html>
+          <wikipedia>Cream-vented_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus simplex</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Red-eyed Bulbul</html>
+          <wikipedia>Red-eyed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus brunneus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Spectacled Bulbul</html>
+          <wikipedia>Spectacled_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Pycnonotus erythropthalmos</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Finsch's Bulbul</html>
+          <wikipedia>Finsch%27s_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus finschii</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>White-throated Bulbul</html>
+          <wikipedia>White-throated_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus flaveolus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Puff-throated Bulbul</html>
+          <wikipedia>Puff-throated_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus pallidus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ochraceous Bulbul</html>
+          <wikipedia>Ochraceous_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus ochraceus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Grey-cheeked Bulbul</html>
+          <wikipedia>Grey-cheeked_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus bres</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Yellow-bellied Bulbul</html>
+          <wikipedia>Yellow-bellied_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Alophoixus phaeocephalus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hairy-backed Bulbul</html>
+          <wikipedia>Hairy-backed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Tricholestes criniger</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Olive Bulbul</html>
+          <wikipedia>Olive_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Iole virescens</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Grey-eyed Bulbul</html>
+          <wikipedia>Grey-eyed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Iole propinqua</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Buff-vented Bulbul</html>
+          <wikipedia>Buff-vented_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Iole olivacea</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Streaked Bulbul</html>
+          <wikipedia>Streaked_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Ixos malaccensis</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ashy Bulbul</html>
+          <wikipedia>Ashy_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Hemixos flavala</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mountain Bulbul</html>
+          <wikipedia>Mountain_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Ixos mcclellandii</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Black Bulbul</html>
+          <wikipedia>Black_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Hypsipetes leucocephalus</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Resident and winter visitor</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>White-headed Bulbul</html>
+          <wikipedia>White-headed_Bulbul</wikipedia>
+        </cell>
+        <cell>
+          <html>Hypsipetes thompsoni</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of birds of Thailand - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>common resident in highlands</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of birds of Thailand</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Mountain Bulbul</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Leafbirds</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Grebes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Shearwaters and petrels</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Storm-petrels</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Tropicbirds</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Pelicans</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Boobies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cormorants</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Darters</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Frigatebirds</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Bitterns, herons and egrets</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Storks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ibises and spoonbills</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ducks, geese and swans</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Osprey</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Eagles, kites and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Falcons</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Pheasants and partridges</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Buttonquails</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cranes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Rails, crakes, gallinules, and coots</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Finfoot</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Jacanas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Painted snipe</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Crab Plover</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Avocets and stilts</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Thick-knees</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Pratincoles and coursers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Plovers and lapwings</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sandpipers and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Skuas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Gulls</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Terns</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Skimmers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Pigeons and doves</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parrots</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cuckoos</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Barn owls</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Typical owls</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Frogmouths</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Nightjars</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Swifts</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Treeswifts</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Trogons</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Kingfishers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Bee-eaters</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Typical rollers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Hoopoe</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Hornbills</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Barbets</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Honeyguides</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Woodpeckers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Broadbills</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Pittas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Larks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Swallows and martins</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Wagtails and pipits</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cuckoo-shrikes and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Rail-babbler</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Bulbuls</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Leafbirds</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ioras</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Dippers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Thrushes and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Cisticolas and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Old World warblers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Old World flycatchers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Fantails</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Monarch flycatchers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Whistlers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Babblers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parrotbills</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Long-tailed tits</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Thornbills and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Tits</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Nuthatches</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Treecreepers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Penduline tits</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sunbirds and spiderhunters</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Flowerpeckers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] White-eyes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Old World orioles</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Fairy-bluebirds</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Shrikes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Helmetshrikes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Drongos</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Woodswallows</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Crows and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Starlings</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Weavers and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Waxbills and allies</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Buntings</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Finches</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Sparrows</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Bulbuls are medium-sized songbirds. Some are colourful with yellow, red or orange vents, cheeks, throat or supercilia, but most are drab, with uniform olive brown to black plumage. Some species have distinct crests.There are 130 species worldwide of which 36 occur in Thailand.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Order : Passeriformes Family : Pycnonotidae</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Order : Passeriformes Family : Chloropseidae</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Bulbuls</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Eupetes macrocerus</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Leafbirds are small, bulbul -like birds. The males are brightly plumaged, usually in greens and yellows. There are eight species worldwide of which five occur in Thailand.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Common name Binomial Status</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Malaysian Rail-babbler is a rail-like passerine bird which inhabits the floor of primary forest in the Malay Peninsula and Sumatra . It is the only member of its family. The nominate subspecies E. m. macrocerus is found in Thailand.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Orange-bellied Leafbird</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Order : Passeriformes Family : Eupetidae</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

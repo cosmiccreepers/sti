@@ -1,0 +1,4 @@
+0=/base/aareas/schema/gr/municipality	/location/location=/location/dated_location=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division			___NE
+1=/common/topic/alias
+2=/base/greece/gr_prefecture=/base/aareas/schema/gr/prefecture	/location/location=/location/statistical_region=/location/dated_location=/location/administrative_division=/base/aareas/schema/administrative_area=/government/political_district=/government/governmental_jurisdiction=/base/tagit/place			___NE
+3=/common/topic/alias

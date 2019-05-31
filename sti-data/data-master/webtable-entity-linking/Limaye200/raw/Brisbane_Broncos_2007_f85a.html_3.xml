@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Club Coming From</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Contract Details</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Peter Wallace</html>
+          <wikipedia>Peter_Wallace</wikipedia>
+        </cell>
+        <cell>
+          <html>Penrith Panthers</html>
+          <wikipedia>Penrith_Panthers</wikipedia>
+        </cell>
+        <cell>
+          <html>Contract until the end of 2009, will come in 2008.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Joel Clinton</html>
+          <wikipedia>Joel_Clinton</wikipedia>
+        </cell>
+        <cell>
+          <html>Penrith Panthers</html>
+          <wikipedia>Penrith_Panthers</wikipedia>
+        </cell>
+        <cell>
+          <html>Contract until the end of 2010, will come in 2008.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ashton Sims</html>
+          <wikipedia>Ashton_Sims</wikipedia>
+        </cell>
+        <cell>
+          <html>St. George Illawarra Dragons</html>
+          <wikipedia>St._George_Illawarra_Dragons</wikipedia>
+        </cell>
+        <cell>
+          <html>Contract until the end of 2010, will come in 2008.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tom Hewitt</html>
+          <wikipedia>Tom_Hewitt_(rugby_league)</wikipedia>
+        </cell>
+        <cell>
+          <html>St. George Illawarra Dragons</html>
+          <wikipedia>St._George_Illawarra_Dragons</wikipedia>
+        </cell>
+        <cell>
+          <html>Contract until the end of , unknown, , will come in 2008.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>PJ Marsh</html>
+          <wikipedia>PJ_Marsh</wikipedia>
+        </cell>
+        <cell>
+          <html>Parramatta Eels</html>
+          <wikipedia>Parramatta_Eels</wikipedia>
+        </cell>
+        <cell>
+          <html>Contract until the end of 2010, will come in 2008.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Brisbane Broncos 2007 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Gains</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Brisbane Broncos 2007</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2007/2008 Player Signings/Transfers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Losses</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Season summary</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Match results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ladder</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Scorers (After Round 25)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Squad</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2007/2008 Player Signings/Transfers</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Greg Eastwood</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Tonie Carroll</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Re Signings</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Locks</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Clifford Manua</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Brad Thorn</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Off Contract at end of 2007</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>David Stagg</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Dane Carlaw</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Name Contract Details Other</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Second Rowers</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

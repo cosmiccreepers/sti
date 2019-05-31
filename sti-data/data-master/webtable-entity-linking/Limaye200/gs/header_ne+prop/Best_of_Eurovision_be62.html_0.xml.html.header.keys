@@ -1,0 +1,4 @@
+0=/music/artist=/award/award_winner	/people/person=/award/award_nominee=/tv/tv_personality=/award/competitor			___NE
+2=/award/award_honor/year=/award/award_nomination/year
+1=/music/composition	/award/award_winning_work			___NE
+6=/location/country=/base/aareas/schema/earth/sovereign_state=/base/locations/countries	/location/dated_location=/government/governmental_jurisdiction=/location/statistical_region=/base/aareas/schema/administrative_area=/location/administrative_division=/base/popstra/location=/government/political_district			___NE

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Rank</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Prime Minister</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Length in days</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Notes</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Robert Menzies</html>
+          <wikipedia>Robert_Menzies</wikipedia>
+        </cell>
+        <cell>
+          <html>6,740</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Australia's longest serving Prime Minister had two non-consecutive terms in office. His second term, from 1949 to 1966, lasted a record 5883 days.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Howard</html>
+          <wikipedia>John_Howard</wikipedia>
+        </cell>
+        <cell>
+          <html>4,284</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Australia's second longest serving Prime Minister.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bob Hawke</html>
+          <wikipedia>Bob_Hawke</wikipedia>
+        </cell>
+        <cell>
+          <html>3,207</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Australia's third longest serving Prime Minister. Longest serving Labor Prime Minister.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Malcolm Fraser</html>
+          <wikipedia>Malcolm_Fraser</wikipedia>
+        </cell>
+        <cell>
+          <html>2,678</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Billy Hughes</html>
+          <wikipedia>Billy_Hughes</wikipedia>
+        </cell>
+        <cell>
+          <html>2,663</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hughes served as Prime Minister for three parties; Labor, National Labor, and Nationalist.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Joseph Lyons</html>
+          <wikipedia>Joseph_Lyons</wikipedia>
+        </cell>
+        <cell>
+          <html>2,649</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Died in office.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stanley Bruce</html>
+          <wikipedia>Stanley_Bruce</wikipedia>
+        </cell>
+        <cell>
+          <html>2,448</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Alfred Deakin</html>
+          <wikipedia>Alfred_Deakin</wikipedia>
+        </cell>
+        <cell>
+          <html>1,777</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Served three non-consecutive terms, of 217 days, 1228 days, and 322 days, respectively.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Andrew Fisher</html>
+          <wikipedia>Andrew_Fisher</wikipedia>
+        </cell>
+        <cell>
+          <html>1,761</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Served three non-consecutive terms, of 202 days, 1156 days, and 406 days, respectively.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ben Chifley</html>
+          <wikipedia>Ben_Chifley</wikipedia>
+        </cell>
+        <cell>
+          <html>1,621</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Paul Keating</html>
+          <wikipedia>Paul_Keating</wikipedia>
+        </cell>
+        <cell>
+          <html>1,544</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Curtin</html>
+          <wikipedia>John_Curtin</wikipedia>
+        </cell>
+        <cell>
+          <html>1,368</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Died in office.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Gorton</html>
+          <wikipedia>John_Gorton</wikipedia>
+        </cell>
+        <cell>
+          <html>1,156</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gough Whitlam</html>
+          <wikipedia>Gough_Whitlam</wikipedia>
+        </cell>
+        <cell>
+          <html>1,072</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Australia's only Prime Minister to have been sacked by the then Governor-General Sir John Kerr .</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Edmund Barton</html>
+          <wikipedia>Edmund_Barton</wikipedia>
+        </cell>
+        <cell>
+          <html>997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Australia's first Prime Minister.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>James Scullin</html>
+          <wikipedia>James_Scullin</wikipedia>
+        </cell>
+        <cell>
+          <html>807</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Harold Holt</html>
+          <wikipedia>Harold_Holt</wikipedia>
+        </cell>
+        <cell>
+          <html>693</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Died in office. Presumed to have drowned whilst swimming.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>William McMahon</html>
+          <wikipedia>William_McMahon</wikipedia>
+        </cell>
+        <cell>
+          <html>637</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Joseph Cook</html>
+          <wikipedia>Joseph_Cook</wikipedia>
+        </cell>
+        <cell>
+          <html>451</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>George Reid</html>
+          <wikipedia>George_Reid_(Australian_politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>322</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kevin Rudd</html>
+          <wikipedia>Kevin_Rudd</wikipedia>
+        </cell>
+        <cell>
+          <html>191</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>As at 11 June 2008. Sworn in on December 3.</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chris Watson</html>
+          <wikipedia>Chris_Watson</wikipedia>
+        </cell>
+        <cell>
+          <html>113</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Arthur Fadden</html>
+          <wikipedia>Arthur_Fadden</wikipedia>
+        </cell>
+        <cell>
+          <html>40</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John McEwen</html>
+          <wikipedia>John_McEwen</wikipedia>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Served in the interim between the disappearance of Harold Holt and the election to the Liberal leadership of John Gorton .</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Earle Page</html>
+          <wikipedia>Earle_Page</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Served in the interim between the death of Joseph Lyons and the election to the United Australia Party leadership of Robert Menzies .</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Frank Forde</html>
+          <wikipedia>Frank_Forde</wikipedia>
+        </cell>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Served in the interim between the death of John Curtin and the election to the Labor leadership of Ben Chifley .</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian Prime Ministers by time in office - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Rank by time in office</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian Prime Ministers by time in office</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Total time in office of Australian political parties</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Rank by time in office</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Total time in office of Australian political parties</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This is a list of Australian Prime Ministers by time in office . The basis of the list is the inclusive number of days between dates.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Shortest prime ministership 8 days Frank Forde in 1945</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The National Party (known as the Country Party prior to 1975, and as the National Country Party until 1982) has been in government as a junior coalition partner to the Nationalist, United Australia and Liberal parties for a total of 20,001 days.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian Prime Ministers by time in office</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ a b As at 3 December 2007</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

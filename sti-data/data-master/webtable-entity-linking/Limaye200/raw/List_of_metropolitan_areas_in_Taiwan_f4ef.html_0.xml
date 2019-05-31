@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chinese</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Population</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Taipei-Keelung Metropolitan Area</html>
+          <wikipedia>Taipei%E2%80%93Keelung_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>6,950,115</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kaohsiung Metropolitan Area</html>
+          <wikipedia>Kaohsiung_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,952,008</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Taichung-Changhua Metropolitan Area</html>
+          <wikipedia>Taichung%E2%80%93Changhua_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,361,327</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Taoyuan-Zhongli Metropolitan Area</html>
+          <wikipedia>Taoyuan%E2%80%93Zhongli_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2,014,437</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tainan Metropolitan Area</html>
+          <wikipedia>Tainan_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1,337,886</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hsinchu Metropolitan Area</html>
+          <wikipedia>Hsinchu_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>771,464</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Chiayi Metropolitan Area</html>
+          <wikipedia>Chiayi_metropolitan_area</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>379,417</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Metropolitan Areas in Taiwan - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Seven Metropolitan Areas are identified by the Republic of China, all of which are located on Taiwan.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Metropolitan Areas in Taiwan</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Metropolitan areas in the Republic of China</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Metropolitan areas in the Republic of China</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This is the definition of Metropolitan Areas used by the Republic of China government.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Metropolitan Areas in Taiwan</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Government website (in Chinese)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

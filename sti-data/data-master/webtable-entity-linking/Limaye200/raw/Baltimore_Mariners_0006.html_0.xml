@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Date</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Opponent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Home/Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Result [7]</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>March 15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Erie RiverRats</html>
+          <wikipedia>Erie_RiverRats</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 60-32</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>March 22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Reading Express</html>
+          <wikipedia>Reading_Express</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 59-44</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>March 28</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Harrisburg Stampede</html>
+          <wikipedia>Harrisburg_Stampede</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lost 37-43</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>April 4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Columbus Lions</html>
+          <wikipedia>Columbus_Lions</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lost 82-19</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>April 18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Reading Express</html>
+          <wikipedia>Reading_Express</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 40-36</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>April 24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Florence Phantoms</html>
+          <wikipedia>Florence_Phantoms</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lost 52-58</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>May 2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Harrisburg Stampede</html>
+          <wikipedia>Harrisburg_Stampede</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 37-27</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>May 10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Erie RiverRats</html>
+          <wikipedia>Erie_RiverRats</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lost 50-53</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>May 23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Columbus Lions</html>
+          <wikipedia>Columbus_Lions</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 52-32</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>May 30</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D.C. Armor</html>
+          <wikipedia>D.C._Armor</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 57-24</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>June 6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D.C. Armor</html>
+          <wikipedia>D.C._Armor</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 57-28</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>June 14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Harrisburg Stampede</html>
+          <wikipedia>Harrisburg_Stampede</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 58-55</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>June 20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>South Carolina Force</html>
+          <wikipedia>South_Carolina_Force</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Loss 62-38</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>June 27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D.C. Armor</html>
+          <wikipedia>D.C._Armor</wikipedia>
+        </cell>
+        <cell>
+          <html>Home</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Won 70-22</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>July 2^</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Reading Express</html>
+          <wikipedia>Reading_Express</wikipedia>
+        </cell>
+        <cell>
+          <html>Away</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lost 50-20</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Baltimore Mariners - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2008 Season Schedule</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Baltimore Mariners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Former wide receivers/running back coach Mike Moyseenko was promoted to offensive coordinator for the rest of the season.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Season-by-season</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2008 Season Schedule</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>* = Current Standing</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>3rd EC Northern</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ AIFA - 2008 Season Baltimore Mariners . The Stat Guys. Retrieved on 2008 - 05-29 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Season W L T Finish Playoff results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Note: W = Wins, L = Losses, T = Ties</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Season-by-season</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Baltimore Mariners are a new American Indoor Football Association team that began play in 2008 . The team was founded when the AIFA expelled the Baltimore Blackbirds for negotiating with another league. The AIFA still holds the lease rights to 1st Mariner Arena , so the Mariners are the league's replacement.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Website of the Baltimore Mariners Mariners' 2008 Stats</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Please help improve this article by adding reliable references . Unsourced material may be challenged and removed. (May 2008)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article needs additional citations for verification .</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

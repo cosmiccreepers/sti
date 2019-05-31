@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Title</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Network</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Years</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>31 Questions</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Channel 31</html>
+          <wikipedia>Channel_31_(Australia)</wikipedia>
+        </cell>
+        <cell>
+          <html>2012-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cash Cab</html>
+          <wikipedia>Cash_Cab#In_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>Channel V</html>
+          <wikipedia>Channel_V_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>2007-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Deal or No Deal</html>
+          <wikipedia>Deal_or_No_Deal_(Australian_game_show)</wikipedia>
+        </cell>
+        <cell>
+          <html>Seven Network</html>
+          <wikipedia>Seven_Network</wikipedia>
+        </cell>
+        <cell>
+          <html>2003-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>It's Academic</html>
+          <wikipedia>It%27s_Academic_(Australian_game_show)</wikipedia>
+        </cell>
+        <cell>
+          <html>Network Ten, Seven Network, 7Two</html>
+          <wikipedia>Network_Ten</wikipedia>
+        </cell>
+        <cell>
+          <html>1968-1970, , 1970-1978, 2005-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kitchen Whiz</html>
+          <wikipedia>Kitchen_Whiz</wikipedia>
+        </cell>
+        <cell>
+          <html>Nine Network, GO!</html>
+          <wikipedia>Nine_Network</wikipedia>
+        </cell>
+        <cell>
+          <html>2011-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Millionaire Hot Seat</html>
+          <wikipedia>Millionaire_Hot_Seat</wikipedia>
+        </cell>
+        <cell>
+          <html>Nine Network</html>
+          <wikipedia>Nine_Network</wikipedia>
+        </cell>
+        <cell>
+          <html>2009-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Pyramid</html>
+          <wikipedia>Pyramid_(Australian_game_show)</wikipedia>
+        </cell>
+        <cell>
+          <html>Nine Network, GO!</html>
+          <wikipedia>Nine_Network</wikipedia>
+        </cell>
+        <cell>
+          <html>2009-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>RocKwiz</html>
+          <wikipedia>RocKwiz</wikipedia>
+        </cell>
+        <cell>
+          <html>SBS</html>
+          <wikipedia>Special_Broadcasting_Service</wikipedia>
+        </cell>
+        <cell>
+          <html>2005-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Spit It Out</html>
+          <wikipedia>Spit_It_Out_(TV_series)</wikipedia>
+        </cell>
+        <cell>
+          <html>Seven Network, 7Two</html>
+          <wikipedia>Seven_Network</wikipedia>
+        </cell>
+        <cell>
+          <html>2010-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>What Do You Know?</html>
+          <wikipedia>What_Do_You_Know%3F</wikipedia>
+        </cell>
+        <cell>
+          <html>ABC3</html>
+          <wikipedia>ABC3</wikipedia>
+        </cell>
+        <cell>
+          <html>2010-</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian game shows - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Current shows</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian game shows</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Game show titles listed in bold indicate game shows which are currently being recorded and broadcast in Australia. This includes game shows on season breaks and hiatus.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Longest serving Australian game show hosts/hostesses</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Current shows</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Please help improve this article by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article does not cite any references or sources . (May 2008)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Australian game shows</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

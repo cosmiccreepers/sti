@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>SYMBOL</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>NAME</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>ACR.</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>YEAR</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>CHIEF</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bahujan Samaj Party</html>
+          <wikipedia>Bahujan_Samaj_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>BSP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1984</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kanshi Ram</html>
+          <wikipedia>Kanshi_Ram</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bharatiya Janata Party</html>
+          <wikipedia>Bharatiya_Janata_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>BJP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1980</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rajnath Singh</html>
+          <wikipedia>Rajnath_Singh</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Communist Party of India</html>
+          <wikipedia>Communist_Party_of_India</wikipedia>
+        </cell>
+        <cell>
+          <html>CPI</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1925</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>A.B. Bardhan</html>
+          <wikipedia>A.B._Bardhan</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Communist Party of India (Marxist)</html>
+          <wikipedia>Communist_Party_of_India_(Marxist)</wikipedia>
+        </cell>
+        <cell>
+          <html>CPI (M)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1964</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Prakash Karat</html>
+          <wikipedia>Prakash_Karat</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Indian National Congress</html>
+          <wikipedia>Indian_National_Congress</wikipedia>
+        </cell>
+        <cell>
+          <html>INC</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1885</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sonia Gandhi</html>
+          <wikipedia>Sonia_Gandhi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nationalist Congress Party</html>
+          <wikipedia>Nationalist_Congress_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>NCP</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1999</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sharad Pawar</html>
+          <wikipedia>Sharad_Pawar</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Portal:Government of India/Selected lists/January, 2007 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Six parties are recognised as national parties. They are sorted into the name, acronym, year of formation and the party leader.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Portal:Government of India/Selected lists/January, 2007</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>India has a multi-party system with a predominance of small regional parties. Parties that wish to contest local, state or national elections are required to be registered by the Election Commission of India (ECI).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Archive Nominate a list More selected lists...</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>&lt; Portal:Government of India | Selected lists</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

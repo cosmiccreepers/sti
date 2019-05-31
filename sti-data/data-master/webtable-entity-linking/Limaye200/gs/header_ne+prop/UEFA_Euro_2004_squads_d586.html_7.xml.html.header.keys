@@ -1,0 +1,4 @@
+3=/people/person/date_of_birth
+1=/soccer/football_postion	/sports/sports_position			___NE
+2=/soccer/football_player	/people/person=/sports/pro_athlete			___NE
+5=/soccer/football_team	/sports/sports_team=/base/popstra/organization=/business/business_operation=/organization/organization			___NE

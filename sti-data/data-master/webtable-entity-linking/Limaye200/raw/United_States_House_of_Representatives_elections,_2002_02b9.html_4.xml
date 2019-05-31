@@ -1,0 +1,1462 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>District</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Incumbent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Firstelected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Result</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Candidates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>California 1</html>
+          <wikipedia>California%27s_1st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Mike Thompson</html>
+          <wikipedia>Mike_Thompson_(California_politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mike Thompson (D) 64.07%, , Lawrence R. Wiesner (R) 32.4%, , Kevin Bastian (L) 3.53%</html>
+          <wikipedia>Mike_Thompson_(California_politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 2</html>
+          <wikipedia>California%27s_2nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Wally Herger</html>
+          <wikipedia>Wally_Herger</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1988</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Wally Herger (R) 65.79%, , Mike Johnson (D) 29.31%, , Patrice Thiessen (NL) 2.72%, , Charles R. Martin (L) 2.19%</html>
+          <wikipedia>Wally_Herger</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 3</html>
+          <wikipedia>California%27s_3rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Doug Ose</html>
+          <wikipedia>Doug_Ose</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Doug Ose (R) 62.45%, , Howard Beeman (D) 34.44%, , Douglas Arthur Tuma (L) 3.1%</html>
+          <wikipedia>Doug_Ose</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 4</html>
+          <wikipedia>California%27s_4th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>John Doolittle</html>
+          <wikipedia>John_Doolittle</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1990</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>John Doolittle (R) 64.77%, , Mark Norberg (D) 31.89%, , Allen M. Roberts (L) 3.17%, , Write-ins 0.17%</html>
+          <wikipedia>John_Doolittle</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 5</html>
+          <wikipedia>California%27s_5th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Bob Matsui</html>
+          <wikipedia>Bob_Matsui</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1978</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bob Matsui (D) 71.47%, , Richard Frankhuizen (R) 26.41%, , Timothy Roloff (L) 3.12%</html>
+          <wikipedia>Bob_Matsui</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 6</html>
+          <wikipedia>California%27s_6th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Lynn Woolsey</html>
+          <wikipedia>Lynn_Woolsey</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lynn Woolsey (D) 66.69%, , Paul L. Erickson (R) 29.61%, , Richard O. Barton (L) 2.36%, , Jeff Rainforth (Ref) 1.35%</html>
+          <wikipedia>Lynn_Woolsey</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 7</html>
+          <wikipedia>California%27s_7th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>George Miller</html>
+          <wikipedia>George_Miller_(politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1974</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1974</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>George Miller (D) 70.71%, , Charles R. Hargrave (R) 26.44%, , Scott A. Wilson (L) 2.85%</html>
+          <wikipedia>George_Miller_(politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 8</html>
+          <wikipedia>California%27s_8th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Nancy Pelosi</html>
+          <wikipedia>Nancy_Pelosi</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia>/w/index.php?title=United_States_House_of_Representatives_elections_in_California,_1987&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nancy Pelosi (D) 79.58%, , G. Michael German (R) 12.5%, , Jay Pond (G) 6.25%, , Ira Spivack (L) 1.66%</html>
+          <wikipedia>Nancy_Pelosi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 9</html>
+          <wikipedia>California%27s_9th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Barbara Lee</html>
+          <wikipedia>Barbara_Lee</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Barbara Lee (D) 81.41%, , Jerald Udinsky (R) 15.18%, , James M. Eyer (L) 3.41%</html>
+          <wikipedia>Barbara_Lee</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 10</html>
+          <wikipedia>California%27s_10th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Ellen Tauscher</html>
+          <wikipedia>Ellen_Tauscher</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1996</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1996</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ellen Tauscher (D) 75.59%, , Sonia E. Alonso Harden (L) 24.41%</html>
+          <wikipedia>Ellen_Tauscher</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 11</html>
+          <wikipedia>California%27s_11th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Richard Pombo</html>
+          <wikipedia>Richard_Pombo</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Richard Pombo (R) 60.31%, , Elaine Shaw (D) 39.69%</html>
+          <wikipedia>Richard_Pombo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 12</html>
+          <wikipedia>California%27s_12th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Tom Lantos</html>
+          <wikipedia>Tom_Lantos</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1980</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1980</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tom Lantos (D) 68.13%, , Michael Moloney (R) 24.76%, , Maad Abu-Ghazalah (L) 7.1%</html>
+          <wikipedia>Tom_Lantos</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 13</html>
+          <wikipedia>California%27s_13th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Pete Stark</html>
+          <wikipedia>Pete_Stark</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1972</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1972</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Don J. Grundmann</html>
+          <wikipedia>Pete_Stark</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 14</html>
+          <wikipedia>California%27s_14th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Anna Eshoo</html>
+          <wikipedia>Anna_Eshoo</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Anna Eshoo (D) 68.18%, , Joe Nixon (R) 28.16%, , Andrew Carver (L) 3.66%</html>
+          <wikipedia>Anna_Eshoo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 15</html>
+          <wikipedia>California%27s_15th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Mike Honda</html>
+          <wikipedia>Mike_Honda</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2000</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_2000</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mike Honda (D) 65.77%, , Linda Rae Hermann (R) 31.01%, , Jeff Landauer (L) 3.22%</html>
+          <wikipedia>Mike_Honda</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 16</html>
+          <wikipedia>California%27s_16th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Zoe Lofgren</html>
+          <wikipedia>Zoe_Lofgren</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1994</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1994</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Zoe Lofgren (D) 67.02%, , Douglas Adams McNea (R) 29.8%, , Dennis Michael Umphress (L) 3.18%</html>
+          <wikipedia>Zoe_Lofgren</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 17</html>
+          <wikipedia>California%27s_17th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Sam Farr</html>
+          <wikipedia>Sam_Farr</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1993</html>
+          <wikipedia>/w/index.php?title=United_States_House_of_Representatives_elections_in_California,_1993&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sam Farr (D) 68.07%, , Clint Engler (R) 27.02%, , Ray Glock-Grueneich (G) 3.27%, , Jascha Lee (L) 1.62%</html>
+          <wikipedia>Sam_Farr</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 18</html>
+          <wikipedia>California%27s_18th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Condit</html>
+          <wikipedia>Gary_Condit</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1989</html>
+          <wikipedia>/w/index.php?title=United_States_House_of_Representatives_elections_in_California,_1989&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Lost renomination, , Democratic hold</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dennis Cardoza (D) 51.26%, , Dick Monteith (R) 43.37%, , Kevin Cripe (AI) 3.32%, , Linda De Groat (L) 2%</html>
+          <wikipedia>Dennis_Cardoza</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 19</html>
+          <wikipedia>California%27s_19th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>George Radanovich</html>
+          <wikipedia>George_Radanovich</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1994</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1994</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>George Radanovich (R) 67.31%, , John Veen (D) 30.04%, , Patrick Lee McHargue (L) 1.66%</html>
+          <wikipedia>George_Radanovich</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 20</html>
+          <wikipedia>California%27s_20th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Cal Dooley</html>
+          <wikipedia>Cal_Dooley</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1990</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cal Dooley (D) 63.7%, , Andre Minuth (R) 34.28%, , Varrin Swearingen (L) 2.03%</html>
+          <wikipedia>Cal_Dooley</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 22</html>
+          <wikipedia>California%27s_22nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Bill Thomas</html>
+          <wikipedia>Bill_Thomas</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1978</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bill Thomas (R) 73.33%, , Jaime Corvera (D) 23.73%, , Frank Coates (L) 2.94%</html>
+          <wikipedia>Bill_Thomas</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 23</html>
+          <wikipedia>California%27s_23rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Lois Capps</html>
+          <wikipedia>Lois_Capps</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lois Capps (D) 59.03%, , Beth Rogers (R) 38.59%, , James Hill (L) 2.38%</html>
+          <wikipedia>Lois_Capps</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 24</html>
+          <wikipedia>California%27s_24th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Elton Gallegly</html>
+          <wikipedia>Elton_Gallegly</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1986</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1986</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Elton Gallegly (R) 65.18%, , Fern Rudin (D) 31.76%, , Gary Harber (L) 3.06%</html>
+          <wikipedia>Elton_Gallegly</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 25</html>
+          <wikipedia>California%27s_25th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Howard McKeon</html>
+          <wikipedia>Howard_McKeon</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Howard McKeon (R) 64.97%, , Bob Conaway (D) 31.1%, , Frank Consolo (L) 3.93%</html>
+          <wikipedia>Howard_McKeon</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 26</html>
+          <wikipedia>California%27s_26th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>David Dreier</html>
+          <wikipedia>David_Dreier</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1980</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1980</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>David Dreier (R) 63.77%, , Marjorie Musser Mikels (D) 33.49%, , Randall Weissbuch (L) 2.73%</html>
+          <wikipedia>David_Dreier</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 27</html>
+          <wikipedia>California%27s_27th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Brad Sherman</html>
+          <wikipedia>Brad_Sherman</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1996</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1996</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Brad Sherman (D) 61.96%, , Robert Levy (R) 38.04%</html>
+          <wikipedia>Brad_Sherman</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 28</html>
+          <wikipedia>California%27s_28th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Howard Berman</html>
+          <wikipedia>Howard_Berman</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1982</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1982</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Howard Berman (D) 71.4%, , David Hernandez (R) 23.16%, , Kelley Ross (L) 5.45%</html>
+          <wikipedia>Howard_Berman</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 29</html>
+          <wikipedia>California%27s_29th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Adam Schiff</html>
+          <wikipedia>Adam_Schiff</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2000</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_2000</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Adam Schiff (D) 62.56%, , Jim Scileppi (R) 33.42%, , Ted Brown (L) 4.02%</html>
+          <wikipedia>Adam_Schiff</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 30</html>
+          <wikipedia>California%27s_30th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Henry Waxman</html>
+          <wikipedia>Henry_Waxman</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1974</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1974</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Henry Waxman (D) 70.37%, , Tony Goss (R) 29.63%</html>
+          <wikipedia>Henry_Waxman</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 31</html>
+          <wikipedia>California%27s_31st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Xavier Becerra</html>
+          <wikipedia>Xavier_Becerra</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Xavier Becerra (D) 81.15%, , Luis Vega (R) 18.85%</html>
+          <wikipedia>Xavier_Becerra</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 32</html>
+          <wikipedia>California%27s_32nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Hilda Solis</html>
+          <wikipedia>Hilda_Solis</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2000</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_2000</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hilda Solis (D) 68.79%, , Emma Fischbeck (R) 27.46%, , Michael McGuire (L) 3.74%</html>
+          <wikipedia>Hilda_Solis</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 33</html>
+          <wikipedia>California%27s_33rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Diane Watson</html>
+          <wikipedia>Diane_Watson</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2001</html>
+          <wikipedia>/w/index.php?title=United_States_House_of_Representatives_elections_in_California,_2001&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Diane Watson (D) 82.55%, , Andrew Kim (R) 14.1%, , Charles Tate (L) 3.35%</html>
+          <wikipedia>Diane_Watson</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 34</html>
+          <wikipedia>California%27s_34th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Lucille Roybal-Allard</html>
+          <wikipedia>Lucille_Roybal-Allard</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lucille Roybal-Allard (D) 74.04%, , Wayne Miller (R) 25.96%</html>
+          <wikipedia>Lucille_Roybal-Allard</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 35</html>
+          <wikipedia>California%27s_35th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Maxine Waters</html>
+          <wikipedia>Maxine_Waters</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1990</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Maxine Waters (D) 77.51%, , Ross Moen (R) 19.37%, , Gordon Mego (AI) 3.12%</html>
+          <wikipedia>Maxine_Waters</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 36</html>
+          <wikipedia>California%27s_36th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jane Harman</html>
+          <wikipedia>Jane_Harman</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1986</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1986</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jane Harman (D) 61.35%, , Stuart Johnson (R) 35.01%, , Mark McSpadden (L) 3.63%</html>
+          <wikipedia>Jane_Harman</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 37</html>
+          <wikipedia>California%27s_37th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Juanita Millender-McDonald</html>
+          <wikipedia>Juanita_Millender-McDonald</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1996</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1996</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Juanita Millender-McDonald (D) 72.92%, , Oscar Velasco (R) 23.16%, , Herb Peters (L) 3.92%</html>
+          <wikipedia>Juanita_Millender-McDonald</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 38</html>
+          <wikipedia>California%27s_38th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Grace Napolitano</html>
+          <wikipedia>Grace_Napolitano</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Grace Napolitano (D) 71.11%, , Alex Burrola (R) 26.27%, , Al Cuperus (L) 2.61%</html>
+          <wikipedia>Grace_Napolitano</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 39</html>
+          <wikipedia>California%27s_39th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Steve Horn</html>
+          <wikipedia>Steve_Horn</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Retired, , Democratic gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Linda S&amp;aacute;nchez (D) 54.81%, , Tim Escobar (R) 40.82%, , Richard Newhouse (L) 4.37%</html>
+          <wikipedia>Linda_S%C3%A1nchez</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 40</html>
+          <wikipedia>California%27s_40th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Ed Royce</html>
+          <wikipedia>Ed_Royce</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ed Royce (R) 67.64%, , Christina Avalos (D) 29.47%, , Chuck McGlawn (L) 2.89%</html>
+          <wikipedia>Ed_Royce</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 41</html>
+          <wikipedia>California%27s_41st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jerry Lewis</html>
+          <wikipedia>Jerry_Lewis_(California_politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1978</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jerry Lewis (R) 67.38%, , Keith Johnson (D) 29.63%, , Kevin Craig (L) 2.99%</html>
+          <wikipedia>Jerry_Lewis_(California_politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 42</html>
+          <wikipedia>California%27s_42nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Miller</html>
+          <wikipedia>Gary_Miller</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gary Miller (R) 67.8%, , Richard Waldron (D) 28.98%, , Donald Yee (L) 3.22%</html>
+          <wikipedia>Gary_Miller</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 43</html>
+          <wikipedia>California%27s_43rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Joe Baca</html>
+          <wikipedia>Joe_Baca</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1999</html>
+          <wikipedia>/w/index.php?title=United_States_House_of_Representatives_elections_in_California,_1999&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Joe Baca (D) 66.39%, , Wendy Neighbor (R) 30.47%, , Ethel Mohler (L) 3.14%</html>
+          <wikipedia>Joe_Baca</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 44</html>
+          <wikipedia>California%27s_44th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Ken Calvert</html>
+          <wikipedia>Ken_Calvert</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ken Calvert (R) 63.66%, , Louis Vandenberg (D) 31.56%, , Phill Courtney (G) 4.78%</html>
+          <wikipedia>Ken_Calvert</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 45</html>
+          <wikipedia>California%27s_45th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Mary Bono</html>
+          <wikipedia>Mary_Bono_Mack</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1998</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1998</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mary Bono (R) 65.23%, , Elle Kurpiewski (D) 32.72%, , Rod Miller-Boyer (L) 2.05%</html>
+          <wikipedia>Mary_Bono_Mack</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 46</html>
+          <wikipedia>California%27s_46th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Dana Rohrabacher</html>
+          <wikipedia>Dana_Rohrabacher</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1988</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dana Rohrabacher (R) 61.73%, , Gerrie Schipske (D) 34.54%, , Keith Gann (L) 3.68%</html>
+          <wikipedia>Dana_Rohrabacher</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 47</html>
+          <wikipedia>California%27s_47th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Loretta Sanchez</html>
+          <wikipedia>Loretta_Sanchez</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1996</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1996</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Loretta Sanchez (D) 60.56%, , Jeff Chavez (R) 34.69%, , Paul Marsden (L) 4.2%, , Write-ins 0.55%</html>
+          <wikipedia>Loretta_Sanchez</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 48</html>
+          <wikipedia>California%27s_48th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Christopher Cox</html>
+          <wikipedia>Christopher_Cox</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1988</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Christopher Cox (R) 68.44%, , John Graham (D) 28.44%, , Joe Michael Cobb (L) 3.12%</html>
+          <wikipedia>Christopher_Cox</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 49</html>
+          <wikipedia>California%27s_49th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Darrell Issa</html>
+          <wikipedia>Darrell_Issa</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2000</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_2000</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Darrell Issa (R) 77.22%, , Karl Dietrich (L) 21.95%, , Write-ins 0.83%</html>
+          <wikipedia>Darrell_Issa</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 50</html>
+          <wikipedia>California%27s_50th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Duke Cunningham</html>
+          <wikipedia>Duke_Cunningham</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1990</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Duke Cunningham (R) 64.33%, , Del Stewart (D) 32.34%, , Richard Fontanesi (L) 3.33%</html>
+          <wikipedia>Duke_Cunningham</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 51</html>
+          <wikipedia>California%27s_51st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Bob Filner</html>
+          <wikipedia>Bob_Filner</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bob Filner (D) 57.93%, , Maria Garcia (R) 39.33%, , Jeffrey Keup (L) 2.74%</html>
+          <wikipedia>Bob_Filner</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 52</html>
+          <wikipedia>California%27s_52nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Duncan Hunter</html>
+          <wikipedia>Duncan_Hunter</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1980</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_1980</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Duncan Hunter (R) 70.15%, , Peter Moore-Kochlacs (D) 25.75%, , Michael Benoit (L) 4.1%</html>
+          <wikipedia>Duncan_Hunter</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>California 53</html>
+          <wikipedia>California%27s_53rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Susan Davis</html>
+          <wikipedia>Susan_Davis_(Congresswoman)</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2000</html>
+          <wikipedia>United_States_House_of_Representatives_elections_in_California,_2000</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Susan Davis (D) 62.19%, , Bill VanDeWeghe (R) 37.78%, , Write-ins 0.03%</html>
+          <wikipedia>Susan_Davis_(Congresswoman)</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2002 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] California</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2002</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Arkansas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Colorado</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Overall results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Voting members</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Arizona</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Rob Clift (L) 1.67%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Connecticut</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Russell F. DeForest (G) 6.34%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Clifford Mark Greene (D) 17.28%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Don Young (R) 74.51%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Delaware</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Running</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Republican</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>District Incumbent Party Elected Status Result</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

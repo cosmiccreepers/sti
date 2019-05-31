@@ -1,0 +1,5 @@
+0=/government/politician	/people/person			___NE
+1=/location/country=/base/aareas/schema/earth/sovereign_state=/base/locations/countries	/location/dated_location=/location/location=/government/governmental_jurisdiction=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/base/popstra/location=/government/political_district=/location/region			___NE
+2=/location/statistical_region=/government/political_district	/location/location=/location/dated_location=/base/aareas/schema/administrative_area			___NE
+3=/government/political_party	/organization/organization			___NE
+4=/government/political_party	/organization/organization			___NE

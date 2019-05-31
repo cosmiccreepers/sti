@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Language Group name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Alternative names and/or component (sub-)groups</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Geographical location</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>AIATSIS region</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Ualarai</html>
+          <wikipedia>/w/index.php?title=Ualarai&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Yualarai, Yualloroi, Yowaleri, Uollaroi, Youallerie, Yualari, Yualai, Yerraleroi, Yowalri, Euahlayi, Juwaljai, Yuwalyai, Wallarai, Wolleroi, Walleri, Wollaroi, Noongahburrahs, Yuwaalaraay Yuwaaliyaay</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New South Wales</html>
+          <wikipedia>New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ualayai</html>
+          <wikipedia>/w/index.php?title=Ualayai&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New South Wales</html>
+          <wikipedia>New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Riverine</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Umbindhamu</html>
+          <wikipedia>/w/index.php?title=Umbindhamu&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Barungguan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queensland</html>
+          <wikipedia>Queensland</wikipedia>
+        </cell>
+        <cell>
+          <html>East</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Umede</html>
+          <wikipedia>/w/index.php?title=Umede&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Umida</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Western Australia</html>
+          <wikipedia>Western_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>Kimberley</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Umpila</html>
+          <wikipedia>/w/index.php?title=Umpila&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Ombila</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queensland</html>
+          <wikipedia>Queensland</wikipedia>
+        </cell>
+        <cell>
+          <html>East</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Undanbi</html>
+          <wikipedia>/w/index.php?title=Undanbi&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queensland</html>
+          <wikipedia>Queensland</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Unjadi</html>
+          <wikipedia>/w/index.php?title=Unjadi&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queensland</html>
+          <wikipedia>Queensland</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Uutaalnganu</html>
+          <wikipedia>/w/index.php?title=Uutaalnganu&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Queensland</html>
+          <wikipedia>Queensland</wikipedia>
+        </cell>
+        <cell>
+          <html>East</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Indigenous Australian group names - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] U</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Indigenous Australian group names</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] A</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] B</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] D</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] E</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] G</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] I</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] J</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] K</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] L</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] M</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] N</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] O</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] P</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] R</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] S</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] T</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] U</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] W</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Y</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] T</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] W</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Pila Nguru</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Group name Alternative names and/or component (sub-)groups Geographical location AIATSIS region</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Return to top of page</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] S</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Y</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,4 @@
+1=/award/award_nomination/year
+0=/film/actor=/award/award_nominee	/film/person_or_entity_appearing_in_film=/people/person=/base/popstra/celebrity=/celebrities/celebrity			___NE
+2=/award/award_category=/award/award=/award/award_category=/award/award_ceremony	/time/event			___NE
+3=/film/film=/award/award_nominated_work	/media_common/adapted_work			___NE

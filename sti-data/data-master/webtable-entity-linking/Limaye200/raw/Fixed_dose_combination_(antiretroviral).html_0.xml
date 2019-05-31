@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Brand Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Drug Names (INN)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Date of FDA Approval</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Company</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Combivir</html>
+          <wikipedia>Combivir</wikipedia>
+        </cell>
+        <cell>
+          <html>zidovudine</html>
+          <wikipedia>Zidovudine</wikipedia>
+        </cell>
+        <cell>
+          <html>September 26, 1997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GlaxoSmithKline</html>
+          <wikipedia>GlaxoSmithKline</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Trizivir</html>
+          <wikipedia>Trizivir</wikipedia>
+        </cell>
+        <cell>
+          <html>abacavir</html>
+          <wikipedia>Abacavir</wikipedia>
+        </cell>
+        <cell>
+          <html>November 15, 2000</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GlaxoSmithKline</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kaletra</html>
+          <wikipedia>Lopinavir</wikipedia>
+        </cell>
+        <cell>
+          <html>lopinavir</html>
+          <wikipedia>Lopinavir</wikipedia>
+        </cell>
+        <cell>
+          <html>September 15, 2000</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Abbott Laboratories</html>
+          <wikipedia>Abbott_Laboratories</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Epzicom, Kivexa</html>
+          <wikipedia>Epzicom</wikipedia>
+        </cell>
+        <cell>
+          <html>abacavir + lamivudine</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>August 2, 2004</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GlaxoSmithKline</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Truvada</html>
+          <wikipedia>Truvada</wikipedia>
+        </cell>
+        <cell>
+          <html>emtricitabine</html>
+          <wikipedia>Emtricitabine</wikipedia>
+        </cell>
+        <cell>
+          <html>August 8, 2006</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gilead Sciences</html>
+          <wikipedia>Gilead_Sciences</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Atripla</html>
+          <wikipedia>Atripla</wikipedia>
+        </cell>
+        <cell>
+          <html>efavirenz</html>
+          <wikipedia>Efavirenz</wikipedia>
+        </cell>
+        <cell>
+          <html>July 12, 2006</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bristol-Myers Squibb</html>
+          <wikipedia>Bristol-Myers_Squibb</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Complera</html>
+          <wikipedia>Complera</wikipedia>
+        </cell>
+        <cell>
+          <html>rilpivirine</html>
+          <wikipedia>Rilpivirine</wikipedia>
+        </cell>
+        <cell>
+          <html>August 10, 2011</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Johnson &amp;amp; Johnson</html>
+          <wikipedia>Johnson_%26_Johnson</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stribild</html>
+          <wikipedia>Stribild</wikipedia>
+        </cell>
+        <cell>
+          <html>elvitegravir, cobicistat</html>
+          <wikipedia>Elvitegravir</wikipedia>
+        </cell>
+        <cell>
+          <html>August 27, 2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gilead Sciences</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Fixed dose combination (antiretroviral) - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fixed dose combinations of antiretrovirals are multiple antiretroviral drugs combined into a single pill, which helps reduce pill burden . They may combine different classes of antiretrovirals or contain only a single class. Licensed fixed dose combinations are shown in the table below.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fixed dose combination (antiretroviral)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fixed dose combination (antiretroviral)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Fixed dose combination Pill burden</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

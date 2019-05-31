@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Parish</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>LGA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Coordinates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Aberbaldie</html>
+          <wikipedia>/w/index.php?title=Aberbaldie_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;07&amp;prime;54&amp;Prime;S 151&amp;deg;25&amp;prime;04&amp;Prime;E﻿ / ﻿31.13167&amp;deg;S 151.41778&amp;deg;E﻿ / -31.13167; 151.41778﻿ (Aberbaldie)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_07_54_S_151_25_04_E_type:city_region:AU-NSW&amp;title=Aberbaldie</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Andy</html>
+          <wikipedia>/w/index.php?title=Andy_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;08&amp;prime;54&amp;Prime;S 151&amp;deg;39&amp;prime;04&amp;Prime;E﻿ / ﻿31.14833&amp;deg;S 151.65111&amp;deg;E﻿ / -31.14833; 151.65111﻿ (Andy)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_08_54_S_151_39_04_E_type:city_region:AU-NSW&amp;title=Andy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Apsley</html>
+          <wikipedia>/w/index.php?title=Apsley_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;03&amp;prime;54&amp;Prime;S 151&amp;deg;39&amp;prime;04&amp;Prime;E﻿ / ﻿31.06500&amp;deg;S 151.65111&amp;deg;E﻿ / -31.06500; 151.65111﻿ (Apsley)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_03_54_S_151_39_04_E_type:city_region:AU-NSW&amp;title=Apsley</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Benditi</html>
+          <wikipedia>/w/index.php?title=Benditi_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;00&amp;prime;54&amp;Prime;S 151&amp;deg;59&amp;prime;04&amp;Prime;E﻿ / ﻿31.01500&amp;deg;S 151.98444&amp;deg;E﻿ / -31.01500; 151.98444﻿ (Benditi)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_00_54_S_151_59_04_E_type:city_region:AU-NSW&amp;title=Benditi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bergen-Op-Zoom</html>
+          <wikipedia>/w/index.php?title=Bergen-Op-Zoom_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;56&amp;prime;54&amp;Prime;S 151&amp;deg;30&amp;prime;04&amp;Prime;E﻿ / ﻿30.94833&amp;deg;S 151.50111&amp;deg;E﻿ / -30.94833; 151.50111﻿ (Bergen-Op-Zoom)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_56_54_S_151_30_04_E_type:city_region:AU-NSW&amp;title=Bergen-Op-Zoom</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Boulton</html>
+          <wikipedia>/w/index.php?title=Boulton_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;00&amp;prime;54&amp;Prime;S 151&amp;deg;29&amp;prime;04&amp;Prime;E﻿ / ﻿31.01500&amp;deg;S 151.48444&amp;deg;E﻿ / -31.01500; 151.48444﻿ (Boulton)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_00_54_S_151_29_04_E_type:city_region:AU-NSW&amp;title=Boulton</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Branga</html>
+          <wikipedia>/w/index.php?title=Branga_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;13&amp;prime;54&amp;Prime;S 151&amp;deg;33&amp;prime;04&amp;Prime;E﻿ / ﻿31.23167&amp;deg;S 151.55111&amp;deg;E﻿ / -31.23167; 151.55111﻿ (Branga)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_13_54_S_151_33_04_E_type:city_region:AU-NSW&amp;title=Branga</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Brassey</html>
+          <wikipedia>/w/index.php?title=Brassey_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;14&amp;prime;54&amp;Prime;S 152&amp;deg;06&amp;prime;04&amp;Prime;E﻿ / ﻿31.24833&amp;deg;S 152.10111&amp;deg;E﻿ / -31.24833; 152.10111﻿ (Brassey)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_14_54_S_152_06_04_E_type:city_region:AU-NSW&amp;title=Brassey</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cobrabald</html>
+          <wikipedia>/w/index.php?title=Cobrabald_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;09&amp;prime;54&amp;Prime;S 151&amp;deg;32&amp;prime;04&amp;Prime;E﻿ / ﻿31.16500&amp;deg;S 151.53444&amp;deg;E﻿ / -31.16500; 151.53444﻿ (Cobrabald)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_09_54_S_151_32_04_E_type:city_region:AU-NSW&amp;title=Cobrabald</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cochrane</html>
+          <wikipedia>/w/index.php?title=Cochrane_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Armidale Dumaresq Council</html>
+          <wikipedia>Armidale_Dumaresq_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;44&amp;prime;54&amp;Prime;S 152&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿30.74833&amp;deg;S 152.25111&amp;deg;E﻿ / -30.74833; 152.25111﻿ (Cochrane)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_44_54_S_152_15_04_E_type:city_region:AU-NSW&amp;title=Cochrane</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Denne</html>
+          <wikipedia>/w/index.php?title=Denne_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;06&amp;prime;54&amp;Prime;S 151&amp;deg;55&amp;prime;04&amp;Prime;E﻿ / ﻿31.11500&amp;deg;S 151.91778&amp;deg;E﻿ / -31.11500; 151.91778﻿ (Denne)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_06_54_S_151_55_04_E_type:city_region:AU-NSW&amp;title=Denne</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ella</html>
+          <wikipedia>/w/index.php?title=Ella_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;55&amp;prime;54&amp;Prime;S 151&amp;deg;54&amp;prime;04&amp;Prime;E﻿ / ﻿30.93167&amp;deg;S 151.90111&amp;deg;E﻿ / -30.93167; 151.90111﻿ (Ella)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_55_54_S_151_54_04_E_type:city_region:AU-NSW&amp;title=Ella</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Emu</html>
+          <wikipedia>/w/index.php?title=Emu_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;01&amp;prime;54&amp;Prime;S 151&amp;deg;47&amp;prime;04&amp;Prime;E﻿ / ﻿31.03167&amp;deg;S 151.78444&amp;deg;E﻿ / -31.03167; 151.78444﻿ (Emu)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_01_54_S_151_47_04_E_type:city_region:AU-NSW&amp;title=Emu</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Enfield</html>
+          <wikipedia>/w/index.php?title=Enfield_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;12&amp;prime;54&amp;Prime;S 151&amp;deg;56&amp;prime;04&amp;Prime;E﻿ / ﻿31.21500&amp;deg;S 151.93444&amp;deg;E﻿ / -31.21500; 151.93444﻿ (Enfield)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_12_54_S_151_56_04_E_type:city_region:AU-NSW&amp;title=Enfield</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Europambela</html>
+          <wikipedia>/w/index.php?title=Europambela_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;55&amp;prime;54&amp;Prime;S 151&amp;deg;41&amp;prime;04&amp;Prime;E﻿ / ﻿30.93167&amp;deg;S 151.68444&amp;deg;E﻿ / -30.93167; 151.68444﻿ (Europambela)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_55_54_S_151_41_04_E_type:city_region:AU-NSW&amp;title=Europambela</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fenwick</html>
+          <wikipedia>/w/index.php?title=Fenwick_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;02&amp;prime;54&amp;Prime;S 151&amp;deg;51&amp;prime;04&amp;Prime;E﻿ / ﻿31.04833&amp;deg;S 151.85111&amp;deg;E﻿ / -31.04833; 151.85111﻿ (Fenwick)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_02_54_S_151_51_04_E_type:city_region:AU-NSW&amp;title=Fenwick</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fitzroy</html>
+          <wikipedia>/w/index.php?title=Fitzroy_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;55&amp;prime;54&amp;Prime;S 152&amp;deg;11&amp;prime;04&amp;Prime;E﻿ / ﻿30.93167&amp;deg;S 152.18444&amp;deg;E﻿ / -30.93167; 152.18444﻿ (Fitzroy)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_55_54_S_152_11_04_E_type:city_region:AU-NSW&amp;title=Fitzroy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fletcher</html>
+          <wikipedia>/w/index.php?title=Fletcher_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;21&amp;prime;54&amp;Prime;S 151&amp;deg;31&amp;prime;04&amp;Prime;E﻿ / ﻿31.36500&amp;deg;S 151.51778&amp;deg;E﻿ / -31.36500; 151.51778﻿ (Fletcher)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_21_54_S_151_31_04_E_type:city_region:AU-NSW&amp;title=Fletcher</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gill</html>
+          <wikipedia>/w/index.php?title=Gill_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;51&amp;prime;54&amp;Prime;S 151&amp;deg;53&amp;prime;04&amp;Prime;E﻿ / ﻿30.86500&amp;deg;S 151.88444&amp;deg;E﻿ / -30.86500; 151.88444﻿ (Gill)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_51_54_S_151_53_04_E_type:city_region:AU-NSW&amp;title=Gill</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Glen Morrison</html>
+          <wikipedia>/w/index.php?title=Glen_Morrison_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;13&amp;prime;51&amp;Prime;S 151&amp;deg;28&amp;prime;18&amp;Prime;E﻿ / ﻿31.23083&amp;deg;S 151.47167&amp;deg;E﻿ / -31.23083; 151.47167﻿ (Glen Morrison)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_13_51_S_151_28_18_E_type:city_region:AU-NSW&amp;title=Glen+Morrison</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Halloran</html>
+          <wikipedia>/w/index.php?title=Halloran_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;03&amp;prime;54&amp;Prime;S 151&amp;deg;34&amp;prime;04&amp;Prime;E﻿ / ﻿31.06500&amp;deg;S 151.56778&amp;deg;E﻿ / -31.06500; 151.56778﻿ (Halloran)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_03_54_S_151_34_04_E_type:city_region:AU-NSW&amp;title=Halloran</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ingleba</html>
+          <wikipedia>/w/index.php?title=Ingleba_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;21&amp;prime;54&amp;Prime;S 151&amp;deg;28&amp;prime;04&amp;Prime;E﻿ / ﻿31.36500&amp;deg;S 151.46778&amp;deg;E﻿ / -31.36500; 151.46778﻿ (Ingleba)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_21_54_S_151_28_04_E_type:city_region:AU-NSW&amp;title=Ingleba</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Junction</html>
+          <wikipedia>/w/index.php?title=Junction_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;03&amp;prime;54&amp;Prime;S 152&amp;deg;00&amp;prime;04&amp;Prime;E﻿ / ﻿31.06500&amp;deg;S 152.00111&amp;deg;E﻿ / -31.06500; 152.00111﻿ (Junction)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_03_54_S_152_00_04_E_type:city_region:AU-NSW&amp;title=Junction</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kangaroo Flat</html>
+          <wikipedia>/w/index.php?title=Kangaroo_Flat_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;07&amp;prime;54&amp;Prime;S 152&amp;deg;08&amp;prime;04&amp;Prime;E﻿ / ﻿31.13167&amp;deg;S 152.13444&amp;deg;E﻿ / -31.13167; 152.13444﻿ (Kangaroo Flat)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_07_54_S_152_08_04_E_type:city_region:AU-NSW&amp;title=Kangaroo+Flat</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kunderang</html>
+          <wikipedia>/w/index.php?title=Kunderang_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Kempsey Shire Council</html>
+          <wikipedia>Kempsey_Shire_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;51&amp;prime;54&amp;Prime;S 152&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿30.86500&amp;deg;S 152.25111&amp;deg;E﻿ / -30.86500; 152.25111﻿ (Kunderang)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_51_54_S_152_15_04_E_type:city_region:AU-NSW&amp;title=Kunderang</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Loch</html>
+          <wikipedia>/w/index.php?title=Loch_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;04&amp;prime;54&amp;Prime;S 152&amp;deg;15&amp;prime;04&amp;Prime;E﻿ / ﻿31.08167&amp;deg;S 152.25111&amp;deg;E﻿ / -31.08167; 152.25111﻿ (Loch)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_04_54_S_152_15_04_E_type:city_region:AU-NSW&amp;title=Loch</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Macleay</html>
+          <wikipedia>/w/index.php?title=Macleay_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;49&amp;prime;54&amp;Prime;S 151&amp;deg;58&amp;prime;04&amp;Prime;E﻿ / ﻿30.83167&amp;deg;S 151.96778&amp;deg;E﻿ / -30.83167; 151.96778﻿ (Macleay)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_49_54_S_151_58_04_E_type:city_region:AU-NSW&amp;title=Macleay</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Moona</html>
+          <wikipedia>/w/index.php?title=Moona_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;02&amp;prime;54&amp;Prime;S 151&amp;deg;58&amp;prime;04&amp;Prime;E﻿ / ﻿31.04833&amp;deg;S 151.96778&amp;deg;E﻿ / -31.04833; 151.96778﻿ (Moona)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_02_54_S_151_58_04_E_type:city_region:AU-NSW&amp;title=Moona</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mooraback</html>
+          <wikipedia>/w/index.php?title=Mooraback_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;01&amp;prime;54&amp;Prime;S 152&amp;deg;08&amp;prime;04&amp;Prime;E﻿ / ﻿31.03167&amp;deg;S 152.13444&amp;deg;E﻿ / -31.03167; 152.13444﻿ (Mooraback)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_01_54_S_152_08_04_E_type:city_region:AU-NSW&amp;title=Mooraback</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Norton</html>
+          <wikipedia>/w/index.php?title=Norton_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;05&amp;prime;54&amp;Prime;S 151&amp;deg;47&amp;prime;04&amp;Prime;E﻿ / ﻿31.09833&amp;deg;S 151.78444&amp;deg;E﻿ / -31.09833; 151.78444﻿ (Norton)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_05_54_S_151_47_04_E_type:city_region:AU-NSW&amp;title=Norton</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ohio</html>
+          <wikipedia>/w/index.php?title=Ohio_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;52&amp;prime;54&amp;Prime;S 151&amp;deg;32&amp;prime;04&amp;Prime;E﻿ / ﻿30.88167&amp;deg;S 151.53444&amp;deg;E﻿ / -30.88167; 151.53444﻿ (Ohio)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_52_54_S_151_32_04_E_type:city_region:AU-NSW&amp;title=Ohio</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Oorundunby</html>
+          <wikipedia>/w/index.php?title=Oorundunby_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;07&amp;prime;54&amp;Prime;S 151&amp;deg;33&amp;prime;04&amp;Prime;E﻿ / ﻿31.13167&amp;deg;S 151.55111&amp;deg;E﻿ / -31.13167; 151.55111﻿ (Oorundunby)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_07_54_S_151_33_04_E_type:city_region:AU-NSW&amp;title=Oorundunby</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Salway</html>
+          <wikipedia>/w/index.php?title=Salway,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;17&amp;prime;54&amp;Prime;S 151&amp;deg;38&amp;prime;04&amp;Prime;E﻿ / ﻿31.29833&amp;deg;S 151.63444&amp;deg;E﻿ / -31.29833; 151.63444﻿ (Salway)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_17_54_S_151_38_04_E_type:city_region:AU-NSW&amp;title=Salway</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Shelving</html>
+          <wikipedia>/w/index.php?title=Shelving,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;12&amp;prime;54&amp;Prime;S 151&amp;deg;50&amp;prime;04&amp;Prime;E﻿ / ﻿31.21500&amp;deg;S 151.83444&amp;deg;E﻿ / -31.21500; 151.83444﻿ (Shelving)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_12_54_S_151_50_04_E_type:city_region:AU-NSW&amp;title=Shelving</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>St Clair</html>
+          <wikipedia>/w/index.php?title=St_Clair_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;08&amp;prime;54&amp;Prime;S 151&amp;deg;43&amp;prime;04&amp;Prime;E﻿ / ﻿31.14833&amp;deg;S 151.71778&amp;deg;E﻿ / -31.14833; 151.71778﻿ (St Clair)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_08_54_S_151_43_04_E_type:city_region:AU-NSW&amp;title=St+Clair</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>St Leonard</html>
+          <wikipedia>/w/index.php?title=St_Leonard_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;11&amp;prime;54&amp;Prime;S 151&amp;deg;35&amp;prime;04&amp;Prime;E﻿ / ﻿31.19833&amp;deg;S 151.58444&amp;deg;E﻿ / -31.19833; 151.58444﻿ (St Leonard)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_11_54_S_151_35_04_E_type:city_region:AU-NSW&amp;title=St+Leonard</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Styx</html>
+          <wikipedia>/w/index.php?title=Styx_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;55&amp;prime;54&amp;Prime;S 152&amp;deg;04&amp;prime;04&amp;Prime;E﻿ / ﻿30.93167&amp;deg;S 152.06778&amp;deg;E﻿ / -30.93167; 152.06778﻿ (Styx)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_55_54_S_152_04_04_E_type:city_region:AU-NSW&amp;title=Styx</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tia</html>
+          <wikipedia>Tia,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;13&amp;prime;54&amp;Prime;S 151&amp;deg;43&amp;prime;04&amp;Prime;E﻿ / ﻿31.23167&amp;deg;S 151.71778&amp;deg;E﻿ / -31.23167; 151.71778﻿ (Tia)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_13_54_S_151_43_04_E_type:city_region:AU-NSW&amp;title=Tia</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tiara</html>
+          <wikipedia>/w/index.php?title=Tiara_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;05&amp;prime;54&amp;Prime;S 151&amp;deg;52&amp;prime;04&amp;Prime;E﻿ / ﻿31.09833&amp;deg;S 151.86778&amp;deg;E﻿ / -31.09833; 151.86778﻿ (Tiara)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_05_54_S_151_52_04_E_type:city_region:AU-NSW&amp;title=Tiara</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Trinidad</html>
+          <wikipedia>/w/index.php?title=Trinidad,_New_South_Wales&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;05&amp;prime;54&amp;Prime;S 151&amp;deg;59&amp;prime;04&amp;Prime;E﻿ / ﻿31.09833&amp;deg;S 151.98444&amp;deg;E﻿ / -31.09833; 151.98444﻿ (Trinidad)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_05_54_S_151_59_04_E_type:city_region:AU-NSW&amp;title=Trinidad</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Walcha</html>
+          <wikipedia>Walcha,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;00&amp;prime;54&amp;Prime;S 151&amp;deg;36&amp;prime;04&amp;Prime;E﻿ / ﻿31.01500&amp;deg;S 151.60111&amp;deg;E﻿ / -31.01500; 151.60111﻿ (Walcha)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_00_54_S_151_36_04_E_type:city_region:AU-NSW&amp;title=Walcha</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Waterloo</html>
+          <wikipedia>/w/index.php?title=Waterloo_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;00&amp;prime;54&amp;Prime;S 151&amp;deg;42&amp;prime;04&amp;Prime;E﻿ / ﻿31.01500&amp;deg;S 151.70111&amp;deg;E﻿ / -31.01500; 151.70111﻿ (Waterloo)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_00_54_S_151_42_04_E_type:city_region:AU-NSW&amp;title=Waterloo</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Winterbourne</html>
+          <wikipedia>/w/index.php?title=Winterbourne_(Vernon_County)&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>30&amp;deg;49&amp;prime;54&amp;Prime;S 151&amp;deg;48&amp;prime;04&amp;Prime;E﻿ / ﻿30.83167&amp;deg;S 151.80111&amp;deg;E﻿ / -30.83167; 151.80111﻿ (Winterbourne)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=30_49_54_S_151_48_04_E_type:city_region:AU-NSW&amp;title=Winterbourne</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Yarrowitch</html>
+          <wikipedia>Yarrowitch,_New_South_Wales</wikipedia>
+        </cell>
+        <cell>
+          <html>Walcha Council</html>
+          <wikipedia>Walcha_Council</wikipedia>
+        </cell>
+        <cell>
+          <html>31&amp;deg;13&amp;prime;54&amp;Prime;S 151&amp;deg;59&amp;prime;04&amp;Prime;E﻿ / ﻿31.23167&amp;deg;S 151.98444&amp;deg;E﻿ / -31.23167; 151.98444﻿ (Yarrowitch)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=Vernon_County%2C_New_South_Wales&amp;params=31_13_54_S_151_59_04_E_type:city_region:AU-NSW&amp;title=Yarrowitch</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Vernon County, New South Wales - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Vernon County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Vernon County was named in honour of George John Venables-Vernon, 5th Baron Vernon (1803-1866).</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Vernon County, New South Wales is one of the 141 Cadastral divisions of New South Wales , Australia . The Macleay River is part of the border in the north-east. It includes Walcha .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ Geographical Names Board of NSW</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Vernon County, New South Wales</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

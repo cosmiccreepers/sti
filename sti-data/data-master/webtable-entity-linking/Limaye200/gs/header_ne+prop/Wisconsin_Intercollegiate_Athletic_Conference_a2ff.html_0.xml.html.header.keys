@@ -1,0 +1,5 @@
+3=/organization/organization/date_founded
+0=/education/university	/education/educational_institution=/organization/organization			___NE
+1=/sports/school_sports_team	/sports/sports_team			___NE
+2=/location/citytown	/location/location=/location/dated_location=/location/statistical_region=/location/hud_foreclosure_area=/location/hud_county_place=/government/governmental_jurisdiction=/location/administrative_division=/government/political_district=/base/aareas/schema/administrative_area			___NE
+4=/organization/organization_type	___NE

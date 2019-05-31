@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76798a4a-f7d5-4e0e-9553-e7b7517cb02a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/sti-websearch/src/uk/ac/shef/dcs/websearch/bing/v2/BingSearchV7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/kbsearch.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/kbsearch.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sti.imdb.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/sti.imdb.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sti.musicbrainz.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/sti.musicbrainz.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sti.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/sti.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/websearch.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/websearch.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/DBpediaSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/DBpediaSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/DBpediaSearchResultFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/DBpediaSearchResultFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/RDFEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-kbsearch/src/main/java/uk/ac/shef/dcs/kbsearch/sparql/RDFEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-main/src/uk/ac/shef/dcs/sti/core/subjectcol/SubjectColumnDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-main/src/uk/ac/shef/dcs/sti/core/subjectcol/SubjectColumnDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-main/src/uk/ac/shef/dcs/sti/parser/table/TableParserHTML.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-main/src/uk/ac/shef/dcs/sti/parser/table/TableParserHTML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-websearch/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sti-websearch/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sti-websearch/src/uk/ac/shef/dcs/websearch/bing/v2/BingSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/sti-websearch/src/uk/ac/shef/dcs/websearch/bing/v2/BingSearch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/sti-any23/target/" />
     <ignored path="$PROJECT_DIR$/sti-websearch/target/" />
@@ -200,7 +186,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="54" />
     <option name="width" value="1289" />
     <option name="height" value="555" />

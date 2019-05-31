@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Parish</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>LGA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Coordinates</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Towns</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Barron</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;15&amp;prime;S 145&amp;deg;29&amp;prime;E﻿ / ﻿17.250&amp;deg;S 145.483&amp;deg;E﻿ / -17.250; 145.483﻿ (Barron Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_15_S_145_29_E_type:adm3rd_region:AU-QLD&amp;title=Barron+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Atherton</html>
+          <wikipedia>Atherton,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bartle Frere</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;25&amp;prime;S 145&amp;deg;45&amp;prime;E﻿ / ﻿17.417&amp;deg;S 145.750&amp;deg;E﻿ / -17.417; 145.750﻿ (Bartle Frere Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_25_S_145_45_E_type:adm3rd_region:AU-QLD&amp;title=Bartle+Frere+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bellenden Ker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;20&amp;prime;S 145&amp;deg;53&amp;prime;E﻿ / ﻿17.333&amp;deg;S 145.883&amp;deg;E﻿ / -17.333; 145.883﻿ (Bellenden Ker Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_20_S_145_53_E_type:adm3rd_region:AU-QLD&amp;title=Bellenden+Ker+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Babinda</html>
+          <wikipedia>Babinda,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;53&amp;prime;S 145&amp;deg;40&amp;prime;E﻿ / ﻿16.883&amp;deg;S 145.667&amp;deg;E﻿ / -16.883; 145.667﻿ (Cairns Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_53_S_145_40_E_type:adm3rd_region:AU-QLD&amp;title=Cairns+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Danbulla</html>
+          <wikipedia>/w/index.php?title=Danbulla,_Queensland&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;07&amp;prime;S 145&amp;deg;36&amp;prime;E﻿ / ﻿17.117&amp;deg;S 145.600&amp;deg;E﻿ / -17.117; 145.600﻿ (Danbulla Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_07_S_145_36_E_type:adm3rd_region:AU-QLD&amp;title=Danbulla+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dinden</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mareeba</html>
+          <wikipedia>Shire_of_Mareeba</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;00&amp;prime;S 145&amp;deg;34&amp;prime;E﻿ / ﻿17.000&amp;deg;S 145.567&amp;deg;E﻿ / -17.000; 145.567﻿ (Dinden Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_00_S_145_34_E_type:adm3rd_region:AU-QLD&amp;title=Dinden+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dirran</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;30&amp;prime;S 145&amp;deg;37&amp;prime;E﻿ / ﻿17.500&amp;deg;S 145.617&amp;deg;E﻿ / -17.500; 145.617﻿ (Dirran Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_30_S_145_37_E_type:adm3rd_region:AU-QLD&amp;title=Dirran+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Tarzali</html>
+          <wikipedia>/w/index.php?title=Tarzali,_Queensland&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Dulanban</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;40&amp;prime;S 145&amp;deg;33&amp;prime;E﻿ / ﻿16.667&amp;deg;S 145.550&amp;deg;E﻿ / -16.667; 145.550﻿ (Dulanban Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_40_S_145_33_E_type:adm3rd_region:AU-QLD&amp;title=Dulanban+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>East Barron</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;19&amp;prime;S 145&amp;deg;33&amp;prime;E﻿ / ﻿17.317&amp;deg;S 145.550&amp;deg;E﻿ / -17.317; 145.550﻿ (East Barron Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_19_S_145_33_E_type:adm3rd_region:AU-QLD&amp;title=East+Barron+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Yungaburra</html>
+          <wikipedia>Yungaburra,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Formartine</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mareeba</html>
+          <wikipedia>Shire_of_Mareeba</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;52&amp;prime;S 145&amp;deg;29&amp;prime;E﻿ / ﻿16.867&amp;deg;S 145.483&amp;deg;E﻿ / -16.867; 145.483﻿ (Formartine Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_52_S_145_29_E_type:adm3rd_region:AU-QLD&amp;title=Formartine+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Gadgarra</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;15&amp;prime;S 145&amp;deg;44&amp;prime;E﻿ / ﻿17.250&amp;deg;S 145.733&amp;deg;E﻿ / -17.250; 145.733﻿ (Gadgarra Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_15_S_145_44_E_type:adm3rd_region:AU-QLD&amp;title=Gadgarra+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Glady</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;28&amp;prime;S 145&amp;deg;56&amp;prime;E﻿ / ﻿17.467&amp;deg;S 145.933&amp;deg;E﻿ / -17.467; 145.933﻿ (Glady Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_28_S_145_56_E_type:adm3rd_region:AU-QLD&amp;title=Glady+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Flying Fish Point</html>
+          <wikipedia>/w/index.php?title=Flying_Fish_Point,_Queensland&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Grafton</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;05&amp;prime;S 145&amp;deg;44&amp;prime;E﻿ / ﻿17.083&amp;deg;S 145.733&amp;deg;E﻿ / -17.083; 145.733﻿ (Grafton Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_05_S_145_44_E_type:adm3rd_region:AU-QLD&amp;title=Grafton+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Edmonton</html>
+          <wikipedia>Edmonton,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Hull</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;47&amp;prime;S 146&amp;deg;00&amp;prime;E﻿ / ﻿17.783&amp;deg;S 146.000&amp;deg;E﻿ / -17.783; 146.000﻿ (Hull Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_47_S_146_00_E_type:adm3rd_region:AU-QLD&amp;title=Hull+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Silkwood</html>
+          <wikipedia>Silkwood,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Japoon</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;44&amp;prime;S 145&amp;deg;55&amp;prime;E﻿ / ﻿17.733&amp;deg;S 145.917&amp;deg;E﻿ / -17.733; 145.917﻿ (Japoon Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_44_S_145_55_E_type:adm3rd_region:AU-QLD&amp;title=Japoon+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Japoon</html>
+          <wikipedia>/w/index.php?title=Japoonvale,_Queensland&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Johnstone</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;36&amp;prime;S 145&amp;deg;55&amp;prime;E﻿ / ﻿17.600&amp;deg;S 145.917&amp;deg;E﻿ / -17.600; 145.917﻿ (Johnstone Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_36_S_145_55_E_type:adm3rd_region:AU-QLD&amp;title=Johnstone+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Innisfail</html>
+          <wikipedia>Innisfail,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jordan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;39&amp;prime;S 145&amp;deg;45&amp;prime;E﻿ / ﻿17.650&amp;deg;S 145.750&amp;deg;E﻿ / -17.650; 145.750﻿ (Jordan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_39_S_145_45_E_type:adm3rd_region:AU-QLD&amp;title=Jordan+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Malanda</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;22&amp;prime;S 145&amp;deg;37&amp;prime;E﻿ / ﻿17.367&amp;deg;S 145.617&amp;deg;E﻿ / -17.367; 145.617﻿ (Malanda Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_22_S_145_37_E_type:adm3rd_region:AU-QLD&amp;title=Malanda+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Malanda</html>
+          <wikipedia>Malanda,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Monamona</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mareeba</html>
+          <wikipedia>Shire_of_Mareeba</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;46&amp;prime;S 145&amp;deg;30&amp;prime;E﻿ / ﻿16.767&amp;deg;S 145.500&amp;deg;E﻿ / -16.767; 145.500﻿ (Monamona Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_46_S_145_30_E_type:adm3rd_region:AU-QLD&amp;title=Monamona+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Mourilyan</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cassowary Coast</html>
+          <wikipedia>Cassowary_Coast_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;37&amp;prime;S 146&amp;deg;03&amp;prime;E﻿ / ﻿17.617&amp;deg;S 146.050&amp;deg;E﻿ / -17.617; 146.050﻿ (Mourilyan Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_37_S_146_03_E_type:adm3rd_region:AU-QLD&amp;title=Mourilyan+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Mourilyan</html>
+          <wikipedia>Mourilyan,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Russell</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;19&amp;prime;S 145&amp;deg;59&amp;prime;E﻿ / ﻿17.317&amp;deg;S 145.983&amp;deg;E﻿ / -17.317; 145.983﻿ (Russell Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_19_S_145_59_E_type:adm3rd_region:AU-QLD&amp;title=Russell+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Bramston Beach</html>
+          <wikipedia>Bramston_Beach,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Smithfield</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tablelands</html>
+          <wikipedia>Tablelands_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;46&amp;prime;S 145&amp;deg;38&amp;prime;E﻿ / ﻿16.767&amp;deg;S 145.633&amp;deg;E﻿ / -16.767; 145.633﻿ (Smithfield Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_46_S_145_38_E_type:adm3rd_region:AU-QLD&amp;title=Smithfield+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Northern Beaches</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Sophia</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;07&amp;prime;S 145&amp;deg;52&amp;prime;E﻿ / ﻿17.117&amp;deg;S 145.867&amp;deg;E﻿ / -17.117; 145.867﻿ (Sophia Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_07_S_145_52_E_type:adm3rd_region:AU-QLD&amp;title=Sophia+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Aloomba</html>
+          <wikipedia>Aloomba,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tinaroo</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mareeba</html>
+          <wikipedia>Shire_of_Mareeba</wikipedia>
+        </cell>
+        <cell>
+          <html>17&amp;deg;04&amp;prime;S 145&amp;deg;25&amp;prime;E﻿ / ﻿17.067&amp;deg;S 145.417&amp;deg;E﻿ / -17.067; 145.417﻿ (Tinaroo Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=17_04_S_145_25_E_type:adm3rd_region:AU-QLD&amp;title=Tinaroo+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Mareeba</html>
+          <wikipedia>Mareeba,_Queensland</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Trinity</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cairns</html>
+          <wikipedia>Cairns_Region</wikipedia>
+        </cell>
+        <cell>
+          <html>16&amp;deg;58&amp;prime;S 145&amp;deg;49&amp;prime;E﻿ / ﻿16.967&amp;deg;S 145.817&amp;deg;E﻿ / -16.967; 145.817﻿ (Trinity Parish)</html>
+          <wikipedia>//tools.wmflabs.org/geohack/geohack.php?pagename=County_of_Nares&amp;params=16_58_S_145_49_E_type:adm3rd_region:AU-QLD&amp;title=Trinity+Parish</wikipedia>
+        </cell>
+        <cell>
+          <html>Yarrabah</html>
+          <wikipedia>Yarrabah,_Queensland</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>County of Nares, Queensland - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Incomplete list of parishes:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>County of Nares, Queensland</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Parishes within this county</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>It is bounded by the Daintree River in the north.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Cairns is mentioned as being in the county of Nares in the 1911 Britannica .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>^ Queensland government, place name details ^ 1911 Britannica, Cairns</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The County of Nares is a cadastral division of Queensland which contains the city of Cairns . It was named after George Nares (1831-1915), a naval officer and commander of the HMS Salamander.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>County of Nares, Queensland</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

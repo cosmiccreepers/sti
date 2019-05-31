@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>#</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Film</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Date of original release</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Snow White and the Seven Dwarfs</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>December 21 , 1937 (premiere) February 4 , 1938</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pinocchio</html>
+          <wikipedia>Pinocchio</wikipedia>
+        </cell>
+        <cell>
+          <html>February 7 , 1940 (premiere) February 9 , 1940</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fantasia 1, 2, 3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>November 13 , 1940 (premiere/ roadshow ) January 29 , 1941 (RKO roadshow) January 8 , 1942</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dumbo 4</html>
+          <wikipedia>Dumbo</wikipedia>
+        </cell>
+        <cell>
+          <html>October 23 , 1941</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bambi</html>
+          <wikipedia>Bambi</wikipedia>
+        </cell>
+        <cell>
+          <html>August 13 , 1942 (limited) August 21 , 1942</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Saludos Amigos 2, 3, 4</html>
+          <wikipedia>Saludos_Amigos</wikipedia>
+        </cell>
+        <cell>
+          <html>August 24 , 1942 ( Brazil ) February 6 , 1943 ( USA )</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Three Caballeros 2, 3</html>
+          <wikipedia>The_Three_Caballeros</wikipedia>
+        </cell>
+        <cell>
+          <html>December 21 , 1944 (premiere) February 3 , 1945</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>8</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Make Mine Music 2</html>
+          <wikipedia>Make_Mine_Music</wikipedia>
+        </cell>
+        <cell>
+          <html>April 20 , 1946 (premiere) August 15 , 1946</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fun and Fancy Free 2, 3</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>September 27 , 1947</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>10</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Melody Time 2</html>
+          <wikipedia>Melody_Time</wikipedia>
+        </cell>
+        <cell>
+          <html>May 27 , 1948</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>11</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Adventures of Ichabod and Mr. Toad 2, 4</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>October 5 , 1949</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>12</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cinderella</html>
+          <wikipedia>Cinderella</wikipedia>
+        </cell>
+        <cell>
+          <html>February 15 , 1950</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>13</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Alice in Wonderland</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>July 26 , 1951 (limited) July 28 , 1951</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Peter Pan</html>
+          <wikipedia>Peter_Pan</wikipedia>
+        </cell>
+        <cell>
+          <html>February 5 , 1953</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>15</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lady and the Tramp 5</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 16 , 1955 (premiere) June 22 , 1955</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sleeping Beauty 6</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>January 29 , 1959</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>One Hundred and One Dalmatians</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>January 25 , 1961</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>18</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Sword in the Stone</html>
+          <wikipedia>The_Sword_in_the_Stone_(film)</wikipedia>
+        </cell>
+        <cell>
+          <html>December 25 , 1963</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Jungle Book</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>October 18 , 1967</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Aristocats</html>
+          <wikipedia>The_Aristocrats_(film)</wikipedia>
+        </cell>
+        <cell>
+          <html>December 11 , 1970 (premiere) December 24 , 1970</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Robin Hood</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>November 8 , 1973</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Many Adventures of Winnie the Pooh 2, 3</html>
+          <wikipedia>The_Many_Adventures_of_Winnie_the_Pooh</wikipedia>
+        </cell>
+        <cell>
+          <html>March 11 , 1977</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Rescuers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 22 , 1977</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Fox and the Hound</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>July 10 , 1981</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Black Cauldron 6</html>
+          <wikipedia>The_Black_Cauldron</wikipedia>
+        </cell>
+        <cell>
+          <html>July 24 , 1985</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Great Mouse Detective</html>
+          <wikipedia>The_Great_Mouse_Detective</wikipedia>
+        </cell>
+        <cell>
+          <html>July 2 , 1986</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Oliver &amp;amp; Company</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>November 13 , 1988 (premiere) November 18 , 1988</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>28</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Little Mermaid</html>
+          <wikipedia>The_Little_Mermaid</wikipedia>
+        </cell>
+        <cell>
+          <html>November 15 , 1989 (premiere) November 17 , 1989</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>29</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Rescuers Down Under</html>
+          <wikipedia>The_Rescuers_Down_Under</wikipedia>
+        </cell>
+        <cell>
+          <html>November 16 , 1990</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>30</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Beauty and the Beast 7</html>
+          <wikipedia>The_Beauty_And_The_Beast</wikipedia>
+        </cell>
+        <cell>
+          <html>November 13 , 1991 (limited) November 27 , 1991</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>31</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Aladdin</html>
+          <wikipedia>Aladdin_(film)</wikipedia>
+        </cell>
+        <cell>
+          <html>November 11 , 1992 (limited) November 25 , 1992</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>32</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Lion King 7</html>
+          <wikipedia>The_Lion_King</wikipedia>
+        </cell>
+        <cell>
+          <html>June 15 , 1994 (limited) June 24 , 1994</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>33</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pocahontas</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 16 , 1995 (premiere) June 23 , 1995</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>34</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Hunchback of Notre Dame</html>
+          <wikipedia>The_Hunchback_of_Notre_Dame</wikipedia>
+        </cell>
+        <cell>
+          <html>(premiere) June 21 , 1996</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>35</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hercules</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 14 , 1997 (premiere) June 27 , 1997</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>36</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mulan</html>
+          <wikipedia>Mulan</wikipedia>
+        </cell>
+        <cell>
+          <html>June 5 , 1998 (premiere) June 19 , 1998</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>37</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tarzan</html>
+          <wikipedia>Tarzan</wikipedia>
+        </cell>
+        <cell>
+          <html>June 18 , 1999</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>38</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Fantasia 2000 2, 3, 7</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>December 17 , 1999 (premiere) December 31 , 1999 ( IMAX ) June 16 , 2000 (regular)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>39</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Emperor's New Groove</html>
+          <wikipedia>The_Emperor's_New_Groove</wikipedia>
+        </cell>
+        <cell>
+          <html>December 10 , 2000 (premiere) December 15 , 2000</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>40</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Atlantis: The Lost Empire</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 3 , 2001 (premiere) June 8 , 2001 (limited) June 15 , 2001</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>41</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lilo &amp;amp; Stitch</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>June 16 , 2002 (premiere) June 21 , 2002</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>42</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Treasure Planet 7</html>
+          <wikipedia>Treasure_Planet</wikipedia>
+        </cell>
+        <cell>
+          <html>November 17 , 2002 (premiere) November 27 , 2002</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>43</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Brother Bear</html>
+          <wikipedia>Brother_Bear</wikipedia>
+        </cell>
+        <cell>
+          <html>October 20 , 2003 (premiere) October 24 , 2003 (limited) November 1 , 2003</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>44</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Home on the Range</html>
+          <wikipedia>Home_on_the_Range</wikipedia>
+        </cell>
+        <cell>
+          <html>March 21 , 2004 (premiere) April 2 , 2004</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>45</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chicken Little 8, 9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>October 30 , 2005 (premiere) November 4 , 2005</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>46</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Meet the Robinsons 8, 9</html>
+          <wikipedia>Meet_the_Robinsons</wikipedia>
+        </cell>
+        <cell>
+          <html>March 30 , 2007</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>47</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bolt 8, 9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>November 26 , 2008 10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>48</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Princess and the Frog</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>December 25 , 2009 10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>49</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rapunzel 8, 9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Christmas 2010 10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>50</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>King of the Elves 8, 9</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Christmas 2012 10</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Disney theatrical animated features - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following is a list of the fifty-two feature films that are part of the Walt Disney Animation Studios canon , also known as the Walt Disney Animated Classics. The canon includes animated features that were or are being produced entirely by Walt Disney Animation Studios, formerly known as Walt Disney Feature Animation (and previously as part of Walt Disney Productions). Not included are live action films that feature animation, spin-offs from Disney television shows, the direct-to-video films produced by the DisneyToons studio in Australia (some of which received theatrical releases), or the Pixar films. Walt Disney Animation Studios once announced that Home on the Range (released April 2 , 2004 ) would be the last traditionally animated film, and from Chicken Little (released November 4 , 2005 ) onwards, all future Walt Disney Animation Studios films would be computer-generated-imagery CGI animation. However, this changed in July 2006 , when a new traditionally animated film, The Princess and the Frog , was revealed to be in development.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Disney theatrical animated features</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Official canon</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Live-action films which feature Disney animation</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Official canon</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Live-action films which feature Disney animation</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Theatrical animated films created by DisneyToon Studios</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other animated films released by Disney</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Disney Pixar films</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Animated films distributed but not produced by Disney</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This is a list of theatrical animated feature films produced and/or released by Walt Disney Productions / The Walt Disney Company :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Theatrical animated films created by DisneyToon Studios See also: DisneyToon Studios</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Disney theatrical animated features</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>To date, all theatrical animated films created by DisneyToon Studios are traditionally (2-D) animated.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other animated films released by Disney</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

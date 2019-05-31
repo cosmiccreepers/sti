@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gubernatorial term</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Date of birth</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Edwin W. Edwards</html>
+          <wikipedia>Edwin_Edwards</wikipedia>
+        </cell>
+        <cell>
+          <html>1972-1980, 1984-1988, 1992-1996</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>(age 86)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Buddy Roemer</html>
+          <wikipedia>Buddy_Roemer</wikipedia>
+        </cell>
+        <cell>
+          <html>1988-1992</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>(age 70)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Murphy J. Foster, Jr.</html>
+          <wikipedia>Murphy_J._Foster,_Jr.</wikipedia>
+        </cell>
+        <cell>
+          <html>1996-2004</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>(age 83)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kathleen Blanco</html>
+          <wikipedia>Kathleen_Blanco</wikipedia>
+        </cell>
+        <cell>
+          <html>2004-2008</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>(age 71)</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>List of Governors of Louisiana - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>As of January 2008 , five former governors were alive, the oldest being Edwin W. Edwards (1972 1980, 1984 1988, 1992 1996, born 1927). The most recent governor to die was Jimmie H. Davis (1944 1948, 1960 1964), on November 5 , 2000 . The most recently-serving governor to die was John J. McKeithen (1964 1972), on June 4 , 1999 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>List of Governors of Louisiana</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Living former governors</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Colonial period (French and Spanish governors)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] United States territorial period</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] First period of U.S. statehood</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Civil War Era</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Reconstruction Era (Governors subordinate to U.S. military rule)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Resumption of U.S. Statehood</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other high offices held</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Living former governors</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This is a table of congressional, other governorships, and other federal offices held by governors. All representatives and senators mentioned represented Louisiana except where noted. * denotes those offices which the governor resigned to take.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Other high offices held</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Resumption of U.S. Statehood</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Reconstruction Era (Governors subordinate to U.S. military rule)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Governors of Union-held territory in Louisiana</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Louisiana Secretary of State website Cemetery Memorials by La-Cemeteries</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Governors of Confederate -held territory in Louisiana</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Civil War Era</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] First period of U.S. statehood</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Name</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Age</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hometown</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Occupation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Eliminated</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Tessa Horst</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Francisco, CA</html>
+          <wikipedia>San_Francisco,_CA</wikipedia>
+        </cell>
+        <cell>
+          <html>Social Worker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Winner</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Bevin Nicole Powers</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>28</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Palo Alto, CA</html>
+          <wikipedia>Palo_Alto,_CA</wikipedia>
+        </cell>
+        <cell>
+          <html>Assistant</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 8</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Danielle Imwalle</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>25</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bethel, CT</html>
+          <wikipedia>Bethel,_CT</wikipedia>
+        </cell>
+        <cell>
+          <html>Graphic Designer</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 7</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Amber Alchalabi</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sugar Land, TX</html>
+          <wikipedia>Sugar_Land,_TX</wikipedia>
+        </cell>
+        <cell>
+          <html>Teacher</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 6</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stephanie Wilhite</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Overland Park, KS</html>
+          <wikipedia>Overland_Park,_KS</wikipedia>
+        </cell>
+        <cell>
+          <html>Project Manager</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 5</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tina Wu</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Los Angeles, CA</html>
+          <wikipedia>Los_Angeles,_CA</wikipedia>
+        </cell>
+        <cell>
+          <html>Medical student</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 5</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Kate Brockhouse</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Charleston, SC</html>
+          <wikipedia>Charleston,_SC</wikipedia>
+        </cell>
+        <cell>
+          <html>Boutique owner</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 4</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Nicole Clary</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Charleston, SC</html>
+          <wikipedia>Charleston,_SC</wikipedia>
+        </cell>
+        <cell>
+          <html>Sales Manager</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 4</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Stephanie Tipper</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Folly Beach, SC</html>
+          <wikipedia>Folly_Beach,_SC</wikipedia>
+        </cell>
+        <cell>
+          <html>Organ donor coordinator</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 4</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Amanda Hackney</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dallas, TX</html>
+          <wikipedia>Dallas,_TX</wikipedia>
+        </cell>
+        <cell>
+          <html>Financial analyst</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 3</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Erin Parker</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Logansport, LA</html>
+          <wikipedia>Logansport,_LA</wikipedia>
+        </cell>
+        <cell>
+          <html>Financial analyst</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 3</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Peyton Wright</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>24</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dallas, TX</html>
+          <wikipedia>Dallas,_TX</wikipedia>
+        </cell>
+        <cell>
+          <html>Sorority recruiter</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 3</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Alexis Young</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Southlake, TX</html>
+          <wikipedia>Southlake,_TX</wikipedia>
+        </cell>
+        <cell>
+          <html>Attorney</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 2</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Susan Anderson</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>The Woodlands, TX</html>
+          <wikipedia>The_Woodlands,_TX</wikipedia>
+        </cell>
+        <cell>
+          <html>Boutique manager</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 2</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tiffany Warren</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>28</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Boston, MA</html>
+          <wikipedia>Boston,_MA</wikipedia>
+        </cell>
+        <cell>
+          <html>Medical equipment sales rep</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 2</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Blakeney Rowe</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>29</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Birmingham, AL</html>
+          <wikipedia>Birmingham,_AL</wikipedia>
+        </cell>
+        <cell>
+          <html>Radio sales</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Candace DeCost</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Hilton Head Island, SC</html>
+          <wikipedia>Hilton_Head_Island,_SC</wikipedia>
+        </cell>
+        <cell>
+          <html>Waitress</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Catherine Warren</html>
+          <wikipedia>Catherine_Warren</wikipedia>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lake Forest, IL</html>
+          <wikipedia>Lake_Forest,_IL</wikipedia>
+        </cell>
+        <cell>
+          <html>Former Miss Illinois</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Danielle Vallis</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>26</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bronx, NY</html>
+          <wikipedia>Bronx,_NY</wikipedia>
+        </cell>
+        <cell>
+          <html>Attorney</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jackie Topelli</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>23</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Minneapolis, MN</html>
+          <wikipedia>Minneapolis,_MN</wikipedia>
+        </cell>
+        <cell>
+          <html>Executive coordinator</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jeanette Alvarez</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tampa, FL</html>
+          <wikipedia>Tampa,_FL</wikipedia>
+        </cell>
+        <cell>
+          <html>Health care manager</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Jessica Devallo</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>32</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New York, NY</html>
+          <wikipedia>New_York,_NY</wikipedia>
+        </cell>
+        <cell>
+          <html>Hedge fund analyst</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Linda Malek</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>33</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cuyahoga Falls, OH</html>
+          <wikipedia>Cuyahoga_Falls,_OH</wikipedia>
+        </cell>
+        <cell>
+          <html>Attorney</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Lindsay Smith</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>22</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Lawrence, KS</html>
+          <wikipedia>Lawrence,_KS</wikipedia>
+        </cell>
+        <cell>
+          <html>Student</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Tiffany Forester</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>27</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>St. Louis Park, MN</html>
+          <wikipedia>St._Louis_Park,_MN</wikipedia>
+        </cell>
+        <cell>
+          <html>Real estate sales/development</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Week 1</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>The Bachelor: Officer and a Gentleman - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The following is the list of bachelorettes for this season:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Bachelor: Officer and a Gentleman</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Contestants</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Contestants</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Episodes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] External links</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Bachelor: Officer and a Gentleman is the tenth season of ABC reality television series The Bachelor . The show was filmed in Los Angeles , Hawaii , and Pennsylvania . The premiere of this season of The Bachelor aired on April 2, 2007. The show features the bachelor, Andy Baldwin , courting 25 women.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Episodes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Bachelor: Officer and a Gentleman</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article or section needs to be updated. Please update the article to reflect recent events / newly available information, and remove this template when finished.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Additional information needed</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

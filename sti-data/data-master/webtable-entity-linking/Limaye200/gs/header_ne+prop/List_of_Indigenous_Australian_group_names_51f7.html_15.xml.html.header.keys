@@ -1,0 +1,4 @@
+1=/common/topic/alias
+0=/language/human_language			___NE
+2=/location/australian_state=/base/aareas/schema/au/state	/location/dated_location=/location/administrative_division=/government/governmental_jurisdiction=/location/location=/location/statistical_region=/base/aareas/schema/administrative_area=/government/political_district=/base/popstra/location			___NE
+3=/location/region	/location/location=/location/dated_location=/location/statistical_region			___NE

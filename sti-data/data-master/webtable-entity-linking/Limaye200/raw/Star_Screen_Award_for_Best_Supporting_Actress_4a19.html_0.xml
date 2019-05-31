@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Year</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Actress</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Film</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1995</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mita Vashisht</html>
+          <wikipedia>Mita_Vashisht</wikipedia>
+        </cell>
+        <cell>
+          <html>Drohkaal</html>
+          <wikipedia>Drohkaal</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1996</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Not awarded</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1997</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Seema Biswas</html>
+          <wikipedia>Seema_Biswas</wikipedia>
+        </cell>
+        <cell>
+          <html>Khamoshi: The Musical</html>
+          <wikipedia>Khamoshi:_The_Musical</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1998</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shabana Azmi</html>
+          <wikipedia>Shabana_Azmi</wikipedia>
+        </cell>
+        <cell>
+          <html>Mrityudand</html>
+          <wikipedia>Mrityudand</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1999</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shefali Shah</html>
+          <wikipedia>Shefali_Shah</wikipedia>
+        </cell>
+        <cell>
+          <html>Satya</html>
+          <wikipedia>Satya_(film)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2000</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sushmita Sen</html>
+          <wikipedia>Sushmita_Sen</wikipedia>
+        </cell>
+        <cell>
+          <html>Biwi No.1</html>
+          <wikipedia>Biwi_No.1</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2001</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sonali Bendre</html>
+          <wikipedia>Sonali_Bendre</wikipedia>
+        </cell>
+        <cell>
+          <html>Hamara Dil Aapke Paas Hai</html>
+          <wikipedia>Hamara_Dil_Aapke_Paas_Hai</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2002</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Raveena Tandon</html>
+          <wikipedia>Raveena_Tandon</wikipedia>
+        </cell>
+        <cell>
+          <html>Aks</html>
+          <wikipedia>Aks_(film)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2003</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Madhuri Dixit</html>
+          <wikipedia>Madhuri_Dixit</wikipedia>
+        </cell>
+        <cell>
+          <html>Devdas</html>
+          <wikipedia>Devdas_(2002_Hindi_film)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2004</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Juhi Chawla</html>
+          <wikipedia>Juhi_Chawla</wikipedia>
+        </cell>
+        <cell>
+          <html>3 Deewarein</html>
+          <wikipedia>3_Deewarein</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2005</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Rani Mukerji</html>
+          <wikipedia>Rani_Mukerji</wikipedia>
+        </cell>
+        <cell>
+          <html>Yuva</html>
+          <wikipedia>Yuva</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2006</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shweta Prasad</html>
+          <wikipedia>Shweta_Prasad</wikipedia>
+        </cell>
+        <cell>
+          <html>Iqbal</html>
+          <wikipedia>Iqbal_(film)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2007</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Kirron Kher</html>
+          <wikipedia>Kirron_Kher</wikipedia>
+        </cell>
+        <cell>
+          <html>Rang De Basanti</html>
+          <wikipedia>Rang_De_Basanti</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2008</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Chak De girls</html>
+          <wikipedia>Chak_De!_India#Cast:_Chak_De_girls</wikipedia>
+        </cell>
+        <cell>
+          <html>Chak De! India</html>
+          <wikipedia>Chak_De!_India</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2009</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shahana Goswami</html>
+          <wikipedia>Shahana_Goswami</wikipedia>
+        </cell>
+        <cell>
+          <html>Rock On!!</html>
+          <wikipedia>Rock_On!!</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2010</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Arundathi Nag</html>
+          <wikipedia>Arundathi_Nag</wikipedia>
+        </cell>
+        <cell>
+          <html>Paa</html>
+          <wikipedia>Paa_(film)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2011</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Shernaz Patel</html>
+          <wikipedia>Shernaz_Patel</wikipedia>
+        </cell>
+        <cell>
+          <html>Guzaarish</html>
+          <wikipedia>Guzaarish</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2012</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Aditi Rao Hydari</html>
+          <wikipedia>Aditi_Rao_Hydari</wikipedia>
+        </cell>
+        <cell>
+          <html>Yeh Saali Zindagi</html>
+          <wikipedia>Yeh_Saali_Zindagi</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2013</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dolly Ahluwalia</html>
+          <wikipedia>Dolly_Ahluwalia</wikipedia>
+        </cell>
+        <cell>
+          <html>Vicky Donor</html>
+          <wikipedia>Vicky_Donor</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2014</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Swara Bhaskar</html>
+          <wikipedia>Swara_Bhaskar</wikipedia>
+        </cell>
+        <cell>
+          <html>Raanjhanaa</html>
+          <wikipedia>Raanjhanaa</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Star Screen Award for Best Supporting Actress - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The winners are listed below:-</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Star Screen Award for Best Supporting Actress</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Though the awards began in 1994 , the best supporting category for actresses was not introduced until 1995 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Star Screen Award Best Supporting Actress is chosen via a distinguished panel of judges from the film industry. The winners are announced in January.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Star Screen Award for Best Supporting Actress</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

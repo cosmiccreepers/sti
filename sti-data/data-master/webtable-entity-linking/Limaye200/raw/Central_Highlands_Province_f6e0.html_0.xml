@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Member</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party affiliation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Term began</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Term ended</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Jock Granter</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Liberal Party of Australia</html>
+          <wikipedia>Liberal_Party_of_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>1976</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Fred Grimwade</html>
+          <wikipedia>Fred_Grimwade</wikipedia>
+        </cell>
+        <cell>
+          <html>Liberal Party of Australia</html>
+          <wikipedia>Liberal_Party_of_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>1979</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Marie Tehan</html>
+          <wikipedia>Marie_Tehan</wikipedia>
+        </cell>
+        <cell>
+          <html>Liberal Party of Australia</html>
+          <wikipedia>Liberal_Party_of_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>1987</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Geoff Craige</html>
+          <wikipedia>Geoff_Craige</wikipedia>
+        </cell>
+        <cell>
+          <html>Liberal Party of Australia</html>
+          <wikipedia>Liberal_Party_of_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2002</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Graeme Stoney</html>
+          <wikipedia>Graeme_Stoney</wikipedia>
+        </cell>
+        <cell>
+          <html>Liberal Party of Australia</html>
+          <wikipedia>Liberal_Party_of_Australia</wikipedia>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2006</html>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Rob Mitchell</html>
+          <wikipedia>Rob_Mitchell_(Victorian_politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Australian Labor Party</html>
+          <wikipedia>Australian_Labor_Party</wikipedia>
+        </cell>
+        <cell>
+          <html>2002</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>2006</html>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Central Highlands Province - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Members for Central Highlands Province</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Central Highlands Province</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>It covered a broad area of the state between the outer fringes of Melbourne and the Victorian Alps . In 2002 , when it was last contested, it covered an area of 24,164 km 2 and included the towns and suburbs of Alexandra , Benalla , Bright , Broadford , Coldstream , Diamond Creek , Euroa , Healesville , Hurstbridge , Lilydale , Mansfield , Marysville , Mount Beauty , Plenty , Seymour , Yan Yean , Yarra Glen and Yea .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This Australian government-related article is a stub . You can help Wikipedia by expanding it .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Members for Central Highlands Province</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Central Highlands Province was an electorate of the Victorian Legislative Council . It existed as a two-member electorate from 1976 to 2006 , with members holding alternating eight-year terms. It was a safe seat for the Liberal Party of Australia for most of its history, but was a surprise gain for the Australian Labor Party in their landslide victory at the 2002 state election . The electorate was abolished from the 2006 state election in the wake of the Bracks Labor government's reform of the Legislative Council.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Central Highlands Province</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Coast Guard designation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Navy designation</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USCG Commissioning</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USCG Decommissioning</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>USCGD , Cassin,  (CG-1)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Cassin (DD-43)</html>
+          <wikipedia>USS_Cassin_(DD-43)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Conyngham,  (CG-2)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Conyngham (DD-58)</html>
+          <wikipedia>USS_Conyngham_(DD-58)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Cummings,  (CG-3)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Cummings (DD-44)</html>
+          <wikipedia>USS_Cummings_(DD-44)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Downes,  (CG-4)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Downes (DD-45)</html>
+          <wikipedia>USS_Downes_(DD-45)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Ericsson,  (CG-5)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Ericsson (DD-56)</html>
+          <wikipedia>USS_Ericsson_(DD-56)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Porter,  (CG-7)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Porter (DD-59)</html>
+          <wikipedia>USS_Porter_(DD-59)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Ammen,  (CG-8)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Ammen (DD-35)</html>
+          <wikipedia>USS_Ammen_(DD-35)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Burrows,  (CG-10)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Burrows (DD-29)</html>
+          <wikipedia>USS_Burrows_(DD-29)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Fanning,  (CG-11)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Fanning (DD-37)</html>
+          <wikipedia>USS_Fanning_(DD-37)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCG , Henley,  (CG-12)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Henley (DD-39)</html>
+          <wikipedia>USS_Henley_(DD-39)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , McCall,  (CG-14)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS McCall (DD-28)</html>
+          <wikipedia>USS_McCall_(DD-28)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Monaghan,  (CG-15)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Monaghan (DD-32)</html>
+          <wikipedia>USS_Monaghan_(DD-32)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Patterson,  (CG-16)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Patterson (DD-36)</html>
+          <wikipedia>USS_Patterson_(DD-36)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Paulding,  (CG-17)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Paulding (DD-22)</html>
+          <wikipedia>USS_Paulding_(DD-22)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Roe,  (CG-18)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Roe (DD-24)</html>
+          <wikipedia>USS_Roe_(DD-24)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Hunt,  (CG-18)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Hunt (DD-194)</html>
+          <wikipedia>USS_Hunt_(DD-194)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Terry,  (CG-19)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Terry (DD-25)</html>
+          <wikipedia>USS_Terry_(DD-25)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Wood,  (CG-19)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Welborn C. Wood (DD-195)</html>
+          <wikipedia>USS_Welborn_C._Wood_(DD-195)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Trippe,  (CG-20)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Trippe (DD-33)</html>
+          <wikipedia>USS_Trippe_(DD-33)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Semmes,  (CG-20)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Semmes (DD-189)</html>
+          <wikipedia>USS_Semmes_(DD-189)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Davis,  (CG-21)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Davis (DD-65)</html>
+          <wikipedia>USS_Davis_(DD-65)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Shaw,  (CG-22)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Shaw (DD-68)</html>
+          <wikipedia>USS_Shaw_(DD-68)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Tucker,  (CG-23)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Tucker (DD-57)</html>
+          <wikipedia>USS_Tucker_(DD-57)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Wainwright,  (CG-24)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Wainwright (DD-62)</html>
+          <wikipedia>USS_Wainwright_(DD-62)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>USCGD , Wilkes,  (CG-25)</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>USS Wilkes (DD-67)</html>
+          <wikipedia>USS_Wilkes_(DD-67)</wikipedia>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html/>
+          <wikipedia/>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Rum Patrol - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ships in the Rum Patrol</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Rum Patrol</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On 20 February 1933 the 21st Amendment to the Constitution , the repeal of Amendment 18, was proposed by Congress and ratification was completed on 5 December 1933. This eliminated the need for the Rum Patrol. The remaining destroyers were returned to the Navy and sold for scrap.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Categories :</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Ships in the Rum Patrol</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Some of the destroyers were pre-World War I 742-ton "flivvers", capable of over 25 knots, an advantage in the rum-chasing business. They, however, were easily outmaneuvered by smaller vessels. The destroyers mission, therefore, was to picket the larger supply ships ("mother ships") and prevent them from off-loading their cargo onto the smaller, speedier contact boats that ran the liquor into shore.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Adapting these vessels to service was thought to be less costly than building new ships. In the end the rehabilitation of the vessels became a saga in itself because of the exceedingly poor condition of many of these war-weary ships. In many instances it took nearly a year to bring the vessels up to seaworthiness. Additionally, these were by far the largest and most sophisticated vessels ever operated by the service and trained personnel were nearly nonexistent. As a result, Congress authorized hundreds of new enlistees. These inexperienced men generally made up the destroyer crews.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The establishment of Prohibition gave rise to smuggling of illicit liquor into the United States and, to deal with this problem, 25 older destroyers were transferred by the United States Navy to the Treasury Department for service with the Coast Guard. Some began to show signs of wear and tear after the often arduous pace of operations on the Rum Patrol and required replacement. Accordingly five of the newer flush deck destroyers were transferred to the Treasury Department in 1930 and 1931 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>On 18 December 1917 the 18th (Prohibition) Amendment to the Constitution was submitted to the states by Congress . On 16 January 1919 the amendment was ratified and the Liquor Prohibition Amendment , which prohibited the manufacture, sale, transportation, importation, or exportation of intoxicating liquors, came into effect on 16 January 1920 .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Rum Patrol was a group of United States Coast Guard vessels that were used to try to enforce prohibition .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Hidden categories:</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Please help improve this article by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article does not cite any references or sources . (May 2008)</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Rum Patrol</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

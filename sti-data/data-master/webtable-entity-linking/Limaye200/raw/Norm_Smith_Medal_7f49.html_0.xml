@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Year</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Winner</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Club</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Winning team</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>1979</html>
+          <wikipedia>1979_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Wayne Harmes</html>
+          <wikipedia>Wayne_Harmes</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1980</html>
+          <wikipedia>1980_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Kevin Bartlett</html>
+          <wikipedia>Kevin_Bartlett_(Aussie_Rules_footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Richmond</html>
+          <wikipedia>Richmond_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Richmond</html>
+          <wikipedia>Richmond_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1981</html>
+          <wikipedia>1981_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Bruce Doull</html>
+          <wikipedia>Bruce_Doull</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1982</html>
+          <wikipedia>1982_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Maurice Rioli</html>
+          <wikipedia>Maurice_Rioli</wikipedia>
+        </cell>
+        <cell>
+          <html>Richmond</html>
+          <wikipedia>Richmond_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1983</html>
+          <wikipedia>1983_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Colin Robertson</html>
+          <wikipedia>Colin_Robertson_(Australian_rules_footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1984</html>
+          <wikipedia>1984_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Billy Duckworth</html>
+          <wikipedia>Billy_Duckworth</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1985</html>
+          <wikipedia>1985_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Simon Madden</html>
+          <wikipedia>Simon_Madden</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1986</html>
+          <wikipedia>1986_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Ayres</html>
+          <wikipedia>Gary_Ayres</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1987</html>
+          <wikipedia>1987_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>David Rhys-Jones</html>
+          <wikipedia>David_Rhys-Jones</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1988</html>
+          <wikipedia>1988_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Ayres</html>
+          <wikipedia>Gary_Ayres</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1989</html>
+          <wikipedia>1989_VFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Gary Ablett, Sr.</html>
+          <wikipedia>Gary_Ablett,_Sr.</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1990</html>
+          <wikipedia>1990_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Tony Shaw</html>
+          <wikipedia>Tony_Shaw</wikipedia>
+        </cell>
+        <cell>
+          <html>Collingwood</html>
+          <wikipedia>Collingwood_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Collingwood</html>
+          <wikipedia>Collingwood_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1991</html>
+          <wikipedia>1991_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Paul Dear</html>
+          <wikipedia>Paul_Dear</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1992</html>
+          <wikipedia>1992_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Peter Matera</html>
+          <wikipedia>Peter_Matera</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1993</html>
+          <wikipedia>1993_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Michael Long</html>
+          <wikipedia>Michael_Long_(footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1994</html>
+          <wikipedia>1994_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Dean Kemp</html>
+          <wikipedia>Dean_Kemp</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1995</html>
+          <wikipedia>1995_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Greg Williams</html>
+          <wikipedia>Greg_Williams_(Australian_footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Carlton</html>
+          <wikipedia>Carlton_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1996</html>
+          <wikipedia>1996_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Glenn Archer</html>
+          <wikipedia>Glenn_Archer</wikipedia>
+        </cell>
+        <cell>
+          <html>North Melbourne</html>
+          <wikipedia>North_Melbourne_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>North Melbourne</html>
+          <wikipedia>North_Melbourne_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1997</html>
+          <wikipedia>1997_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Andrew McLeod</html>
+          <wikipedia>Andrew_McLeod</wikipedia>
+        </cell>
+        <cell>
+          <html>Adelaide</html>
+          <wikipedia>Adelaide_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Adelaide</html>
+          <wikipedia>Adelaide_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1998</html>
+          <wikipedia>1998_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Andrew McLeod</html>
+          <wikipedia>Andrew_McLeod</wikipedia>
+        </cell>
+        <cell>
+          <html>Adelaide</html>
+          <wikipedia>Adelaide_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Adelaide</html>
+          <wikipedia>Adelaide_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>1999</html>
+          <wikipedia>1999_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Shannon Grant</html>
+          <wikipedia>Shannon_Grant</wikipedia>
+        </cell>
+        <cell>
+          <html>Kangaroos</html>
+          <wikipedia>North_Melbourne_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Kangaroos</html>
+          <wikipedia>North_Melbourne_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2000</html>
+          <wikipedia>2000_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>James Hird</html>
+          <wikipedia>James_Hird</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Essendon</html>
+          <wikipedia>Essendon_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2001</html>
+          <wikipedia>2001_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Shaun Hart</html>
+          <wikipedia>Shaun_Hart</wikipedia>
+        </cell>
+        <cell>
+          <html>Brisbane Lions</html>
+          <wikipedia>Brisbane_Lions</wikipedia>
+        </cell>
+        <cell>
+          <html>Brisbane Lions</html>
+          <wikipedia>Brisbane_Lions</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2002</html>
+          <wikipedia>2002_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Nathan Buckley</html>
+          <wikipedia>Nathan_Buckley</wikipedia>
+        </cell>
+        <cell>
+          <html>Collingwood</html>
+          <wikipedia>Collingwood_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Brisbane Lions</html>
+          <wikipedia>Brisbane_Lions</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2003</html>
+          <wikipedia>2003_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Simon Black</html>
+          <wikipedia>Simon_Black</wikipedia>
+        </cell>
+        <cell>
+          <html>Brisbane Lions</html>
+          <wikipedia>Brisbane_Lions</wikipedia>
+        </cell>
+        <cell>
+          <html>Brisbane Lions</html>
+          <wikipedia>Brisbane_Lions</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2004</html>
+          <wikipedia>2004_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Byron Pickett</html>
+          <wikipedia>Byron_Pickett</wikipedia>
+        </cell>
+        <cell>
+          <html>Port Adelaide</html>
+          <wikipedia>Port_Adelaide_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Port Adelaide</html>
+          <wikipedia>Port_Adelaide_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2005</html>
+          <wikipedia>2005_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Chris Judd</html>
+          <wikipedia>Chris_Judd</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+        <cell>
+          <html>Sydney</html>
+          <wikipedia>Sydney_Swans</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2006</html>
+          <wikipedia>2006_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Andrew Embley</html>
+          <wikipedia>Andrew_Embley</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+        <cell>
+          <html>West Coast</html>
+          <wikipedia>West_Coast_Eagles</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2007</html>
+          <wikipedia>2007_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Steve Johnson</html>
+          <wikipedia>Steve_Johnson_(Australian_footballer)</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2008</html>
+          <wikipedia>2008_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Luke Hodge</html>
+          <wikipedia>Luke_Hodge</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2009</html>
+          <wikipedia>2009_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Paul Chapman</html>
+          <wikipedia>Paul_Chapman_(footballer,_born_1981)</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2011</html>
+          <wikipedia>2011_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Jimmy Bartel</html>
+          <wikipedia>Jimmy_Bartel</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Geelong</html>
+          <wikipedia>Geelong_Football_Club</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2012</html>
+          <wikipedia>2012_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Ryan O'Keefe</html>
+          <wikipedia>Ryan_O%27Keefe</wikipedia>
+        </cell>
+        <cell>
+          <html>Sydney</html>
+          <wikipedia>Sydney_Swans</wikipedia>
+        </cell>
+        <cell>
+          <html>Sydney</html>
+          <wikipedia>Sydney_Swans</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>2013</html>
+          <wikipedia>2013_AFL_Grand_Final</wikipedia>
+        </cell>
+        <cell>
+          <html>Brian Lake</html>
+          <wikipedia>Brian_Lake</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+        <cell>
+          <html>Hawthorn</html>
+          <wikipedia>Hawthorn_Football_Club</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Norm Smith Medal - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] List of winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Norm Smith Medal</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Gary Ayres and Andrew McLeod are the only players to win the medal twice, McLeod the only player to win it back-to-back.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Italics - denotes winner from losing team of that Grand Final.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] List of winners</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>As with most individual awards in team sports, the Norm Smith Medal is usually awarded to a player on the winning side. Only four players have won the award in losing sides: Maurice Rioli in 1982, Gary Ablett in 1989, Nathan Buckley in 2002 and Chris Judd in 2005. It is notable that Ablett, Buckley and Judd won their medals in very close Grand Finals, where the losing teams almost won. Rioli won his in the 1982 Grand Final, despite his team being convincingly beaten by Carlton .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Norm Smith Medal is named after former Melbourne player and coach, Norm Smith . It was named in his honour mostly due to his coaching feats in Grand Finals: he coached six Melbourne premiership sides.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] History</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>The Norm Smith Medal is the award given in the AFL Grand Final to the player adjudged by an independent panel of experts to have been the best player in the match.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Brownlow Medal Coleman Medal</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Norm Smith Medal</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This article does not cite any references or sources . (August 2007)</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

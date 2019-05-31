@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>District</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Incumbent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>First elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Status</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Opponent</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Washington 1</html>
+          <wikipedia>Washington%27s_1st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Maria Cantwell</html>
+          <wikipedia>Maria_Cantwell</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Maria Cantwell</html>
+          <wikipedia>Rick_White_(politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 2</html>
+          <wikipedia>Washington%27s_2nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Al Swift</html>
+          <wikipedia>Al_Swift</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1978</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1978</wikipedia>
+        </cell>
+        <cell>
+          <html>Retired, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Harriet Spanel</html>
+          <wikipedia>Jack_Metcalf</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 3</html>
+          <wikipedia>Washington%27s_3rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jolene Unsoeld</html>
+          <wikipedia>Jolene_Unsoeld</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1988</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jolene Unsoeld</html>
+          <wikipedia>Linda_Smith_(American_politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 4</html>
+          <wikipedia>Washington%27s_4th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jay Inslee</html>
+          <wikipedia>Jay_Inslee</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jay Inslee</html>
+          <wikipedia>Doc_Hastings</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 5</html>
+          <wikipedia>Washington%27s_5th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Tom Foley</html>
+          <wikipedia>Tom_Foley</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1964</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1964</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Tom Foley</html>
+          <wikipedia>George_Nethercutt</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 6</html>
+          <wikipedia>Washington%27s_6th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Norman D. Dicks</html>
+          <wikipedia>Norman_D._Dicks</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1976</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1976</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Norman D. Dicks (D) 58.3%, , Benjamin Gregg (D) 41.7%</html>
+          <wikipedia>Norman_D._Dicks</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 7</html>
+          <wikipedia>Washington%27s_7th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jim McDermott</html>
+          <wikipedia>Jim_McDermott</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1988</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1988</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jim McDermott (D) 75.1%, , Keith Harris (R) 24.9%</html>
+          <wikipedia>Jim_McDermott</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 8</html>
+          <wikipedia>Washington%27s_8th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jennifer Dunn</html>
+          <wikipedia>Jennifer_Dunn_(politician)</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Jennifer Dunn (R) 76.1%, , Jim Wyrick (D) 23.9%</html>
+          <wikipedia>Jennifer_Dunn_(politician)</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Washington 9</html>
+          <wikipedia>Washington%27s_9th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Mike Kreidler</html>
+          <wikipedia>Mike_Kreidler</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1992</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1992</wikipedia>
+        </cell>
+        <cell>
+          <html>Defeated, , Republican gain</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Mike Kreidler</html>
+          <wikipedia>Randy_Tate</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 1994 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Washington</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 1994</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Virginia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] West Virginia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Voting Patterns</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Overall results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Individual State Results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Annette Larson (Liberty Union) 0.7%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Jack Rogers (VT Grassroots) 1.3%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Wisconsin</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Carole Banus (Natural Law) 1.4%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>John Carroll (R) 46.6%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Bernie Sanders (I) 49.9%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Wyoming</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Running</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Independent</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>District Incumbent Party Elected Status Opponent</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

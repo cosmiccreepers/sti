@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>District</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Incumbent</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Party</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Firstelected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Results</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Candidates</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Arizona 1</html>
+          <wikipedia>Arizona%27s_1st_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Matt Salmon</html>
+          <wikipedia>Matt_Salmon</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1994</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1994</wikipedia>
+        </cell>
+        <cell>
+          <html>run for Governor</html>
+          <wikipedia>/w/index.php?title=Arizona_gubernatorial_election,_2000&amp;action=edit&amp;redlink=1</wikipedia>
+        </cell>
+        <cell>
+          <html>David Mendoza, Jon Burroughs</html>
+          <wikipedia>Jeff_Flake</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Arizona 2</html>
+          <wikipedia>Arizona%27s_2nd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Ed Pastor</html>
+          <wikipedia>Ed_Pastor</wikipedia>
+        </cell>
+        <cell>
+          <html>Democratic</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1990</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1990</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Bill Barenholtz, Geoffrey Weber, Barbara Shelor</html>
+          <wikipedia>Ed_Pastor</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Arizona 3</html>
+          <wikipedia>Arizona%27s_3rd_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Bob Stump</html>
+          <wikipedia>Bob_Stump</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1976</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1976</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Gene Scharer, Edward R. Carlson</html>
+          <wikipedia>Bob_Stump</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Arizona 4</html>
+          <wikipedia>Arizona%27s_4th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>John Shadegg</html>
+          <wikipedia>John_Shadegg</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1994</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1994</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Ben Jankowski, Ernest Hancock</html>
+          <wikipedia>John_Shadegg</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Arizona 5</html>
+          <wikipedia>Arizona%27s_5th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>Jim Kolbe</html>
+          <wikipedia>Jim_Kolbe</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1984</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1984</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>George Cunningham, Michael Jay Green, Aage Nost</html>
+          <wikipedia>Jim_Kolbe</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Arizona 6</html>
+          <wikipedia>Arizona%27s_6th_congressional_district</wikipedia>
+        </cell>
+        <cell>
+          <html>J. D. Hayworth</html>
+          <wikipedia>J._D._Hayworth</wikipedia>
+        </cell>
+        <cell>
+          <html>Republican</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>1994</html>
+          <wikipedia>United_States_House_of_Representatives_elections,_1994</wikipedia>
+        </cell>
+        <cell>
+          <html>Re-elected</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Larry Nelson, Richard Duncan</html>
+          <wikipedia>J._D._Hayworth</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2000 - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Arizona</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>United States House of Representatives elections, 2000</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Leonard Karpinski (L) 2%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Arkansas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Overall results</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Voting members</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] References</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] See also</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Jim Dore (AI) 4%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Anna Young (G) 8%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] California</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Clifford Mark Greene (D) 17%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Don Young (R) 71%</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Running</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Colorado</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Republican</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Connecticut</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Alaska 1</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

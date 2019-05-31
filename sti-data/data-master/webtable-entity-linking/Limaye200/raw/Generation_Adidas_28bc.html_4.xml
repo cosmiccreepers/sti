@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><entity>
+  <logicalTable>
+    <content>
+      <header>
+        <cell>
+          <html>Player</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Age</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Pos</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Home Town</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>College/prior</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Drafting Team</html>
+          <wikipedia/>
+        </cell>
+      </header>
+      <row>
+        <cell>
+          <html>Freddy Adu</html>
+          <wikipedia>Freddy_Adu</wikipedia>
+        </cell>
+        <cell>
+          <html>14</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Potomac, MD</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>US Under-17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D.C. United</html>
+          <wikipedia>D.C._United</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Michael Bradley</html>
+          <wikipedia>Michael_Bradley_(soccer)</wikipedia>
+        </cell>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Palatine, IL</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>US Under-17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>MetroStars</html>
+          <wikipedia>MetroStars</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ryan Cochrane</html>
+          <wikipedia>Ryan_Cochrane_(soccer)</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Portland, OR</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Santa Clara</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Jose Earthquakes</html>
+          <wikipedia>San_Jose_Earthquakes</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Steve Cronin</html>
+          <wikipedia>Steve_Cronin</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>GK</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Sacramento, CA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Santa Clara</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>San Jose Earthquakes</html>
+          <wikipedia>San_Jose_Earthquakes</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Clint Dempsey</html>
+          <wikipedia>Clint_Dempsey</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Nacogdoches, TX</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Furman</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New England Revolution</html>
+          <wikipedia>New_England_Revolution</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Josh Gardner</html>
+          <wikipedia>Josh_Gardner_(soccer)</wikipedia>
+        </cell>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Houston, TX</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Cincinnati</html>
+          <wikipedia>Cincinnati_Bearcats</wikipedia>
+        </cell>
+        <cell>
+          <html>Los Angeles Galaxy</html>
+          <wikipedia>Los_Angeles_Galaxy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Clarence Goodson</html>
+          <wikipedia>Clarence_Goodson</wikipedia>
+        </cell>
+        <cell>
+          <html>21</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Springfield, VA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Maryland</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Dallas Burn</html>
+          <wikipedia>Dallas_Burn</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Ned Grabavoy</html>
+          <wikipedia>Ned_Grabavoy</wikipedia>
+        </cell>
+        <cell>
+          <html>20</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>New Lenox, IL</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Indiana</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Los Angeles Galaxy</html>
+          <wikipedia>Los_Angeles_Galaxy</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Chad Marshall</html>
+          <wikipedia>Chad_Marshall</wikipedia>
+        </cell>
+        <cell>
+          <html>19</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>D</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Riverside, CA</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Stanford</html>
+          <wikipedia>Stanford_Cardinal</wikipedia>
+        </cell>
+        <cell>
+          <html>Columbus Crew</html>
+          <wikipedia>Columbus_Crew</wikipedia>
+        </cell>
+      </row>
+      <row>
+        <cell>
+          <html>Danny Szetela</html>
+          <wikipedia>Danny_Szetela</wikipedia>
+        </cell>
+        <cell>
+          <html>16</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>M</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Clifton, NJ</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>US Under-17</html>
+          <wikipedia/>
+        </cell>
+        <cell>
+          <html>Columbus Crew</html>
+          <wikipedia>Columbus_Crew</wikipedia>
+        </cell>
+      </row>
+    </content>
+    <tableContext>
+      <context>
+        <score>1.0</score>
+        <text>Generation Adidas - Wikipedia, the free encyclopedia</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2004</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Generation Adidas</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2005</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2003</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Players</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Project-40 in the A-League</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Notes</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2006</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2007</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Player Age Position Home Town College/prior</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] 2008</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>This list is incomplete ; you can help by expanding it .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>[ edit ] Players</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Contents</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>From 1998 to 2000, MLS entered a team of Project-40 players, supplemented by other MLSers who did not get much playing time, into the A-League in the USL .</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Forward</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Generation adidas players do not count against the MLS senior roster and usually earn a salary not much higher than the league minimum (although in several cases, most notably Freddy Adu , that is not the case). Entering into the program automatically classifies a player as " professional " and thus, disqualifies them from playing college soccer . As a result, Generation adidas players are also guaranteed scholarships to continue their college education should their professional career not pan out.</text>
+      </context>
+      <context>
+        <score>1.0</score>
+        <text>Carlos Parra was the first Project-40 player when he signed with the league and was allocated to the New York/New Jersey MetroStars in 1997 . Since then, the program had its shares of successes ( Tim Howard , Josh Wolff , DaMarcus Beasley , Carlos Bocanegra , Bobby Convey , Eddie Gaven , Michael Bradley , and numerous others) and failures ( Jamar Beasley , Nino Da Silva, Barry Swift, Maurizio Rocha, Judah Cooks, Martin Klinger , Kenny Arena , etc.).</text>
+      </context>
+    </tableContext>
+  </logicalTable>
+</entity>

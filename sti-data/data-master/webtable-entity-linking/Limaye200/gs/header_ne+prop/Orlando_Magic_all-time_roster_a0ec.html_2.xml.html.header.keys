@@ -1,0 +1,6 @@
+1=/sports/sports_team_roster/number
+4=/sports/sports_team_roster/from=/sports/sports_team_roster/to
+0=/basketball/basketball_player	/sports/pro_athlete=/people/person=/sports/drafted_athlete			___NE
+2=/location/country=/base/athletics/athletics_country=/sports/sport_country=/base/aareas/schema/earth/sovereign_state	/location/dated_location=/location/location=/base/aareas/schema/administrative_area=/government/governmental_jurisdiction=/location/statistical_region			___NE
+3=/basketball/basketball_position	/sports/sports_position			___NE
+5=/basketball/basketball_team=/sports/school_sports_team	/sports/sports_team=/business/business_operation=/organization/organization			___NE
