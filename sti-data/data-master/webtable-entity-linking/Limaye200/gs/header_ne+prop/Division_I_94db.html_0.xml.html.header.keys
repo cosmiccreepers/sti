@@ -1,4 +1,0 @@
-2=/organization/organization/date_founded
-0=/basketball/basketball_conference=/basketball/basketball_division	/organization/organization=/business/business_operation=/sports/sports_league			___NE
-1=/basketball/basketball_conference=/basketball/basketball_division	/sports/sports_league=/organization/organizatio=/business/business_operation			___NE
-5=/location/citytown=/base/aareas/schema/earth/citytown	/location/hud_county_place=/location/dated_location=/location/hud_foreclosure_area=/location/location=/location/statistical_region=/sports/sports_team_location=/government/governmental_jurisdiction=/base/aareas/schema/administrative_area=/location/administrative_division=/base/popstra/location=/base/tagit/place=/government/political_district			___NE

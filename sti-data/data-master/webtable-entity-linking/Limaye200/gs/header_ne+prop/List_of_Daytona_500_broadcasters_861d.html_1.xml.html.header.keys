@@ -1,5 +1,0 @@
-1=/tv/tv_network=/broadcast/tv_channel=/broadcast/tv_station	/organization/organization=/business/business_operation=/broadcast/broadcast			___NE
-2=/tv/tv_personality	/people/person			___NE
-3=/base/nascar/nascar_driver	/people/person=/tv/tv_personality			___NE
-4=/tv/tv_personality	/people/person			___NE
-5=/tv/tv_personality	/people/person			___NE

@@ -1,4 +1,0 @@
-0=/film/film=/base/wfilmbase/film	/media_common/creative_work			___NE
-1=/film/film/initial_release_date	/film/film_regional_release_date
-2=/film/director	/people/person=/base/popstra/celebrity			___NE
-3=/film/actor	/people/person=/person_or_entity_appearing_in_film=/base/popstra/celebrity			___NE

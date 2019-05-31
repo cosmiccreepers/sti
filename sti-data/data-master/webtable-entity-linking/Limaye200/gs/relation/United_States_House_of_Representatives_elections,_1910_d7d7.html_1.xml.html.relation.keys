@@ -1,5 +1,0 @@
-1,0;0,1=/government/government_position_held/district_represented=/government/government_position_held/jurisdiction_of_office	/people/place_lived/location
--0,1;1,0=/government/government_position_held/office_holder
-1,2;2,1=/government/political_party_tenure/party=/government/politician/party
--2,1;1,2=/government/political_party_tenure/politician
-1,3=/government/government_position_held/from

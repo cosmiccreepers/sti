@@ -1,5 +1,0 @@
-0=/sports/sports_team	/organization/organization			___NE
-1=/sports/sport	/games/game			___NE
-2=/sports/sports_league	/organization/organization			___NE
-3=/sports/sports_facility/	/architecture/venue=/location/location=/architecture/structure=/architecture/building			___NE
-4=/architecture/venue/capacity

@@ -1,6 +1,0 @@
-2=/organization/organization/date_founded
-0=/education/university	/education/educational_institution=/organization/organization=/education/academic_institution			___NE
-1=/location/citytown=/base/aareas/schema/earth/citytown	/location/location=/location/dated_location=/location/statistical_region=/location/hud_foreclosure_area=/location/hud_county_place=/base/aareas/schema/administrative_area=/government/governmental_jurisdiction=/location/administrative_division=/base/popstra/location=/government/political_district=/base/tagit/place=/base/aareas/schema/us/federal_district=/location/us_federal_district			___NE
-3=/education/school_category	/organization/organization_type			___NE
-7=/sports/school_sports_team	/sports/sports_team=/organization/organization			___NE
-8=/sports/sports_league	/organization/organization			___NE

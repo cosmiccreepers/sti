@@ -1,6 +1,0 @@
-0=/sports/sports_league_draft_pick/pick_overall
-1=/basketball/basketball_player	/people/person=/sports/pro_athlete			___NE
-2=/location/country=/base/athletics/athletics_country=/sports/sport_country=/base/aareas/schema/earth/sovereign_state=/base/locations/countries	/location/dated_location=/location/location=/base/aareas/schema/administrative_area=/government/governmental_jurisdiction=/location/statistical_region=/location/administrative_division=/base/popstra/location=/location/region			___NE
-3=/basketball/basketball_team	/sports/sports_team=/sports/professional_sports_team=/organization/organization			___NE
-4=/basketball/basketball_team	/sports/sports_team=/sports/professional_sports_team=/organization/organization			___NE
-5=/location/country=/base/locations/countries=/base/aareas/schema/earth/sovereign_state=/sports/sports_team=/sports/sport_country=/base/athletics/athletics_country=/education/university	/location/location=/location/dated_location=/organization/organization=/education/educational_institution=/education/academic_institution			___NE

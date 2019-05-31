@@ -1,6 +1,0 @@
-0,1;1,0=/location/location/containedby
--1,0;0,1=/location/location/contains
-0,2;2,0=/location/location/containedby
--2,0;0,2=/location/location/contains
-0,3=/location/dated_location/date_founded
-0,4=/location/statistical_region/population

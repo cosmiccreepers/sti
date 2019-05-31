@@ -1,5 +1,0 @@
-1=/cvg/computer_videogame	/cvg/game_version			___NE
-2=/cvg/cvg_publisher=/games/game_publisher	/business/business_operation=/organization/organization			___NE
-4=/cvg/cvg_platform			___NE
-5=/cvg/cvg_genre=/games/game_genre	/media_common/media_genre			___NE
-3=/cvg/game_version/release_date=/cvg/computer_videogame/release_date

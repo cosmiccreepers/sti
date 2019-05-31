@@ -1,3 +1,0 @@
-0=/award/award_honor/year	/award/award_nomination/year
-1=/film/actor=/award/award_winner	/award/award_nominee=/people/person=/film/person_or_entity_appearing_in_film			___NE
-2=/film/film			___NE

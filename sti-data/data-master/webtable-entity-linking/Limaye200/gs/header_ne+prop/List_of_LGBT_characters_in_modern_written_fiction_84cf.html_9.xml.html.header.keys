@@ -1,3 +1,0 @@
-0=/book/book_character	/fictional_universe/fictional_character			___NE
-1=/book/written_work=/book/book	/fictional_universe/work_of_fiction			___NE
-2=/book/author	/people/person=/fictional_universe/fictional_character_creator			___NE

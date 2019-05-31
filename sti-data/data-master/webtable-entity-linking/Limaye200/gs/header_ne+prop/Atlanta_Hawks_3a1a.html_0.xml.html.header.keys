@@ -1,6 +1,0 @@
-3=/people/person/height_meters
-4=/people/person/weight_kg
-5=/people/person/date_of_birth
-0=/basketball/basketball_position	/sports/sports_position			___NE
-2=/basketball/basketball_player	/sports/pro_athlete=/people/person=/sports/drafted_athlete			___NE
-6=/sports/sports_team=/sports/sports_team_location	/location/location=/location/dated_location=/base/popstra/location=/organization/organization			___NE

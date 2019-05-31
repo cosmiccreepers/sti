@@ -1,4 +1,0 @@
-0=/location/citytown	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/tagit/place=/base/aareas/schema/administrative_area=/base/popstra/location/			___NE
-1=/location/administrative_division=/base/aareas/schema/administrative_area	/location/dated_location=/location/location=/location/statistical_region=/base/tagit/place=/base/popstra/location			___NE
-2=/base/aareas/schema/no/county	/location/dated_location=/location/location=/location/statistical_region=/location/administrative_division=/base/aareas/schema/administrative_area=/base/tagit/place=/base/popstra/location			___NE
-4=/location/statistical_region/population

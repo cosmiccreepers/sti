@@ -1,4 +1,0 @@
-0,3;3,0=/geography/mountain/mountain_range	/location/location/containedby
--3,0;0,3=/location/location/contains
-0,1=/geography/mountain/elevation
-0,2=/geography/mountain/prominence

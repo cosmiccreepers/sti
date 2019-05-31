@@ -1,4 +1,0 @@
-2=/tennis/tennis_player	/sports/pro_athlete=/people/person			___NE
-3=/sports/sport_country=/location/country=/base/aareas/schema/earth/sovereign_state=/sports/sports_team_location=/base/athletics/athletics_country=/base/locations/countries	/location/dated_location=/location/location=/government/governmental_jurisdiction=/location/statistical_region=/base/popstra/location=/location/administrative_division=/base/aareas/schema/administrative_area			___NE
-6=/tennis/tennis_tournament	/time/recurring_event			___NE
-5=/tennis/tennis_player/number_of_tennis_titles
