@@ -19,7 +19,7 @@ import java.util.List;
 public class TAnnotationWriterJSON extends TAnnotationWriter {
     protected Gson gson = new Gson();
 
-    public TAnnotationWriterJSON(TripleGenerator tripleGenerator) {
+    public TAnnotationWriterJSON(TripleGenerator tripleGenerator, String outFolder) {
         super(tripleGenerator);
     }
 

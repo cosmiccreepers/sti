@@ -20,8 +20,8 @@ import java.util.Set;
 public class TableMinerPlusSingle extends TableMinerPlusBatch {
 
 
-    public TableMinerPlusSingle(String propertyFile) throws IOException, STIException {
-        super(propertyFile);
+    public TableMinerPlusSingle(String propertyFile, String outFolder) throws IOException, STIException {
+        super(propertyFile, outFolder);
     }
 
     public void process(String userId,
@@ -143,7 +143,7 @@ public class TableMinerPlusSingle extends TableMinerPlusBatch {
 
         String tableParserClass=args[4];
         String tableIndexes=args[5];
-        TableMinerPlusSingle tmp = new TableMinerPlusSingle(args[6]);
+        TableMinerPlusSingle tmp = new TableMinerPlusSingle(args[6], outFolderStr);
         tmp.process(userId,
                 userEmail,
                 inFileURL,

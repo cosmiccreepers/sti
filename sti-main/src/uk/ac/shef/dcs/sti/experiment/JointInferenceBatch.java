@@ -38,8 +38,8 @@ public class JointInferenceBatch extends STIBatch {
 
     private EmbeddedSolrServer simlarityServer;
 
-    public JointInferenceBatch(String propertyFile) throws IOException, STIException {
-        super(propertyFile);
+    public JointInferenceBatch(String propertyFile, String outFolder) throws IOException, STIException {
+        super(propertyFile, outFolder);
     }
 
     private EmbeddedSolrServer getSolrServerCacheSimilarity() throws STIException {
@@ -148,7 +148,7 @@ public class JointInferenceBatch extends STIBatch {
     public static void main(String[] args) throws IOException, STIException {
         String inFolder = args[0];
         String outFolder = args[1];
-        JointInferenceBatch ji = new JointInferenceBatch(args[2]);
+        JointInferenceBatch ji = new JointInferenceBatch(args[2], outFolder);
 
         int count = 0;
         List<File> all = Arrays.asList(new File(inFolder).listFiles());

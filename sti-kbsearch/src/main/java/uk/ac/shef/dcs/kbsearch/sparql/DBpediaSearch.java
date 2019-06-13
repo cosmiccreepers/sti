@@ -42,7 +42,7 @@ import java.util.*;
 */
 public class DBpediaSearch extends SPARQLSearch {
 
-    private static final boolean ALWAYS_CALL_REMOTE_SEARCHAPI = false;
+    private static final boolean ALWAYS_CALL_REMOTE_SEARCHAPI = true;
     private static final Logger LOG = Logger.getLogger(DBpediaSearch.class.getName());
     private static final boolean AUTO_COMMIT = true;
 
@@ -352,10 +352,15 @@ public class DBpediaSearch extends SPARQLSearch {
 
     @Override
     public List<Attribute> findAttributesOfEntities(Entity ec) throws KBSearchException {
-        return find_attributes(ec.getId(), cacheEntity);
+        String query = "SELECT DISTINCT ?p ?o WHERE {\n" +
+                "<" + ec.getId() + "> ?p ?o .\n" +
+                "FILTER (regex(str(?o), \"^http://dbpedia.org/ontology\",\"i\") " +
+                        "|| regex(str(?o), \"http://dbpedia.org/resource\",\"i\") ) .\n " +
+                "}";
+        return find_attributes(ec.getId(), cacheEntity, query);
     }
 
-    private List<Attribute> find_attributes(String id, SolrCache cache) throws KBSearchException {
+    private List<Attribute> find_attributes(String id, SolrCache cache, String query) throws KBSearchException {
         if (id.length() == 0)
             return new ArrayList<>();
         boolean forceQuery = false;
@@ -372,9 +377,11 @@ public class DBpediaSearch extends SPARQLSearch {
         }
         if (result == null || forceQuery) {
             result = new ArrayList<>();
-            String query = "SELECT DISTINCT ?p ?o WHERE {\n" +
-                    "<" + id + "> ?p ?o .\n" +
-                    "}";
+//            String query = "SELECT DISTINCT ?p ?o WHERE {\n" +
+//                    "<" + id + "> ?p ?o .\n" +
+                    // "?o <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://dbpedia.org/ontology/> .\n" +
+//                    "FILTER (regex(str(?c), \"dbpedia.org/ontology\", \"i\")) .\n" + //REMOVE THIS FOR ENTITIES BUT USE FOR CLASSES
+//                    "}";
 
             Query sparqlQuery = QueryFactory.create(query);
             QueryExecution qexec = QueryExecutionFactory.sparqlService(sparqlEndpoint, sparqlQuery);
@@ -383,9 +390,10 @@ public class DBpediaSearch extends SPARQLSearch {
             while (rs.hasNext()) {
                 QuerySolution qs = rs.next();
                 RDFNode range = qs.get("?p");
-                String r = range.toString();
+                String r = range.toString();  // we shouldn't be using to string?
                 RDFNode domain = qs.get("?o");
-                if (domain != null) {
+                // Class c = domain.getClass();
+                if (domain != null && domain.toString().contains("dbpedia")) {
                     String d = domain.toString();
                     Attribute attr = new DBpediaAttribute(r, d);
                     result.add(attr);
@@ -407,12 +415,23 @@ public class DBpediaSearch extends SPARQLSearch {
 
     @Override
     public List<Attribute> findAttributesOfClazz(String clazzId) throws KBSearchException {
-        return find_attributes(clazzId, cacheEntity);
+        String query = "SELECT DISTINCT ?p ?o WHERE {\n" +
+                "<" + clazzId + "> ?p ?o .\n" +
+                // "?o <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://dbpedia.org/ontology/> .\n" +
+                "FILTER (regex(str(?o), \"^http://dbpedia.org/ontology\", \"i\")" +
+                        "|| regex(str(?o), \"http://dbpedia.org/resource\",\"i\") ) .\n" +
+                "}";
+        return find_attributes(clazzId, cacheEntity, query);
     }
 
     @Override
     public List<Attribute> findAttributesOfProperty(String propertyId) throws KBSearchException {
-        return find_attributes(propertyId, cacheEntity);
+        String query = "SELECT DISTINCT ?p ?o WHERE {\n" +
+                "<" + propertyId + "> ?p ?o .\n" +
+                "FILTER (regex(str(?o), \"^http://dbpedia.org/ontology\", \"i\" ) \n " +
+                        "|| regex(str(?o), \"http://dbpedia.org/resource\",\"i\") ) .\n" +
+                "}";
+        return find_attributes(propertyId, cacheEntity, query);
     }
 
     @Override

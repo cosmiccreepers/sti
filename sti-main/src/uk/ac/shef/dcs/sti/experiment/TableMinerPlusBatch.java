@@ -37,8 +37,8 @@ public class TableMinerPlusBatch extends STIBatch {
     private static final Logger LOG = Logger.getLogger(TableMinerPlusBatch.class.getName());
 
 
-    public TableMinerPlusBatch(String propertyFile) throws IOException, STIException {
-        super(propertyFile);
+    public TableMinerPlusBatch(String propertyFile, String outFolder) throws IOException, STIException {
+        super(propertyFile, outFolder);
     }
 
     //initialise kbsearcher, websearcher
@@ -62,7 +62,6 @@ public class TableMinerPlusBatch extends STIBatch {
         }
 
         //LOG.info("Initializing WebSearcher...");
-
 
         LOG.info("Initializing SUBJECT COLUMN DETECTION components ...");
         SubjectColumnDetector subcolDetector;
@@ -189,7 +188,7 @@ public class TableMinerPlusBatch extends STIBatch {
     public static void main(String[] args) throws IOException, STIException {
         String inFolder = args[0];
         String outFolder = args[1];
-        TableMinerPlusBatch tmp = new TableMinerPlusBatch(args[2]);
+        TableMinerPlusBatch tmp = new TableMinerPlusBatch(args[2], outFolder);
 
         int count = 0;
         List<File> all = Arrays.asList(new File(inFolder).listFiles());

@@ -90,7 +90,8 @@ public abstract class SPARQLSearch extends KBSearch {
         String query = "SELECT DISTINCT ?s ?o WHERE {" +
                 "?s <" + RDFEnum.RELATION_HASLABEL.getString() + "> ?o . \n" +
                 //"?o bif:contains \""+content+"\"}";
-                "FILTER ( regex (str(?o), \"\\\\b" + content + "\\\\b\", \"i\") ) }";
+                "FILTER ( regex (str(?o), \"\\\\b" + content + "\\\\b\", \"i\") +" +
+                "&& (regex(str(?s), \"^http://dbpedia.org/ontology\", \"i\") || regex(str(?s),\"^http://dbpedia.org/resource\",\"i\") ) ) }";
         return query;
     }
 
@@ -106,13 +107,16 @@ public abstract class SPARQLSearch extends KBSearch {
             query.append(".\n");
         }
 
-        query.append("FILTER ( regex (str(?o), \"\\b").append(content).append("\\b\", \"i\") ) }");
+        query.append("FILTER ( regex (str(?o), \"\\b").append(content).append("\\b\", \"i\") && (regex(str(?s), \"^http://dbpedia.org/ontology\", \"i\") || regex(str(?s), \"^http://dbpedia.org/resource\",\"i\") ) }");
         return query.toString();
     }
 
     protected String createExactMatchQueries(String content) {
         String query = "SELECT DISTINCT ?s WHERE {" +
-                "?s <" + RDFEnum.RELATION_HASLABEL.getString() + "> \"" + content + "\"@en . }";
+                "?s <" + RDFEnum.RELATION_HASLABEL.getString() + "> \"" + content + "\"@en .\n" +
+                "FILTER (regex(str(?s), \"^http://dbpedia.org/ontology\", \"i\")  \n" +
+                        "|| regex(str(?s), \"http://dbpedia.org/resource\",\"i\") ) .\n" +
+                "}";
 
         return query;
     }
@@ -120,6 +124,8 @@ public abstract class SPARQLSearch extends KBSearch {
     protected String createExactMatchWithOptionalTypes(String content) {
         String query = "SELECT DISTINCT ?s ?o WHERE {" +
                 "?s <" + RDFEnum.RELATION_HASLABEL.getString() + "> \"" + content + "\"@en . \n" +
+                "FILTER (regex(str(?s), \"^http://dbpedia.org/ontology\", \"i\") \n" +
+                        "|| regex(str(?s), \"http://dbpedia.org/resource\",\"i\") ) .\n" +
                 "OPTIONAL {?s a ?o} }";
 
         return query;
@@ -128,7 +134,10 @@ public abstract class SPARQLSearch extends KBSearch {
     protected String createGetLabelQuery(String content) {
         content = content.replaceAll("\\s+", "");
         String query = "SELECT DISTINCT ?o WHERE {<" +
-                content + "> <" + RDFEnum.RELATION_HASLABEL.getString() + "> ?o . }";
+                content + "> <" + RDFEnum.RELATION_HASLABEL.getString() + "> ?o .\n" +
+                "FILTER (regex(str(?s), \"^http://dbpedia.org/ontology\", \"i\") \n" +
+                "|| regex(str(?s), \"http://dbpedia.org/resource\",\"i\") ) .\n" +
+                "}";
 
         return query;
 

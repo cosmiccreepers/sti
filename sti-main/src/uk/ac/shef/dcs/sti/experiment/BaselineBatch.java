@@ -41,8 +41,8 @@ public class BaselineBatch extends STIBatch {
 
     private static final Logger LOG = Logger.getLogger(BaselineBatch.class.getName());
     private StringMetric stringMetric;
-    public BaselineBatch(String propertyFile) throws IOException, STIException {
-        super(propertyFile);
+    public BaselineBatch(String propertyFile, String outFolder) throws IOException, STIException {
+        super(propertyFile, outFolder);
     }
 
     private TCellDisambiguator getCellDisambiguator() throws STIException, IOException {
@@ -169,7 +169,7 @@ public class BaselineBatch extends STIBatch {
     public static void main(String[] args) throws IOException, STIException {
         String inFolder = args[0];
         String outFolder = args[1];
-        BaselineBatch baseline = new BaselineBatch(args[2]);
+        BaselineBatch baseline = new BaselineBatch(args[2], outFolder);
 
         int count = 0;
         List<File> all = Arrays.asList(new File(inFolder).listFiles());

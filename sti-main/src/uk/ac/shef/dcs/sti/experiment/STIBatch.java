@@ -9,6 +9,7 @@ import uk.ac.shef.dcs.sti.STIException;
 import uk.ac.shef.dcs.kbsearch.KBSearch;
 import uk.ac.shef.dcs.sti.core.algorithm.SemanticTableInterpreter;
 import uk.ac.shef.dcs.sti.io.TAnnotationWriterJSON;
+import uk.ac.shef.dcs.sti.io.TAnnotationWriterSWC18;
 import uk.ac.shef.dcs.sti.util.TripleGenerator;
 import uk.ac.shef.dcs.sti.io.TAnnotationWriter;
 import uk.ac.shef.dcs.sti.core.model.TAnnotation;
@@ -77,14 +78,17 @@ public abstract class STIBatch {
     protected TAnnotationWriter writer;
 
     protected CoreContainer cores;
+
+    protected String outputFolder;
     private EmbeddedSolrServer entityCache;
     private EmbeddedSolrServer conceptCache;
     private EmbeddedSolrServer relationCache;
     private EmbeddedSolrServer websearchCache;
 
-    public STIBatch(String propertyFile) throws IOException, STIException {
+    public STIBatch(String propertyFile, String outFolder) throws IOException, STIException {
         properties = new Properties();
         properties.load(new FileInputStream(propertyFile));
+        outputFolder = outFolder;
         initComponents();
         /*writer = new TAnnotationWriter(new TripleGenerator(
                 properties.getProperty(PROPERTY_OUTPUT_TRIPLE_KB_NAMESPACE), properties.getProperty(PROPERTY_OUTPUT_TRIPLE_DEFAULT_NAMESPACE)
@@ -253,9 +257,10 @@ public abstract class STIBatch {
             /*writer = new TAnnotationWriter(
                     new TripleGenerator(properties.getProperty(PROPERTY_OUTPUT_TRIPLE_KB_NAMESPACE),
                             properties.getProperty(PROPERTY_OUTPUT_TRIPLE_DEFAULT_NAMESPACE)));*/
-            writer = new TAnnotationWriterJSON(
+            // change as needed
+            writer = new TAnnotationWriterSWC18(
                     new TripleGenerator(properties.getProperty(PROPERTY_OUTPUT_TRIPLE_KB_NAMESPACE),
-                            properties.getProperty(PROPERTY_OUTPUT_TRIPLE_DEFAULT_NAMESPACE)));
+                            properties.getProperty(PROPERTY_OUTPUT_TRIPLE_DEFAULT_NAMESPACE)), outputFolder);
         }
         return writer;
     }

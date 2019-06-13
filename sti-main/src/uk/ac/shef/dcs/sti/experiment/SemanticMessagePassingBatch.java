@@ -36,8 +36,8 @@ public class SemanticMessagePassingBatch extends STIBatch {
     private static final String PROPERTY_SMP_CLAZZ_SPECIFICITY_CALCULATOR = "sti.smp.clazzspecificitycalculator";
     private static final String PROPER_SMP_CHANGE_MESSAGE_SCORE_THRESHOLD = "sti.smp.changemessage.minscore";
 
-    public SemanticMessagePassingBatch(String propertyFile) throws IOException, STIException {
-        super(propertyFile);
+    public SemanticMessagePassingBatch(String propertyFile, String outFolder) throws IOException, STIException {
+        super(propertyFile, outFolder);
         writer =
                 new TAnnotationWriterSMP(
                         new TripleGenerator(
@@ -143,7 +143,7 @@ public class SemanticMessagePassingBatch extends STIBatch {
     public static void main(String[] args) throws IOException, STIException {
         String inFolder = args[0];
         String outFolder = args[1];
-        SemanticMessagePassingBatch smp = new SemanticMessagePassingBatch(args[2]);
+        SemanticMessagePassingBatch smp = new SemanticMessagePassingBatch(args[2], outFolder);
 
         int count = 0;
         List<File> all = Arrays.asList(new File(inFolder).listFiles());
